@@ -22,6 +22,22 @@ app.get('/up', async (req, res) => {
   res.send('Server up!')
 })
 
+app.post('/event', async (req, res) => {
+  const { title, description, authorEmail } = req.body
+  const result = await prisma.event.create({
+      data: {
+        title,
+        description,
+        author: { 
+          connect: { 
+            email: authorEmail 
+          } 
+        }
+      }
+  })
+  res.json(result)
+})
+
 app.get('/event/:id', async (req, res) => {
   const { id } = req.params
   const event = await prisma.event.findUnique({ 
