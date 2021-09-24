@@ -16,6 +16,16 @@ app.get('/events', async (req, res) => {
   res.json(events)
 })
 
+app.get('/event/:id', async (req, res) => {
+  const { id } = req.params
+  const event = await prisma.event.findUnique({ 
+    where: { 
+      id: Number(id), 
+    }
+  })
+  res.json(event)
+})
+
 app.listen(port, () => {
   console.log(`App listening at localhost:${port}`)
 })
