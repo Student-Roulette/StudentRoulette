@@ -1,10 +1,12 @@
 import { Prisma, PrismaClient } from '@prisma/client'
 import express from 'express'
+import morgan from 'morgan'
 
 const app = express()
 const prisma = new PrismaClient()
 const port = 3000
 
+app.use(morgan('dev'))
 app.use(express.json())
 
 app.get('/', (req, res) => {
@@ -14,6 +16,10 @@ app.get('/', (req, res) => {
 app.get('/events', async (req, res) => {
   const events = await prisma.event.findMany()
   res.json(events)
+})
+
+app.get('/up', async (req, res) => {
+  res.send('Server up!')
 })
 
 app.get('/event/:id', async (req, res) => {
