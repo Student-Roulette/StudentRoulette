@@ -18,7 +18,8 @@ export default function TabOneScreen({ navigation }: RootTabScreenProps<'TabOne'
 
   const getEvents = async () => {
     try {
-      const response = await fetch('localhost:3000/events/', {
+      // TODO(Sasha): deal with CORS headers
+      const response = await fetch('http://localhost:3000/events/', {
         method: 'GET',
         headers: {
           Accept: 'application/json',
