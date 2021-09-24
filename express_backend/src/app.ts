@@ -23,14 +23,15 @@ app.get('/up', async (req, res) => {
 })
 
 app.post('/event', async (req, res) => {
-  const { title, description, authorEmail } = req.body
+  console.log(req.body)
+  const { title, description, email } = req.body
   const result = await prisma.event.create({
       data: {
         title,
         description,
         author: { 
           connect: { 
-            email: authorEmail 
+            email: email
           } 
         }
       }
