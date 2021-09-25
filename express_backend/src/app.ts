@@ -12,7 +12,7 @@ if (envFound.error) {
 
 const app = express()
 const prisma = new PrismaClient()
-const port = env(port)
+const port = process.env.PORT || 3000
 
 app.use(morgan('dev'))
 app.use(express.json())
