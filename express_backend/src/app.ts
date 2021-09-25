@@ -4,7 +4,7 @@ import cors from 'cors'
 import morgan from 'morgan'
 import dotenv from 'dotenv'
 
-const envFound = dotenv.config({ path: '.devcontainer/.env' });
+const envFound = dotenv.config({ path: '.env' });
 
 if (envFound.error) {
   throw new Error('.env file not found');
