@@ -34,8 +34,14 @@
 
 	"portsAttributes": {
 		"3000": {
-			"label": "Hello Remote World",
+			"label": "Express Server",
 			"onAutoForward": "notify"
+		},
+		"5432": {
+			"label": "PostgreSQL",
+		},
+		"5555": {
+			"label": "Prisma Studio",
 		}
 	},
 
