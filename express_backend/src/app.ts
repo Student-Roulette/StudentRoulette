@@ -1,5 +1,6 @@
 import { Prisma, PrismaClient } from '@prisma/client'
 import express from 'express'
+import cors from 'cors'
 import morgan from 'morgan'
 
 const app = express()
@@ -8,6 +9,7 @@ const port = 3000
 
 app.use(morgan('dev'))
 app.use(express.json())
+app.use(cors())
 
 app.get('/', (req, res) => {
   res.send('Hello Social Coding!')

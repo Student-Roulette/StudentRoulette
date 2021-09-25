@@ -27,11 +27,12 @@ export default function TabOneScreen({ navigation }: RootTabScreenProps<'TabOne'
         },
       })
       const json = await response.json();
-      setData(json.events);
+      setData(json);
     } catch(error) {
       console.error(error)
     } finally {
       setLoading(false)
+      console.log(data);
     }
   };
 
@@ -49,7 +50,10 @@ export default function TabOneScreen({ navigation }: RootTabScreenProps<'TabOne'
           data={data}
           keyExtractor={({id}, index) => id.toString()}
           renderItem={({ item }) => (
-            <Text>{item.title}, {item.description}</Text>
+            <Text>
+              <Text style={{fontWeight: "bold"}}> {item.title}: </Text>
+              <Text> {item.description}</Text>
+            </Text>
           )}
         />
       )}
