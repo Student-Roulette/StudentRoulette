@@ -1,8 +1,10 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
 // https://github.com/microsoft/vscode-dev-containers/tree/v0.187.0/containers/typescript-node
 {
-	"name": "Express Backend",
+	"name": "Express Backend (Node, PostgreSQL)",
 	"dockerComposeFile": "docker-compose.yml",
+	"service": "app",
+	"workspaceFolder": "/workspace",
 
 	// Set *default* container specific settings.json values on container create.
 	"settings": {
@@ -28,7 +30,7 @@
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// TODO: figure out how to use .env PORT value
-	"forwardPorts": [3000],
+	"forwardPorts": [3000, 5432],
 
 	"portsAttributes": {
 		"3000": {
