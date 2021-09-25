@@ -40,8 +40,10 @@
 	},
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "npm install",
+	// TODO: this might need an `npx prisma generate`
+	"postCreateCommand": "npm install && npx prisma migrate dev --name init",
 
 	// Comment out connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
-	"remoteUser": "vs"
+	// TODO: stop ignoring this problem (non-sudo user)
+	//"remoteUser": "vscode"
 }

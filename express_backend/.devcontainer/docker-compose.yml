@@ -6,7 +6,7 @@ services:
       args:
         # Append -bullseye or -buster to pin to an OS version.
         # Use -bullseye variants on local arm64/Apple Silicon.
-        VARIANT: 3-bullseye
+        VARIANT: 16-bullseye
         # Optional Node.js version to install
         NODE_VERSION: "lts/*"
 
