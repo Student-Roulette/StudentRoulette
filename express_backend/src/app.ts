@@ -2,10 +2,17 @@ import { Prisma, PrismaClient } from '@prisma/client'
 import express from 'express'
 import cors from 'cors'
 import morgan from 'morgan'
+import dotenv from 'dotenv'
+
+const envFound = dotenv.config();
+
+if (envFound.error) {
+  throw new Error('.env file not found');
+}
 
 const app = express()
 const prisma = new PrismaClient()
-const port = 3000
+const port = env(port)
 
 app.use(morgan('dev'))
 app.use(express.json())
