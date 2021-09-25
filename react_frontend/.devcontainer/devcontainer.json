@@ -21,11 +21,23 @@
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
-	"forwardPorts": [19000,19001,19002,19003,19004,19005,19006,19007],
+	"forwardPorts": [19000,19001,19002,19003,19004,19005,19006],
+
+	"portsAttributes": {
+		"19000": {
+			"label": "Metro Bundler",
+		},
+		"19002": {
+			"label": "Expo Developer Tools",
+		},
+		"19006": {
+			"label": "Web Demo"
+		},
+	},
 
 	// Use 'postCreateCommand' to run commands after the container is created.
 	"postCreateCommand": "npm install && npm install --global expo-cli",
 
 	// Comment out connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
-	"remoteUser": "node"
+	"remoteUser": "node" 
 }
