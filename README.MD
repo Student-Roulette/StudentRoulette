@@ -27,4 +27,7 @@ DB_PORT=5432
 
 6. Click the icon in the bottom left and select `Reopen in Container`.
 
+## Sexy Diagram
+
+![Visualization of the codebase](./diagram.svg)
 
