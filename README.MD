@@ -27,7 +27,7 @@ DB_PORT=5432
 
 6. Click the icon in the bottom left and select `Reopen in Container`.
 7. Open `express-backend` in VSC.
-8. Open the terminal and run `npx prisma seed`
+8. Open the terminal and run `npx prisma db seed`
 
 ## Sexy Diagram
 
