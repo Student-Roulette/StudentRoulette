@@ -1,64 +1,10 @@
 // TODO: rewrite with Faker
 import { PrismaClient, Prisma } from '@prisma/client'
+import { faker } from 'faker'
 
 const prisma = new PrismaClient()
 
-const userData: Prisma.UserCreateInput[] = [
-	{
-		email: "hydri001@umn.edu",
-		name: "Sasha Hydrie"
-	},
-	{
-		email: "ocon0574@umn.edu",
-		name: "Magnus O'Connor"
-	}
-]
-const eventData: Prisma.EventCreateInput[] = [
-	{
-		title: 'Event 1',
-		description: 'This is filler event 1',
-		author: { 
-			connect: { 
-				email: "hydri001@umn.edu"
-			} 
-		}
-	},
-	{
-		title: 'Event 2',
-		description: 'This is filler event 2',
-		author: { 
-			connect: { 
-				email: "hydri001@umn.edu"
-			} 
-		}
-	},
-	{
-		title: 'Event 3',
-		description: 'This is filler event 3',
-		author: { 
-			connect: { 
-				email: "hydri001@umn.edu"
-			} 
-		}
-	},
-	{
-		title: 'Event 4',
-		description: 'This is filler event 4',
-		author: { 
-			connect: { 
-				email: "hydri001@umn.edu"
-			} 
-		}
-	},
-	{
-		title: 'Event 5',
-		description: 'This is filler event 5',
-		author: { 
-			connect: { 
-				email: "hydri001@umn.edu"
-			} 
-		}
-	},
+const tagData: Prisma.TagCreateInput[] = [
 	{
 		title: 'Running Club',
 		description: 'This is an event created by Magnus.',
@@ -70,23 +16,30 @@ const eventData: Prisma.EventCreateInput[] = [
 	},
 ]
 
+const attractionData: Prisma.AttractionCreateInput[] = [
+	{
+		email: "hydri001@umn.edu",
+		name: "Sasha Hydrie"
+	},
+]
+
 async function main() {
-	console.log(`Seeding users...`)
-	for (const u of userData) {
-		const user = await prisma.user.create({
-		data: u,
+	console.log(`Seeding tags...`)
+	for (const t of tagData) {
+		const tag = await prisma.tag.create({
+		data: t,
 		})
-		console.log(`Created event with id: ${user.id}`)
+		console.log(`Created tag with id: ${tag.id}`)
 	}
-	console.log(`Seeded users.`)
-	console.log(`Seeding events...`)
-	for (const e of eventData) {
-		const event = await prisma.event.create({
-		data: e,
+	console.log(`Seeded tags.`)
+	console.log(`Seeding attractions...`)
+	for (const a of attractionData) {
+		const attraction = await prisma.attraction.create({
+		data: a,
 		})
-		console.log(`Created event with id: ${event.id}`)
+		console.log(`Created attraction with id: ${attraction.id}`)
 	}
-	console.log(`Seeded events.`)
+	console.log(`Seeded attractions.`)
 	console.log(`Seeding finished.`)
 }
 
