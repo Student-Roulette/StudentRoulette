@@ -12,12 +12,12 @@ generator client {
 }
 
 model Tag {
-  id           Int          @id @default(autoincrement())
-  name         String
-  parentId     Int?
-  parent       Tag?         @relation("Parent", fields: [parentId], references: [id])
-  children     Tag[]        @relation("Parent")
-  attractions  Attraction[] @relation("AttractionTags")
+  id          Int          @id @default(autoincrement())
+  name        String
+  parentId    Int?
+  parent      Tag?         @relation("Parent", fields: [parentId], references: [id])
+  children    Tag[]        @relation("Parent")
+  attractions Attraction[] @relation("AttractionTags")
 }
 
 model Attraction {
@@ -29,7 +29,7 @@ model Attraction {
   startTime   DateTime
   endTime     DateTime
   tags        Tag[]    @relation("AttractionTags")
-   
+
 }
 
 //model Event {
