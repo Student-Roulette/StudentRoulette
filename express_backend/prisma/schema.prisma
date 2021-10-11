@@ -11,23 +11,6 @@ generator client {
   binaryTargets = ["native"]
 }
 
-//model Event {
-//  id          Int      @id @default(autoincrement())
-//  createdAt   DateTime @default(now())
-//  updatedAt   DateTime @updatedAt
-//  title       String   @db.VarChar(255)
-//  description String?
-//  author      User     @relation(fields: [authorId], references: [id])
-//  authorId    Int
-//}
-//
-//model User {
-//  id     Int     @id @default(autoincrement())
-//  email  String  @unique
-//  name   String?
-//  events Event[]
-//}
-
 model Tag {
   id           Int          @id @default(autoincrement())
   name         String
@@ -48,3 +31,20 @@ model Attraction {
   tags        Tag[]    @relation("AttractionTags")
    
 }
+
+//model Event {
+//  id          Int      @id @default(autoincrement())
+//  createdAt   DateTime @default(now())
+//  updatedAt   DateTime @updatedAt
+//  title       String   @db.VarChar(255)
+//  description String?
+//  author      User     @relation(fields: [authorId], references: [id])
+//  authorId    Int
+//}
+//
+//model User {
+//  id     Int     @id @default(autoincrement())
+//  email  String  @unique
+//  name   String?
+//  events Event[]
+//}
