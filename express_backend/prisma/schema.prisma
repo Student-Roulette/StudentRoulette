@@ -29,11 +29,12 @@ model User {
 }
 
 model Tag {
-  id           Int         @id @default(autoincrement())
+  id           Int          @id @default(autoincrement())
   name         String
   parentId     Int?
-  parent       Tag?        @relation("Parent", fields: [parentId], references: [id])
-  children     Tag[]       @relation("Parent")
+  parent       Tag?         @relation("Parent", fields: [parentId], references: [id])
+  children     Tag[]        @relation("Parent")
+  attractions  Attraction[] @relation("AttractionTags")
 }
 
 model Attraction {
@@ -44,5 +45,6 @@ model Attraction {
   description String?
   startTime   DateTime
   endTime     DateTime
-  tags        Tag[]
+  tags        Tag[]    @relation("AttractionTags")
+   
 }
