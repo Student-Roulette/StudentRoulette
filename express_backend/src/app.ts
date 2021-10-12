@@ -23,8 +23,8 @@ app.get('/', (req, res) => {
 })
 
 app.get('/events', async (req, res) => {
-  const events = await prisma.event.findMany()
-  res.json(events)
+  const attractions = await prisma.attraction.findMany()
+  res.json(attractions)
 })
 
 app.get('/up', async (req, res) => {
@@ -33,16 +33,13 @@ app.get('/up', async (req, res) => {
 
 app.post('/event', async (req, res) => {
   console.log(req.body)
-  const { title, description, email } = req.body
-  const result = await prisma.event.create({
+  const { name, description, startTime, endTime } = req.body
+  const result = await prisma.attraction.create({
       data: {
-        title,
+        name,
         description,
-        author: { 
-          connect: { 
-            email: email
-          } 
-        }
+        startTime,
+        endTime,
       }
   })
   res.json(result)
@@ -50,7 +47,7 @@ app.post('/event', async (req, res) => {
 
 app.get('/event/:id', async (req, res) => {
   const { id } = req.params
-  const event = await prisma.event.findUnique({ 
+  const event = await prisma.attraction.findUnique({ 
     where: { 
       id: Number(id), 
     }
