@@ -1,41 +1,37 @@
 // TODO: rewrite with Faker
 import { PrismaClient, Prisma } from '@prisma/client'
-import { faker } from 'faker'
+import * as faker from 'faker'
 
 const prisma = new PrismaClient()
 
-const tagData: Prisma.TagCreateInput[] = [
-	{
-		title: 'Running Club',
-		description: 'This is an event created by Magnus.',
-		author: { 
-			connect: { 
-				email: "ocon0574@umn.edu"
-			} 
-		}
-	},
-]
+function generateTag() {
+	return {
+		name: faker.commerce.color(),
+	}	
+}
 
-const attractionData: Prisma.AttractionCreateInput[] = [
-	{
-		email: "hydri001@umn.edu",
-		name: "Sasha Hydrie"
-	},
-]
+function generateAttraction() {
+	return {
+		name: faker.company.companyName(),
+		startTime: faker.date.future(),
+		endTime: faker.date.future(),
+	}
+
+}
 
 async function main() {
 	console.log(`Seeding tags...`)
-	for (const t of tagData) {
+	for (let i = 0; i < 10; i++) {
 		const tag = await prisma.tag.create({
-		data: t,
+		data: generateTag(),
 		})
 		console.log(`Created tag with id: ${tag.id}`)
 	}
 	console.log(`Seeded tags.`)
 	console.log(`Seeding attractions...`)
-	for (const a of attractionData) {
+	for (let i = 0; i < 50; i++) {
 		const attraction = await prisma.attraction.create({
-		data: a,
+		data: generateAttraction(),
 		})
 		console.log(`Created attraction with id: ${attraction.id}`)
 	}
