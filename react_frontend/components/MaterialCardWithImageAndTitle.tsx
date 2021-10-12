@@ -1,13 +1,30 @@
 import React, { Component } from "react";
 import { StyleSheet, View, Text, Image, TouchableOpacity } from "react-native";
 
-function MaterialCardWithImageAndTitle(props) {
+function MaterialCardWithImageAndTitle(props : any) {
+
+  const getTimeString = (hours: number, minutes: number): string => {
+    let tmpDate: Date = new Date();
+
+    if (hours !== undefined) {
+      tmpDate.setHours(hours, minutes);
+    }
+
+    let curPeriod = tmpDate.getHours() > 12 ? "PM" : "AM";
+
+    if (props.handleTimeChange !== undefined) {
+      props.handleTimeChange(props.text, tmpDate);
+    }
+
+    return `${tmpDate.getHours() > 12 ? tmpDate.getHours() - 12 : tmpDate.getHours()}:${String(tmpDate.getMinutes()).padStart(2, '0')} ${curPeriod}`;
+  }
+
   return (
     <View style={[styles.container, props.style]}>
       <View style={styles.cardBody}>
         <View style={styles.bodyContent}>
-          <Text style={styles.titleOfEvent}>Title of Event</Text>
-          <Text style={styles.hoursStartEnd}>Hours - START - END</Text>
+          <Text style={styles.titleOfEvent}>{props.title}</Text>
+          <Text style={styles.hoursStartEnd}>Hours: {getTimeString(props.startTime.hours, props.startTime.minutes)} - {getTimeString(props.endTime.hours, props.endTime.minutes)}</Text>
         </View>
         <Image
           source={require("../assets/images/cardImage.png")}
