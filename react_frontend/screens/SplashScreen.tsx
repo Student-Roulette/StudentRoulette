@@ -12,7 +12,7 @@ function SplashScreen(props: any) {
         onPress={() => props.navigation.navigate('Search')}
         text="SEARCH"
         icon="shopping-search"
-      />     
+      /> 
     </View>
   );
 }
