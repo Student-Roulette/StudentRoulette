@@ -17,8 +17,10 @@ class Attraction {
     tags: Tag[];
 }
 
+let attractionList: Array<Attraction>;
+
 function pullFromMaps() {
-    
+
 }
 
 function pushToDB() {
