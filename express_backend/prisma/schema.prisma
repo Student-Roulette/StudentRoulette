@@ -7,23 +7,46 @@ datasource db {
 }
 
 generator client {
-  provider = "prisma-client-js"
-  binaryTargets = ["native"]      
+  provider      = "prisma-client-js"
+  binaryTargets = ["native"]
 }
 
-model Event {
+model Tag {
+  id          Int          @id @default(autoincrement())
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  name        String
+  parentId    Int?
+  parent      Tag?         @relation("Parent", fields: [parentId], references: [id])
+  children    Tag[]        @relation("Parent")
+  attractions Attraction[] @relation("AttractionTags")
+}
+
+model Attraction {
   id          Int      @id @default(autoincrement())
   createdAt   DateTime @default(now())
   updatedAt   DateTime @updatedAt
-  title       String   @db.VarChar(255)
+  name        String   @db.VarChar(255)
   description String?
-  author      User     @relation(fields: [authorId], references: [id])
-  authorId    Int
+  startTime   DateTime
+  endTime     DateTime
+  tags        Tag[]    @relation("AttractionTags")
+
 }
 
-model User {
-  id      Int      @id @default(autoincrement())
-  email   String   @unique
-  name    String?
-  events  Event[]
-}
+//model Event {
+//  id          Int      @id @default(autoincrement())
+//  createdAt   DateTime @default(now())
+//  updatedAt   DateTime @updatedAt
+//  title       String   @db.VarChar(255)
+//  description String?
+//  author      User     @relation(fields: [authorId], references: [id])
+//  authorId    Int
+//}
+//
+//model User {
+//  id     Int     @id @default(autoincrement())
+//  email  String  @unique
+//  name   String?
+//  events Event[]
+//}
