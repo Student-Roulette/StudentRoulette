@@ -4,11 +4,32 @@ import cors from 'cors'
 import morgan from 'morgan'
 import dotenv from 'dotenv'
 import cron from 'node-cron'
+import https from 'https'
 
 const DAILY = "0 1 * * *";
 
-cron.schedule(DAILY, function() {
-  
+const options = {
+  hostname: 'api.presence.io',
+  //port: 443,
+  path: '/twin-cities-umn/v1/events',
+  method: 'GET'
+}
+
+const scrape_events = () => {
+  const req = https.request(options, (res) => {
+    res.on('data', (d) => {
+      process.stdout.write(d)
+    })
+  });
+  req.on('error', error => {
+    console.error(error)
+  });
+  req.end();
+};
+
+
+cron.schedule(DAILY, () => {
+  console.log("Daily!")  
 })
 
 const envFound = dotenv.config();
@@ -17,6 +38,7 @@ if (envFound.error) {
   throw new Error('.env file not found');
 }
 
+//scrape_events();
 const app = express()
 const prisma = new PrismaClient()
 const port = process.env.PORT 
