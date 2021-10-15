@@ -17,8 +17,18 @@ const options = {
 
 const scrape_events = () => {
   const req = https.request(options, (res) => {
-    res.on('data', (d) => {
-      process.stdout.write(d)
+    res.on('data', (events) => {
+      events.forEach((event) => {
+        prisma.attraction.create({
+          data: {
+            name: event.eventName,
+            description: event.description,
+            startTime: events.startDateTimeUtc, 
+            endTime: events.endDateTimeUtc,
+            presenceId: events.eventNoSqlId,
+          }
+        })
+      });
     })
   });
   req.on('error', error => {
