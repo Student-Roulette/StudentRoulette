@@ -3,6 +3,13 @@ import express from 'express'
 import cors from 'cors'
 import morgan from 'morgan'
 import dotenv from 'dotenv'
+import cron from 'node-cron'
+
+const DAILY = "0 1 * * *";
+
+cron.schedule(DAILY, function() {
+  
+})
 
 const envFound = dotenv.config();
 
