@@ -74,6 +74,7 @@ const styles = StyleSheet.create({
     alignSelf: "center"
   },
   searchButtonStyle: {
+    backgroundColor: "rgb(144,0,33)",
     marginTop: 27,
     alignSelf: "center"
   },

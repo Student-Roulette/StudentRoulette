@@ -21,10 +21,11 @@ const styles = StyleSheet.create({
   welcome: {
     color: "#121212",
     textAlign: "center",
-    fontSize: 24,
+    fontSize: 34,
     marginTop: 96
   },
   searchButtonStyle: {
+    backgroundColor: "rgb(144,0,33)",
     marginTop: 27,
     fontSize: 20,
     alignSelf:"center"
