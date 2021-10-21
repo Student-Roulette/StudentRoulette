@@ -3,7 +3,7 @@ import { StyleSheet, View } from "react-native";
 import MaterialButton from "../components/MaterialButton";
 import TimePicker from "../components/TimePicker";
 import { Picker } from "@react-native-picker/picker";
-import GetEvents from "../components/ApiCalls";
+import GetAttractions from "../components/ApiCalls";
 
 function Search(props: any) {
   const [startTime, setStartTime] = React.useState(new Date());
@@ -28,7 +28,7 @@ function Search(props: any) {
   }
 
   const handleSearchStart = async () =>{    
-    let events = await GetEvents();
+    let events : Attraction[] = await GetAttractions();
     
     props.navigation.navigate('Results',{results: [
       { title: "test1", startTime: {hours: startTime.getHours(), minutes:startTime.getMinutes()}, endTime: {hours: endTime.getHours(), minutes:endTime.getMinutes()}, tags: [{ name: "test" }] },
