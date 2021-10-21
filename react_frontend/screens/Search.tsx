@@ -27,10 +27,9 @@ function Search(props: any) {
     }
   }
 
-  const handleSearchStart = async () =>{
-
-    // let events = await GetEvents();
-    // console.log(events);
+  const handleSearchStart = async () =>{    
+    let events = await GetEvents();
+    
     props.navigation.navigate('Results',{results: [
       { title: "test1", startTime: {hours: startTime.getHours(), minutes:startTime.getMinutes()}, endTime: {hours: endTime.getHours(), minutes:endTime.getMinutes()}, tags: [{ name: "test" }] },
       { title: "test2", startTime: {hours: 5, minutes:15}, endTime: {hours: 15, minutes:45}, tags: [{ name: "test" }] }

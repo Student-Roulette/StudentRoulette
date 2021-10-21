@@ -9,8 +9,9 @@ const GetEvents = async () => {
                 'Content-Type': 'application/json',
             },
         })
-        const json = await response.json();
-        return JSON.parse(json);
+        return await response.json();
+       // const json = await response.json();       
+       // return JSON.parse();
     } catch (error) {
         console.error(error)
     }
