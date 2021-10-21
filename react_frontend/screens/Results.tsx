@@ -5,7 +5,6 @@ import MaterialCardWithImageAndTitle from "../components/MaterialCardWithImageAn
 function Results(props: any) { // { results: [{ title: string, startTime: number, endTime: number, tags: [{ name: string }] }] }
 
   return (
-
     <View style={styles.container}>      
       {props.route.params.results.map((result: any) =>
         <MaterialCardWithImageAndTitle
