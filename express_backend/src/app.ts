@@ -11,28 +11,6 @@ import axios from 'axios'
 const DAILY = "0 1 * * *";
 const MINUTELY = "* * * * *";
 
-const scrape_events = async () => {
-  axios.get('https://api.presence.io/twin-cities-umn/v1/events')
-  .then((res) => {
-    const events = res.data;
-    if (Array.isArray(events)) {
-      events.forEach(async (event) => {
-        console.log(`Adding event with name: ${event.eventName}`);
-        const attraction = await prisma.attraction.create({
-          data: {
-            name: event.eventName,
-            description: event.description,
-            startTime: event.startDateTimeUtc, 
-            endTime: event.endDateTimeUtc,
-            presenceId: event.eventNoSqlId,
-          }
-        });
-        console.log(`Created attraction with name: ${attraction.name}`)
-    })
-  }
-  });
-};
-
 cron.schedule(MINUTELY, () => {
   console.log("Daily!")  
 })
@@ -47,7 +25,6 @@ if (envFound.error) {
 const app = express()
 const prisma = new PrismaClient()
 const port = process.env.PORT 
-scrape_events();
 
 app.use(morgan('dev'))
 app.use(express.json())
