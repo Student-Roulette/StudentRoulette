@@ -11,13 +11,6 @@ import axios from 'axios'
 const DAILY = "0 1 * * *";
 const MINUTELY = "* * * * *";
 
-const options = {
-  hostname: 'api.presence.io',
-  //port: 443,
-  path: '/twin-cities-umn/v1/events',
-  method: 'GET'
-}
-
 const scrape_events = async () => {
   axios.get('https://api.presence.io/twin-cities-umn/v1/events')
   .then((res) => {
