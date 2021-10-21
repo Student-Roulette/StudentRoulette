@@ -4,7 +4,7 @@ import cors from 'cors'
 import morgan from 'morgan'
 import dotenv from 'dotenv'
 import cron from 'node-cron'
-import https from 'https'
+import axios from 'axios'
 
 // Cron pattern to run daily
 // (don't worry about it)
@@ -20,20 +20,20 @@ const options = {
 
 const scrape_events = async () => {
   const req = https.request(options, (res) => {
-    console.log("Requesting!")
+    console.log(res);
     res.on('data', (events) => {
       events.forEach(async (event) => {
-        console.log(`Adding event with name: ${event.eventName}`);
+        //console.log(`Adding event with name: ${event.eventName}`);
         const attraction = await prisma.attraction.create({
           data: {
             name: event.eventName,
             description: event.description,
-            startTime: events.startDateTimeUtc, 
-            endTime: events.endDateTimeUtc,
-            presenceId: events.eventNoSqlId,
+            startTime: event.startDateTimeUtc, 
+            endTime: event.endDateTimeUtc,
+            presenceId: event.eventNoSqlId,
           }
         });
-        console.log(`Created attraction with id: ${attraction.name}`)
+        //console.log(`Created attraction with id: ${attraction.name}`)
       });
     })
   });
