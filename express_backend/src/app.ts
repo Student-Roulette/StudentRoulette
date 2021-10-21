@@ -6,7 +6,10 @@ import dotenv from 'dotenv'
 import cron from 'node-cron'
 import https from 'https'
 
+// Cron pattern to run daily
+// (don't worry about it)
 const DAILY = "0 1 * * *";
+const MINUTELY = "* * * * *";
 
 const options = {
   hostname: 'api.presence.io',
@@ -15,11 +18,13 @@ const options = {
   method: 'GET'
 }
 
-const scrape_events = () => {
+const scrape_events = async () => {
   const req = https.request(options, (res) => {
+    console.log("Requesting!")
     res.on('data', (events) => {
-      events.forEach((event) => {
-        prisma.attraction.create({
+      events.forEach(async (event) => {
+        console.log(`Adding event with name: ${event.eventName}`);
+        const attraction = await prisma.attraction.create({
           data: {
             name: event.eventName,
             description: event.description,
@@ -27,7 +32,8 @@ const scrape_events = () => {
             endTime: events.endDateTimeUtc,
             presenceId: events.eventNoSqlId,
           }
-        })
+        });
+        console.log(`Created attraction with id: ${attraction.name}`)
       });
     })
   });
@@ -37,8 +43,7 @@ const scrape_events = () => {
   req.end();
 };
 
-
-cron.schedule(DAILY, () => {
+cron.schedule(MINUTELY, () => {
   console.log("Daily!")  
 })
 
@@ -52,6 +57,7 @@ if (envFound.error) {
 const app = express()
 const prisma = new PrismaClient()
 const port = process.env.PORT 
+scrape_events();
 
 app.use(morgan('dev'))
 app.use(express.json())
