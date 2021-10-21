@@ -1,0 +1,934 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEDLOp8H06QTGaQkPRjBVRbZCWMkFcFzNaFqdQQ0r0CW3qoGPhZnnHwLJx-JcR-fWdWs5NQXCLW8pSaYxSK5Pcoa_WXxQHq77sSZClv4Z3eqUkMJXrBwKWr7SDePs8JIWCN-5XL7Ej7c40vLyKy1M91Psi2H43DXCK59LAfyQKNANADA1pO02by3jdKwSv381dKQhR4xz4NqUYw3Foo5vwml__X1HWPU9jQgyvYZ3HMmGV53BE3rdkcPrMPcPjXOwHytCFoVLgITg_eZDV9q0-QBuvhJfmEcBA5V5zUjcW6aVglUks4ljJ11Tf4K_p19fA-NIrhSO2a2rg36uZTCThI5EsCUe9ZBIV6hEwM8QhIV_X54x-OiGXX9wATAFMbxDGTcpikDDMbAmMpr0uqmCLWE25iEUXauHi2T9jc-oo00pU4R4j2TPDC3Xv0",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.980287,
+               "lng" : -93.23623599999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9815827802915,
+                  "lng" : -93.23478676970849
+               },
+               "southwest" : {
+                  "lat" : 44.9788848197085,
+                  "lng" : -93.2374847302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "The Refinery",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116019142133569015288\"\u003eMoto Guzzi Vrm\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEARo_702_ECQRBUWwfltEzsJ6COcp-JJKRWm8KM3QV58RuN4L_97cHfG2E4QvsLebIcK_C5QTPnJfkv0v9tGUFL982nK0Z-jrpoUjSpLivlrC91AFkpFIf9xgh8iIEnsIT8pdtaDjkrdGP81uqi0AQi4C9odrm_aEBY8rO3aTUevrlb",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJ89oZKhIts1IR2B4JGhCQa_c",
+         "plus_code" : {
+            "compound_code" : "XQJ7+4G Minneapolis, MN, USA",
+            "global_code" : "86P8XQJ7+4G"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ89oZKhIts1IR2B4JGhCQa_c",
+         "scope" : "GOOGLE",
+         "types" : [
+            "beauty_salon",
+            "hair_care",
+            "spa",
+            "health",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 196,
+         "vicinity" : "323 14th Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9751443,
+               "lng" : -93.25058629999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97630823029149,
+                  "lng" : -93.2493962197085
+               },
+               "southwest" : {
+                  "lat" : 44.97361026970849,
+                  "lng" : -93.25209418029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Makeup by Andi Lyn",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ25jGgWgts1IRO0N8c40gzcc",
+         "plus_code" : {
+            "compound_code" : "XPGX+3Q Minneapolis, MN, USA",
+            "global_code" : "86P8XPGX+3Q"
+         },
+         "reference" : "ChIJ25jGgWgts1IRO0N8c40gzcc",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "point_of_interest", "establishment" ],
+         "vicinity" : "1200 South Washington Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9918364,
+               "lng" : -93.22927709999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.99318248029149,
+                  "lng" : -93.22804091970849
+               },
+               "southwest" : {
+                  "lat" : 44.9904845197085,
+                  "lng" : -93.2307388802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "The Hive Salon",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117397693163762957930\"\u003eApril D\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDgXiRlSQS9NLkplLQDeOMIr4G7RVYvguo3Vqqzy65UVz_KImjKYtcP_y04lVwFLWxoNRSRn-jF9buX4PiLONWcivuZOOl54mWRAUQDNhlytSXkznolQsHYP-1vJ4HcEt8Me52s5UuPc8KnVCs1mqTGue8kKHaDidTTpEdm8_XGFNLz",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJAQAAANAts1IR3rUCJ7Ia8rU",
+         "plus_code" : {
+            "compound_code" : "XQRC+P7 Minneapolis, MN, USA",
+            "global_code" : "86P8XQRC+P7"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJAQAAANAts1IR3rUCJ7Ia8rU",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "hair_care", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 183,
+         "vicinity" : "1621 East Hennepin Avenue b20, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9805238,
+               "lng" : -93.23658229999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.98197408029149,
+                  "lng" : -93.2351244697085
+               },
+               "southwest" : {
+                  "lat" : 44.97927611970849,
+                  "lng" : -93.2378224302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Hop's Salon",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117532708094616489098\"\u003eJesse Grindstaff\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECw0FyX1x2Wz3aMj0h3HEvEq-Wg3CqghGHgskAEOLD829Lmk8gmvyhcNAIuRfQAveODTyvyM0Z74mxCT7cx80ApYya_12oq-vY4IEsXa-NP7XFXTM8Ju8KNiVNufF5rcg1-s6-a6Pu8oKzfuO6sMwy11Ve8DmFxhOfiJV5lr4pm19lR",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJDZVnJhIts1IRKcYH8kKNs34",
+         "plus_code" : {
+            "compound_code" : "XQJ7+69 Minneapolis, MN, USA",
+            "global_code" : "86P8XQJ7+69"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJDZVnJhIts1IRKcYH8kKNs34",
+         "scope" : "GOOGLE",
+         "types" : [
+            "beauty_salon",
+            "hair_care",
+            "health",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 99,
+         "vicinity" : "Union Park, 1316 Southeast 4th Street, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9903069,
+               "lng" : -93.25240629999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9916772802915,
+                  "lng" : -93.2511903697085
+               },
+               "southwest" : {
+                  "lat" : 44.9889793197085,
+                  "lng" : -93.2538883302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Denny Kemp Salon Spa",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116019142133569015288\"\u003eMoto Guzzi Vrm\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDabNyJwFSYSLiXyf6ld1jGHvTBKMBfsWOWqkq7sJHBL-GQPCpKP6c62FZI1CXGSxirlHhXRKHzNf5_oQN2flPz459N_HzuXDuasC1cDywgYYrKTRWsM995IJOt7D0nzS0i45NjRnWSp_fQr0xDZd5EoHazQIl12VQNzpHIphmoEGpD",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJv3NE9ncts1IRRPzCp01hKxc",
+         "plus_code" : {
+            "compound_code" : "XPRX+42 Minneapolis, MN, USA",
+            "global_code" : "86P8XPRX+42"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJv3NE9ncts1IRRPzCp01hKxc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "beauty_salon",
+            "hair_care",
+            "spa",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 125,
+         "vicinity" : "605 Central Avenue Northeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9876331,
+               "lng" : -93.2544441
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9889516302915,
+                  "lng" : -93.2529931697085
+               },
+               "southwest" : {
+                  "lat" : 44.9862536697085,
+                  "lng" : -93.25569113029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Cost Cutters",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111472599144754889608\"\u003eCost Cutters\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBZy9mOhJ9puKqCLKIIjWHowt7T9db9m0daRJ_lTHY8K2ZrF1zx_j_WNEuH0VADnaEu4MhopEh9IN_3HnJssXC5165_y72p6eKkQfJWU_Vwu1qp52enZBdRoyyn3vur1lXVcjBpHeA89-9hrtV_2XAux3jmJwGmmCu79uLy1Lk3FXeK",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJrRsVjL0js1IRfdX1p1_Fw1U",
+         "plus_code" : {
+            "compound_code" : "XPQW+36 Minneapolis, MN, USA",
+            "global_code" : "86P8XPQW+36"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJrRsVjL0js1IRfdX1p1_Fw1U",
+         "scope" : "GOOGLE",
+         "types" : [
+            "beauty_salon",
+            "hair_care",
+            "health",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 98,
+         "vicinity" : "329 Central Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9815433,
+               "lng" : -93.235817
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9829808302915,
+                  "lng" : -93.23436931970849
+               },
+               "southwest" : {
+                  "lat" : 44.9802828697085,
+                  "lng" : -93.2370672802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Great Clips",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104287146735416313993\"\u003eGreat Clips\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDH7udvHQYJOiVEpllf0qpBgy67r1hcYORKiN5z4q1rNjSY-Twp668KTkIYI_iWiJoK2xBB41Xbx1dJ2p9pSiyQqHq28lfVh8PpIZZLFUiljcCKyw83PuRURPm6NkPlnlF6-VoA8a5n1otzFYRBcMKS5LeaxcsqGzEJkZZJ3yODh9H5",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJBQnO9hEts1IRJTgBE0lCbsk",
+         "plus_code" : {
+            "compound_code" : "XQJ7+JM Minneapolis, MN, USA",
+            "global_code" : "86P8XQJ7+JM"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJBQnO9hEts1IRJTgBE0lCbsk",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "hair_care", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 266,
+         "vicinity" : "1312 5th Street Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9728006,
+               "lng" : -93.2192907
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9741495802915,
+                  "lng" : -93.21794171970851
+               },
+               "southwest" : {
+                  "lat" : 44.9714516197085,
+                  "lng" : -93.22063968029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Express Nails & Spa",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113300473921538905809\"\u003eJack Jonhson\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED8zHa6Jbv9HUHtw9_HUwSItUXocDavBggfo6oQlIotCqxV95E6MT2U_03g7BpjX0wWvfKUSnwOk5K76odm1bSwwQ9I5bf4NY3YQWcga_iM8lEyQ47s_Rab17j-O4LN4kAVb3Pp3BWMYEG-ufQJg1k2pap8OE6xFqYbyN6Idyg5bRZu",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJAQdm-t8ss1IRX8IwFahy6uU",
+         "plus_code" : {
+            "compound_code" : "XQFJ+47 Minneapolis, MN, USA",
+            "global_code" : "86P8XQFJ+47"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJAQdm-t8ss1IRX8IwFahy6uU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "beauty_salon",
+            "hair_care",
+            "spa",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 207,
+         "vicinity" : "2617 University Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9763134,
+               "lng" : -93.253941
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9777902302915,
+                  "lng" : -93.25258931970851
+               },
+               "southwest" : {
+                  "lat" : 44.9750922697085,
+                  "lng" : -93.25528728029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Samantha's Mini Spa",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103384826170796686700\"\u003eIsabeau Vilks\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB-Fc5mWy4BledrAIFevIpFQ_os8xIl_JyZIUsk8UEitVpd2r1oLtSutx44rL2LAXcHklYA1AC8acuukMLfRVzwWhG6raDbz2tjQqeyT3IGDm1bzoXllm24s0U7zlo93mW0UL3bLrifa0lUklAxr36VM0v5mnCn1J1r2W5w12a0bIJr",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJl4RQlGYts1IRYpYy0L19-ls",
+         "plus_code" : {
+            "compound_code" : "XPGW+GC Minneapolis, MN, USA",
+            "global_code" : "86P8XPGW+GC"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJl4RQlGYts1IRYpYy0L19-ls",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "hair_care", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 113,
+         "vicinity" : "229 10th Avenue South, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9764335,
+               "lng" : -93.2548149
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97774898029149,
+                  "lng" : -93.25319136970849
+               },
+               "southwest" : {
+                  "lat" : 44.97505101970849,
+                  "lng" : -93.2558893302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "MENS SPA SALON MINNEAPOLIS",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100726915532117426719\"\u003eB Johnson Photos Brenda Johnson\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECi8twA6T9N_GqmDJArOyVhjWyqSrtPgIrwP0qIbbxreAJ1Odllpt8a_Ja_OJc3jJVLaAQXzaV2kBO36nUcMqLPEbQLdUxt9wzwfy8wx5hRkHkncfeLgxj7AspkGcVdwzIjtgJfRMLaYV9aB6YgHnEs7mqD1Vai0TgLeu6lxjGAyPPi",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJp_wivWYts1IRCXdH9QYDfZs",
+         "plus_code" : {
+            "compound_code" : "XPGW+H3 Minneapolis, MN, USA",
+            "global_code" : "86P8XPGW+H3"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJp_wivWYts1IRCXdH9QYDfZs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "beauty_salon",
+            "hair_care",
+            "spa",
+            "health",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 606,
+         "vicinity" : "930 South Washington Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.98927490000001,
+               "lng" : -93.2507461
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9905975802915,
+                  "lng" : -93.24866365
+               },
+               "southwest" : {
+                  "lat" : 44.9878996197085,
+                  "lng" : -93.25144024999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Mill City Laser",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110885634358446496453\"\u003eMill City Laser\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBbJotK1m_UZZjGiCLUJ2dJuqI4RcD_wu4WpWWmZCbBGEPj6nQn3HHD1SL9wDQPKnWk9E3Fysjp9U-etODv9qEPmV24geYBiPd4KPTHmu3TC4UV6xk-liacBgXkBRjIC9yDtIZyQnMB8-4q3u3uJ-HpMeWXjKWA7Le7npsGR5RKrknj",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJZ59nr3cts1IRyrxOSjCS4nk",
+         "plus_code" : {
+            "compound_code" : "XPQX+PP Minneapolis, MN, USA",
+            "global_code" : "86P8XPQX+PP"
+         },
+         "rating" : 5,
+         "reference" : "ChIJZ59nr3cts1IRyrxOSjCS4nk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "beauty_salon",
+            "hair_care",
+            "health",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 67,
+         "vicinity" : "201 6th Street Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9739249,
+               "lng" : -93.2243629
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9752579802915,
+                  "lng" : -93.22311206970849
+               },
+               "southwest" : {
+                  "lat" : 44.9725600197085,
+                  "lng" : -93.2258100302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "European Wax Center",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106740964993650430294\"\u003eTrina Kuriger\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDdQKHRWGpWiMpUbfgk2QCkd1dRZsuzunCyi8rTJpZru1k_4A4YCbnd_4JG2M_Us8ck5T2u4B-rTd59IXuZpd5dzHkW42PClNBSFHtzEA7byTeKWGw-ObfGc5g9SyAeZLc3fCfqMGF_0Ahx_YbbY5Aq11MVZad92q67-V3i2QXt1BmW",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJSeg0Wx8ts1IRWlr_rkg70tA",
+         "plus_code" : {
+            "compound_code" : "XQFG+H7 Minneapolis, MN, USA",
+            "global_code" : "86P8XQFG+H7"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJSeg0Wx8ts1IRWlr_rkg70tA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "beauty_salon",
+            "hair_care",
+            "spa",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 154,
+         "vicinity" : "929 Washington Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9765639,
+               "lng" : -93.2550217
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9778618802915,
+                  "lng" : -93.25386101970849
+               },
+               "southwest" : {
+                  "lat" : 44.9751639197085,
+                  "lng" : -93.25655898029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Mensdpt",
+         "photos" : [
+            {
+               "height" : 1960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110597728136223946876\"\u003eJonathan Bates\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBiGzrcOTvRNn8INJPYjpcXeKI8idxukeF0T03WD2W5e9WHC6wN2cZQr_zJCaEYwVafYFNJgpD7F6mVylGgLfnB5jSsS4tmhpbfiUnkvfy_vkRRoA3-wHr7WyFRACPtb4KgLHPvZRtk0kmui2KsylSao2Tl3HfxsXWzswxOpGurbNJq",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJq0IIu2Yts1IRGG0-YXCsZSw",
+         "plus_code" : {
+            "compound_code" : "XPGV+JX Minneapolis, MN, USA",
+            "global_code" : "86P8XPGV+JX"
+         },
+         "rating" : 5,
+         "reference" : "ChIJq0IIu2Yts1IRGG0-YXCsZSw",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "930 South Washington Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9705144,
+               "lng" : -93.2470709
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97185933029151,
+                  "lng" : -93.24580951970849
+               },
+               "southwest" : {
+                  "lat" : 44.96916136970851,
+                  "lng" : -93.24850748029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Beauty Secret 1 Beauty Salon",
+         "place_id" : "ChIJq7plU0Its1IRNtZ9Msc6SFs",
+         "plus_code" : {
+            "compound_code" : "XQC3+65 Minneapolis, MN, USA",
+            "global_code" : "86P8XQC3+65"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJq7plU0Its1IRNtZ9Msc6SFs",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "325 Cedar Avenue Suite #3, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9626569,
+               "lng" : -93.2370246
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9640582802915,
+                  "lng" : -93.23565591970851
+               },
+               "southwest" : {
+                  "lat" : 44.9613603197085,
+                  "lng" : -93.23835388029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "F M Braiding",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113816120211555123575\"\u003eDeru Bezbiah\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDEPGY4wwcarNAXpvDDlaFxO3ose13JX7v_udgnfPGOBot4uvMOMfdyYrve9erEINVqeDYxVy9pkrIPwbVR-g9yzIBcX3qz3NE2lzLZkk6imzLeKxJJ2DTcJNz0HSrjNkulm_R_6noLvxDZ3HExekmeuxjCgf6kKJqWYx2O_kmth9sp",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJU7RLmTcts1IRd8vbJSYJQ_A",
+         "plus_code" : {
+            "compound_code" : "XQ77+35 Minneapolis, MN, USA",
+            "global_code" : "86P8XQ77+35"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJU7RLmTcts1IRd8vbJSYJQ_A",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 32,
+         "vicinity" : "2415 East Franklin Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9624883,
+               "lng" : -93.2387942
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.96383728029151,
+                  "lng" : -93.23737296970849
+               },
+               "southwest" : {
+                  "lat" : 44.96113931970851,
+                  "lng" : -93.24007093029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Sophia Salon",
+         "place_id" : "ChIJw6Ox5Tcts1IRhzzi00XL9Uw",
+         "plus_code" : {
+            "compound_code" : "XQ66+XF Minneapolis, MN, USA",
+            "global_code" : "86P8XQ66+XF"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJw6Ox5Tcts1IRhzzi00XL9Uw",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "2311 East Franklin Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9682698,
+               "lng" : -93.25015330000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9696806802915,
+                  "lng" : -93.24880611970848
+               },
+               "southwest" : {
+                  "lat" : 44.9669827197085,
+                  "lng" : -93.2515040802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Riverside Hair Salon Inc",
+         "place_id" : "ChIJA188qFwts1IRps-tqVHvnKw",
+         "plus_code" : {
+            "compound_code" : "XP9X+8W Minneapolis, MN, USA",
+            "global_code" : "86P8XP9X+8W"
+         },
+         "rating" : 5,
+         "reference" : "ChIJA188qFwts1IRps-tqVHvnKw",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "620 16th Avenue South, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.98814489999999,
+               "lng" : -93.25426779999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.98944103029149,
+                  "lng" : -93.2529990197085
+               },
+               "southwest" : {
+                  "lat" : 44.9867430697085,
+                  "lng" : -93.25569698029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Spot Spa Northeast",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113633511551194862970\"\u003eKrystle Gallegos\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECcs9ptYqDbB5Uz8S25eAr5JI9p7OOL4FcRnmB-drJ277U3cbVzHb7Tn2kLNvPNJNotrhn_3p4PmXTHVg_ynPQLpheVRiL_1m5uJz3XHzgzY_1-FuMmOSV05OhgM_MsniNiIOBIMvr44JyTsKU2GwtXe1fwGHyWaJdf1qXeEutSJeHP",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJ260-AXkts1IRsnzpPF0dDfA",
+         "plus_code" : {
+            "compound_code" : "XPQW+77 Minneapolis, MN, USA",
+            "global_code" : "86P8XPQW+77"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ260-AXkts1IRsnzpPF0dDfA",
+         "scope" : "GOOGLE",
+         "types" : [ "spa", "beauty_salon", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 66,
+         "vicinity" : "21 Southeast 4th Street, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.990002,
+               "lng" : -93.25323469999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9911748302915,
+                  "lng" : -93.25155596970849
+               },
+               "southwest" : {
+                  "lat" : 44.9884768697085,
+                  "lng" : -93.25425393029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Highbrow Studio",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJVVVF7Isys1IRIfCaj49Ygzs",
+         "plus_code" : {
+            "compound_code" : "XPRW+2P Minneapolis, MN, USA",
+            "global_code" : "86P8XPRW+2P"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJVVVF7Isys1IRIfCaj49Ygzs",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "525 Central Avenue Northeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9919042,
+               "lng" : -93.2438698
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9932407302915,
+                  "lng" : -93.2423489697085
+               },
+               "southwest" : {
+                  "lat" : 44.9905427697085,
+                  "lng" : -93.24504693029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Cocoon Salon",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 500,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104070767940417824041\"\u003eCocoon Salon\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDViCg-SLLH7V4_9Blhl1bNH_jVm9nc_WHkeOUSpB65y5oXabb6Pt1ivCgT-m-rCKvBuxhCSr1PT1oPQlPLAsy0BdJJsjpAe-h50LbPsl-xHQjVWjAS-avFT1teV8ljuCCWaDhbcUjLBHmm8LAobC1-yIJNrntS5MhQqXpRqYMjV9rH",
+               "width" : 750
+            }
+         ],
+         "place_id" : "ChIJeVua0Ygys1IRM2K5WgCTZPI",
+         "plus_code" : {
+            "compound_code" : "XQR4+QF Minneapolis, MN, USA",
+            "global_code" : "86P8XQR4+QF"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJeVua0Ygys1IRM2K5WgCTZPI",
+         "scope" : "GOOGLE",
+         "types" : [ "beauty_salon", "hair_care", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 56,
+         "vicinity" : "861 East Hennepin Avenue, Minneapolis"
+      }
+   ],
+   "status" : "OK"
+}

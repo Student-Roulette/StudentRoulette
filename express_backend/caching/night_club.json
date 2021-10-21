@@ -1,0 +1,655 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.98005789999999,
+               "lng" : -93.23645519999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.98135793029149,
+                  "lng" : -93.23498611970849
+               },
+               "southwest" : {
+                  "lat" : 44.9786599697085,
+                  "lng" : -93.2376840802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "Kitty Cat Klub",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 2998,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113413116661413252915\"\u003eSergio Alcaraz Martinez\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBKY5N89CGsFEcCZv1Hd_kWFTjNRwmitsv9y5iOXP74KvDydcq72CZj-o5OOQPvgItdAgLC2iuxiP8582jkvsD4LhPA79tcUl5qoxXrqvms6dRb6gYrLsy39GsuQVj5yvtUhRZYY94CRqOKbScRLvaI0d2jPw46bCuYWxK87rkYAOPh",
+               "width" : 3998
+            }
+         ],
+         "place_id" : "ChIJVQlDKxIts1IRI5uiSBFEIvg",
+         "plus_code" : {
+            "compound_code" : "XQJ7+2C Minneapolis, MN, USA",
+            "global_code" : "86P8XQJ7+2C"
+         },
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "ChIJVQlDKxIts1IRI5uiSBFEIvg",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 214,
+         "vicinity" : "315 14th Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.97286409999999,
+               "lng" : -93.2476554
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97421308029148,
+                  "lng" : -93.24630641970849
+               },
+               "southwest" : {
+                  "lat" : 44.97151511970849,
+                  "lng" : -93.2490043802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "The Comedy Corner Underground - 7 Corners",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111894525048265605379\"\u003eAndrew Sean\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDSBhSln8l3y8OAx00wdp0gfuzNPqKKw-wQ6xTzbixePPUjLsi1CkY54eqpdzMBpBQDCuw8fqngdvz3pkvwTCb7UZTYtfLNrlocRdOfAxdQgdYZv3Z4qILnjBmPxwlP0Ag_5vcIJRqDaMhjx4Yg_tpC-sisPhq1kj8CsWS5yX0cBFkf",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJqyZT1Gkts1IRk0LyMpehJks",
+         "plus_code" : {
+            "compound_code" : "XQF2+4W Minneapolis, MN, USA",
+            "global_code" : "86P8XQF2+4W"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJqyZT1Gkts1IRk0LyMpehJks",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 157,
+         "vicinity" : "1501 South Washington Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.978349,
+               "lng" : -93.26087299999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9798040302915,
+                  "lng" : -93.25945836970848
+               },
+               "southwest" : {
+                  "lat" : 44.9771060697085,
+                  "lng" : -93.26215633029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "eagleBOLTbar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2848,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104118927127125660574\"\u003eeagleBOLTbar\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDq54tfhPovYv9o-vPXzluUnFIjG_teq42N3BrJQ5qX_8PgPeTN1UB3ol9YGhQinyoAm--svMMgHzDEGm1V0dotgmZP_QLbATxI_QkLxmiVR5Qxkx4y1-tZBapYUvbQTJ9fX_hziCuHMv1uva-mLxbUziWCvhhkEFvNPBr1BGXdNXJK",
+               "width" : 4288
+            }
+         ],
+         "place_id" : "ChIJvcv5c2Its1IRNsq-QEniuaU",
+         "plus_code" : {
+            "compound_code" : "XPHQ+8M Minneapolis, MN, USA",
+            "global_code" : "86P8XPHQ+8M"
+         },
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "ChIJvcv5c2Its1IRNsq-QEniuaU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 152,
+         "vicinity" : "515 South Washington Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9638889,
+               "lng" : -93.24694439999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9653059802915,
+                  "lng" : -93.24566686970849
+               },
+               "southwest" : {
+                  "lat" : 44.9626080197085,
+                  "lng" : -93.24836483029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "Whiskey Junction",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109567587635776583370\"\u003eBrian Wene\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDi7GGcUVqEmnhLZAmJUvCkVyJr1bPwpzqDgC73xSDeWDDDkXWcmMYmPpYTUaI_zR9gJC10mCb46zx8uvPBW-VDWAKoAu9kAwhzDbr4Zc2eEWPAuVUijPGZ-MNvbzx9Srb1WnQsmeMUrkAPGZaSX9SG1bDf4dyyejSWmOwlKyeFeurx",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJZZoGeEUts1IR4XLVdItr_K8",
+         "plus_code" : {
+            "compound_code" : "XQ73+H6 Minneapolis, MN, USA",
+            "global_code" : "86P8XQ73+H6"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJZZoGeEUts1IR4XLVdItr_K8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 82,
+         "vicinity" : "901 Cedar Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.95713079999999,
+               "lng" : -93.2358223
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9585970802915,
+                  "lng" : -93.2344898697085
+               },
+               "southwest" : {
+                  "lat" : 44.9558991197085,
+                  "lng" : -93.2371878302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Fraternal Order of Eagles",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109567587635776583370\"\u003eBrian Wene\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA4Uxj-0whMkRdpX-BYU4a2HKUbslDKJ_-_wcpQQuO_BZdhevoG2EPgpRogqjw67hE5BYBUXwt_z5ogastPBDNoMT2BYUNLNqcdzRzEGEWHYryRccIckpVLnRfTWZbHK88kufyxsB8FMVK5GypnwDL5RDCMOhnS7CXEDBoWdtbTwgge",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ1UbpTTQts1IRwxTs-qplpik",
+         "plus_code" : {
+            "compound_code" : "XQ47+VM Minneapolis, MN, USA",
+            "global_code" : "86P8XQ47+VM"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ1UbpTTQts1IRwxTs-qplpik",
+         "scope" : "GOOGLE",
+         "types" : [
+            "stadium",
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 217,
+         "vicinity" : "2507 East 25th Street, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.988983,
+               "lng" : -93.25509099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9900776302915,
+                  "lng" : -93.25365316970849
+               },
+               "southwest" : {
+                  "lat" : 44.9873796697085,
+                  "lng" : -93.25635113029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "Ground Zero Nightclub",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118415891929292386247\"\u003eM Bjelland\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAl05_K-AaXBvfOyz2zWhvRB-Cpdqt2-P_OW6pkoi81ZCtl4p0I5BY2dx9dyT3ht0CPtGJaPMKdWhp6GzmtxaKmPE3TjK4mfg2-53BXzbgTm8XnHL_YZFVNLdm4yZNSlb1rfSe7Hb2NSEmmoFbbaBaH2-Nd2PeUCCJc8lLYBfzphgNy",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ1yAd_Hgts1IRpch22QuVx0s",
+         "plus_code" : {
+            "compound_code" : "XPQV+HX Minneapolis, MN, USA",
+            "global_code" : "86P8XPQV+HX"
+         },
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "ChIJ1yAd_Hgts1IRpch22QuVx0s",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 161,
+         "vicinity" : "15 Southeast 4th Street, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9791478,
+               "lng" : -93.2613382
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9804588302915,
+                  "lng" : -93.25988981970849
+               },
+               "southwest" : {
+                  "lat" : 44.9777608697085,
+                  "lng" : -93.2625877802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Milwaukee Road Restaurant & Bar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1385,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108317827057053708525\"\u003eMilwaukee Road Restaurant &amp; Bar\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBIbmb9E7TWBy6mX3TgiaaUV7GkhQnEofqYD9HdAwsbt6ezsOAFO9eTl6z0pU0kTGJLuxf76WNlBhw20DEOg3RAp4z6-fbovT5FWpKSiC56H8f3dr5aplZOlK9oMPbPeZnoamlv_ILm1c0ZarbNfyOefHBjQ7pcBjkd2lkXc5PmmBjR",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJTdLdHp0ys1IRoGTOl7dQ5uQ",
+         "plus_code" : {
+            "compound_code" : "XPHQ+MF Minneapolis, MN, USA",
+            "global_code" : "86P8XPHQ+MF"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJTdLdHp0ys1IRoGTOl7dQ5uQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 61,
+         "vicinity" : "225 3rd Avenue South, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9890892,
+               "lng" : -93.2550888
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9903772302915,
+                  "lng" : -93.2538518697085
+               },
+               "southwest" : {
+                  "lat" : 44.9876792697085,
+                  "lng" : -93.2565498302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "The Front Cafe",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116019142133569015288\"\u003eMoto Guzzi Vrm\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEARHfk882hrlkgeZRMiZdp2CwLLxLeMg6B9J4a0M90zvMbYgy_qccJYPOpjhEbfGHjoljbyQVxKaDzHkaMjXoOg5ZRHCLWBacHd9BsPWE3m6Rjl3PrIxlMWjcORLNHMQJ3Q079y6TtvA802ydBndpXU_4OPS67fcO6-cbYiy4Lj0cVN",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJrXik-Hgts1IRe6LTxoz1nAk",
+         "plus_code" : {
+            "compound_code" : "XPQV+JX Minneapolis, MN, USA",
+            "global_code" : "86P8XPQV+JX"
+         },
+         "price_level" : 2,
+         "rating" : 3.3,
+         "reference" : "ChIJrXik-Hgts1IRe6LTxoz1nAk",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 19,
+         "vicinity" : "15 4th Street Northeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.98891599999999,
+               "lng" : -93.25292979999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.99020178029149,
+                  "lng" : -93.25173536970848
+               },
+               "southwest" : {
+                  "lat" : 44.98750381970849,
+                  "lng" : -93.25443333029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "Ray J's American Grill",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 375,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112160163479547760606\"\u003eRay J&#39;s American Grill\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDdBgJm-JTSxww1-97fQ6T5ZjYyGOKZWDu6QuTYLw1K7lDdLUN2h17RNgPF07kQSn5OFkXW-S9py0-9o4IEhSn_AfM1BA0zVQNLfr0D6VoiBne8dMTvLyyRPoJRwk0PxbRFw6kTJOL4JwRxtgtFlguUjiQrE5NMR6k4RzohV5ApxS_Y",
+               "width" : 900
+            }
+         ],
+         "place_id" : "ChIJOQgzM3gts1IRmaRE5Jn54O4",
+         "plus_code" : {
+            "compound_code" : "XPQW+HR Minneapolis, MN, USA",
+            "global_code" : "86P8XPQW+HR"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJOQgzM3gts1IRmaRE5Jn54O4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "meal_delivery",
+            "meal_takeaway",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1481,
+         "vicinity" : "500 Central Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9897934,
+               "lng" : -93.24256269999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.99108833029151,
+                  "lng" : -93.24126761970848
+               },
+               "southwest" : {
+                  "lat" : 44.98839036970851,
+                  "lng" : -93.2439655802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Black Ice eSports",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100051961971053690780\"\u003eBlack Ice eSports\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEByobLwN6bwLUQFC0Dj2xq3OEL5qFwu0KovtUWVD4gfxriRqc2-h2m2J-lJDVcTdha0O3cm7SHMqKuPab3Eqs5qfDKN10aenbbwnaEWSo_OnYGcBJc0j0K2o9R11H7F7NIKuOkeME2eEPHU2YVSr7v11MeMChxMTC85xtwDizJUOHlu",
+               "width" : 1494
+            }
+         ],
+         "place_id" : "ChIJNxKbSWUts1IR7OOM-RN8MpQ",
+         "plus_code" : {
+            "compound_code" : "XQQ4+WX Minneapolis, MN, USA",
+            "global_code" : "86P8XQQ4+WX"
+         },
+         "rating" : 5,
+         "reference" : "ChIJNxKbSWUts1IR7OOM-RN8MpQ",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "575 Southeast 9th Street #80, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.954869,
+               "lng" : -93.23105699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9563098302915,
+                  "lng" : -93.22971261970849
+               },
+               "southwest" : {
+                  "lat" : 44.9536118697085,
+                  "lng" : -93.2324105802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "Lawless Distilling Company",
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112596007849004564954\"\u003eLawless Distilling Company\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBz1ZFYqUYZu8xdWeGXq2Eu2ycpfUl2tuq09b400xfOUXwmSxn5wGdO_69fGZhoWKfCjwJykqUYVK7dOJtDANXsnR2f8uFt5sVK-3i-5TkH3wPHtbWDaWU2hAIO9udnIrDqPNMWkGJ4v0nJG8jxDXNDwgixcmhZUi3w40evwDhHs8Vg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJqdbVKDMts1IR6yJ8G9_voQw",
+         "plus_code" : {
+            "compound_code" : "XQ39+WH Minneapolis, MN, USA",
+            "global_code" : "86P8XQ39+WH"
+         },
+         "price_level" : 2,
+         "rating" : 4.8,
+         "reference" : "ChIJqdbVKDMts1IR6yJ8G9_voQw",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 231,
+         "vicinity" : "2619 28th Avenue South, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.99134309999999,
+               "lng" : -93.2186533
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.99278753029149,
+                  "lng" : -93.21728341970848
+               },
+               "southwest" : {
+                  "lat" : 44.99008956970849,
+                  "lng" : -93.2199813802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Illusionari | Audio & Visual Design",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 339,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113705969572248433613\"\u003eIllusionari | Audio &amp; Visual Design\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDN6PbdRrPzXIpDijOO-JKAhU7aC4Sl6TKXHuN_c2emc1tp7k31GcVyZigg_9opX2mpDU1XlBqLdm8pKjh0u-xJ6YzAFafd203bluKPaelmOExcnIZ7SFKbQmPzw1edI7yneqDP_7Z9Sv4uIkRkKO6F3dHygtlncmg0_TtFthm8189o",
+               "width" : 1434
+            }
+         ],
+         "place_id" : "ChIJE2cM9nwts1IRuRwFkgpiiUI",
+         "plus_code" : {
+            "compound_code" : "XQRJ+GG Minneapolis, MN, USA",
+            "global_code" : "86P8XQRJ+GG"
+         },
+         "reference" : "ChIJE2cM9nwts1IRuRwFkgpiiUI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "art_gallery",
+            "night_club",
+            "electronics_store",
+            "home_goods_store",
+            "bar",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "2404 East Hennepin Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9710773,
+               "lng" : -93.20323089999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97210913029149,
+                  "lng" : -93.20209561970849
+               },
+               "southwest" : {
+                  "lat" : 44.96941116970849,
+                  "lng" : -93.20479358029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "Science Jail",
+         "place_id" : "ChIJwyi-nywts1IRjKdrnlMTtPE",
+         "plus_code" : {
+            "compound_code" : "XQCW+CP Saint Paul, MN, USA",
+            "global_code" : "86P8XQCW+CP"
+         },
+         "reference" : "ChIJwyi-nywts1IRjKdrnlMTtPE",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "point_of_interest", "establishment" ],
+         "vicinity" : "1000 Westgate Drive, Saint Paul"
+      }
+   ],
+   "status" : "OK"
+}

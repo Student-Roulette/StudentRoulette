@@ -1,0 +1,840 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEBuc9nAbCVry2pFYJgouT6Mq0nSZXmB46tfxkS0g6kyx5prPol1hSGaj4EcJT50LCSUkG7Du6SvJl75IGyKItvGYFnYVD9zPcMdpouWwCvyETYI7PL5livobb0iRonHZOevEfSQXS_-Kq2Hb0bQGcQQ1tHWhT7KbgLiSdDEBU5Kvphi4pylhdepqu8MgeiY0R-knZq4qMs4EuSFcvpuz8lF2borgtirTtGl8YxsyC002Ynhx7WLjTiK8lr61nFvVR_5yQuy-e7dWjV2M5-u_Tb4GT01yDib0c1MoNMZYxqA9WwqYpkWerf6HUhPUc-eLue78_2kccUgYXYn7-9O9XGZpFvbRmLdvZZUYEGTW6vH6Rn7OxQhilRiLqzTCERnhw8UtzpaY_p2TU01QA9XogX-O_XKu20iL8L_uQv9L9_dvEUvXxss",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9732514,
+               "lng" : -93.2430495
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9746911302915,
+                  "lng" : -93.24175616970849
+               },
+               "southwest" : {
+                  "lat" : 44.9719931697085,
+                  "lng" : -93.2444541302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+         "name" : "Social Welfare History Archive",
+         "place_id" : "ChIJo4P-fGots1IRuR84EDrCpmE",
+         "plus_code" : {
+            "compound_code" : "XQF4+8Q Minneapolis, MN, USA",
+            "global_code" : "86P8XQF4+8Q"
+         },
+         "reference" : "ChIJo4P-fGots1IRuR84EDrCpmE",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "library", "point_of_interest", "establishment" ],
+         "vicinity" : "222 21st Avenue South UNIT 320, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.97092370000001,
+               "lng" : -93.24348259999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97227268029152,
+                  "lng" : -93.24213361970848
+               },
+               "southwest" : {
+                  "lat" : 44.96957471970852,
+                  "lng" : -93.2448315802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+         "name" : "Minitex",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 620,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107057457945379637138\"\u003eMinitex\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBQMjkZp4ZONHUDfjPO_dQ06p44HlH9dWb7b-68nYmTCkP0tOhuwSFMQP1eX-C0EIHegI9tpKz3-C38xLtOPgSiqja3GjsztHxMQoLk7jbR615UxLHndHkS1EUGjgqVxfSdXfuZphEXGrF_DeDGVXh3jojSafFClV4TBX-pHWTcK5tY",
+               "width" : 620
+            }
+         ],
+         "place_id" : "ChIJo4P-fGots1IRKuT6eUTqwEw",
+         "plus_code" : {
+            "compound_code" : "XQC4+9J Minneapolis, MN, USA",
+            "global_code" : "86P8XQC4+9J"
+         },
+         "rating" : 5,
+         "reference" : "ChIJo4P-fGots1IRKuT6eUTqwEw",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "309 19th Avenue South, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9630049,
+               "lng" : -93.25587130000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9644419802915,
+                  "lng" : -93.25452501970851
+               },
+               "southwest" : {
+                  "lat" : 44.9617440197085,
+                  "lng" : -93.25722298029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+         "name" : "Franklin Library",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109959382354354670723\"\u003eFranklin Library\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDh9BIgPoV9W2SdxeaZhjERbsYqWFUhiJVebniNcMvEn9pKesBVWtHHCyz3BmIIY4OJn-GvZqH_WYypB9wcB5A1dgM9Vz1GMCUNFiDfuZrkHbik7cniG2ilaRo7kddG3STljJI-D1IzK_GByzBCIBo9leIA-80d7qB6n_SXBINvNVfv",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJh3OjYVcts1IRmEa-7Gs9Dzg",
+         "plus_code" : {
+            "compound_code" : "XP7V+6M Minneapolis, MN, USA",
+            "global_code" : "86P8XP7V+6M"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJh3OjYVcts1IRmEa-7Gs9Dzg",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 54,
+         "vicinity" : "1314 East Franklin Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9709175,
+               "lng" : -93.243555
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97179588029149,
+                  "lng" : -93.24220196970849
+               },
+               "southwest" : {
+                  "lat" : 44.9690979197085,
+                  "lng" : -93.24489993029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+         "name" : "Ames Library of South Asia",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJS_44o0Ets1IRzKUN3QjmBew",
+         "plus_code" : {
+            "compound_code" : "XQC4+9H Minneapolis, MN, USA",
+            "global_code" : "86P8XQC4+9H"
+         },
+         "reference" : "ChIJS_44o0Ets1IRzKUN3QjmBew",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "309 19th Avenue South, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.97093439999999,
+               "lng" : -93.2435773
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97228338029149,
+                  "lng" : -93.2422283197085
+               },
+               "southwest" : {
+                  "lat" : 44.96958541970849,
+                  "lng" : -93.24492628029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+         "name" : "Inter Library Loan",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJS_44o0Ets1IRzhjVzEC0XX4",
+         "plus_code" : {
+            "compound_code" : "XQC4+9H Minneapolis, MN, USA",
+            "global_code" : "86P8XQC4+9H"
+         },
+         "reference" : "ChIJS_44o0Ets1IRzhjVzEC0XX4",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "309 19th Avenue South UNIT 110, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9709843,
+               "lng" : -93.2434344
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97233328029151,
+                  "lng" : -93.24208541970849
+               },
+               "southwest" : {
+                  "lat" : 44.96963531970851,
+                  "lng" : -93.24478338029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+         "name" : "John R Borchert Map Library",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111693546633920643455\"\u003eRyan Mattke\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBvOb4t38Anw7jN9qhIevYy8m4UP04CJW4a65c1IkXfyKIHYG03MiRE_klaVWiHhqaTI4Vxu9bCPwz3t9M_l2WM2R4VfPqrGp5rAR4Qh9ErdWmCK9_0qxyJCPIUJqXi9yOHhTwPJ4Z46Kmr_cLC3QUgpa9VNX3FW67thTC41vQlz28H",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJS_44o0Ets1IRMeWbiV419PY",
+         "plus_code" : {
+            "compound_code" : "XQC4+9J Minneapolis, MN, USA",
+            "global_code" : "86P8XQC4+9J"
+         },
+         "rating" : 5,
+         "reference" : "ChIJS_44o0Ets1IRMeWbiV419PY",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "309 19th Avenue South s76, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9810312,
+               "lng" : -93.237668
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.98215698029149,
+                  "lng" : -93.23626291970849
+               },
+               "southwest" : {
+                  "lat" : 44.9794590197085,
+                  "lng" : -93.2389608802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+         "name" : "Arvonne Fraser Library",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1371,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110464313332967626201\"\u003eArvonne Fraser Library\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDFCknyjZyGfCfmwwIrkqtVlGJEi475WiXHAuPZxoHEwFR3FnfSXLq4ZgqhB7dLVn5U0j6GldWkBQT6_3j1-WBKSApXP_Gkgz5t6Ba5Bok2UfMXTJQ5vyNjtb75WNcuag0pndAPN258LssTKy138qdfyiD8m0KHOp0eGkNEPPXC-YGx",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJTQAOQRIts1IRCz9q-w-uOpI",
+         "plus_code" : {
+            "compound_code" : "XQJ6+CW Minneapolis, MN, USA",
+            "global_code" : "86P8XQJ6+CW"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJTQAOQRIts1IRCz9q-w-uOpI",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 23,
+         "vicinity" : "1222 4th Street Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.975264,
+               "lng" : -93.23627929999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97662193029149,
+                  "lng" : -93.23495841970849
+               },
+               "southwest" : {
+                  "lat" : 44.97392396970849,
+                  "lng" : -93.2376563802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+         "name" : "Walter Library",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1371,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112111812391146961452\"\u003eWalter Library\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDLdQmsDeniFMsmXu9CU-mIEfVTSJKY5qcypjDbfMC4yJdpZ9YJrhkjPPr4m6hOhKBne2N641G7W_hXrNQRVdGye5T3oKJ2HHMYsiFLwtgeI2qktb4rFcP5XVmRfwmv_vzLLV4ELD6mw5VRvUuntyNHOhuQYjIlq-NChxV1xBQwqBXS",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJSwWpShQts1IRyhiwzKwLH9U",
+         "plus_code" : {
+            "compound_code" : "XQG7+4F Minneapolis, MN, USA",
+            "global_code" : "86P8XQG7+4F"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJSwWpShQts1IRyhiwzKwLH9U",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 67,
+         "vicinity" : "117 Pleasant Street Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9733095,
+               "lng" : -93.24292269999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9747201802915,
+                  "lng" : -93.24169276970849
+               },
+               "southwest" : {
+                  "lat" : 44.9720222197085,
+                  "lng" : -93.2443907302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+         "name" : "Elmer L. Andersen Library",
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115653462924051861488\"\u003eElmer L. Andersen Library\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED2RQbLSM7SdvjEMb62HAtTe9lVFX3pj7vxsGSZHYjGAy_p7bJjq1XgAewtjDd_3yDQX8SLD9oU_Yg1brtrzgz0EYry1OP0EVNvq9Nf8EdgY5BsZPqWoyIwJHE_e0v0oGgoxSWCddSruvcmvNCL503driX49DRdxbGKfp_LCyA2g-6u",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJo4P-fGots1IRovppyTiv6v4",
+         "plus_code" : {
+            "compound_code" : "XQF4+8R Minneapolis, MN, USA",
+            "global_code" : "86P8XQF4+8R"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJo4P-fGots1IRovppyTiv6v4",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "222 21st Avenue South, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.99191749999999,
+               "lng" : -93.2237427
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9932543302915,
+                  "lng" : -93.22223026970849
+               },
+               "southwest" : {
+                  "lat" : 44.9905563697085,
+                  "lng" : -93.22492823029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+         "name" : "Resources For Child Caring",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJ-5wjdQAts1IRT9otTNbOnGA",
+         "plus_code" : {
+            "compound_code" : "XQRG+QG Minneapolis, MN, USA",
+            "global_code" : "86P8XQRG+QG"
+         },
+         "reference" : "ChIJ-5wjdQAts1IRT9otTNbOnGA",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "2021 East Hennepin Avenue # 250, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.97090729999999,
+               "lng" : -93.24349169999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9717909302915,
+                  "lng" : -93.24195486970849
+               },
+               "southwest" : {
+                  "lat" : 44.96909296970851,
+                  "lng" : -93.24465283029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+         "name" : "O. Meredith Wilson Library",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1366,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102856734615321129920\"\u003eO. Meredith Wilson Library\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAJ1RapBS_tXnWfPYBrWmtRX6_dENWopeOf4oCj-I1GZx_x366EdBXD93jIjBlTdTHEFu30lhc7nCGdXTwjg-1basq48rLqdbV72eNyQZ1se-PmueRP0EAjwJAK9XmsjuPhZVKOOb18B-1I1VLCFhddLOUSaf0zhpCIHb9ziiqEZo4p",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJS_44o0Ets1IRrVGaAtTsTPA",
+         "plus_code" : {
+            "compound_code" : "XQC4+9J Minneapolis, MN, USA",
+            "global_code" : "86P8XQC4+9J"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJS_44o0Ets1IRrVGaAtTsTPA",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "university", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 28,
+         "vicinity" : "309 19th Avenue South, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9755418,
+               "lng" : -93.2539785
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9769766802915,
+                  "lng" : -93.2527031197085
+               },
+               "southwest" : {
+                  "lat" : 44.97427871970851,
+                  "lng" : -93.25540108029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "The Loft Literary Center",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4320,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104427967608061044832\"\u003eJeffery Gleaves\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA-RR6oQZpmKCo_zaYv7rnksRMKKp_3u22I6V5cxXvXPky8gS_tsWC9NS-79dH9c60HTAACLEbvEwfkdeRFlCOKAxf6IOT1_wySTeOBxK_zdZbAX8dZT6tvoeB4SN80i_Ho2EkbXXtYxzBYxUVE7ALuEd4BF-LheUb1p0uP9eW-DWA1",
+               "width" : 2432
+            }
+         ],
+         "place_id" : "ChIJZfg372Yts1IRw8XhjnHQeP0",
+         "plus_code" : {
+            "compound_code" : "XPGW+6C Minneapolis, MN, USA",
+            "global_code" : "86P8XPGW+6C"
+         },
+         "price_level" : 2,
+         "rating" : 4.8,
+         "reference" : "ChIJZfg372Yts1IRw8XhjnHQeP0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "library",
+            "book_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 17,
+         "vicinity" : "Open Book, 1011 South Washington Avenue #200, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9752658,
+               "lng" : -93.2362724
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9766092802915,
+                  "lng" : -93.2352297697085
+               },
+               "southwest" : {
+                  "lat" : 44.9739113197085,
+                  "lng" : -93.2379277302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+         "name" : "Science and Engineering Library",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJS0at0hUts1IRj8xzG6T3vQE",
+         "plus_code" : {
+            "compound_code" : "XQG7+4F Minneapolis, MN, USA",
+            "global_code" : "86P8XQG7+4F"
+         },
+         "rating" : 3,
+         "reference" : "ChIJS0at0hUts1IRj8xzG6T3vQE",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "117 Pleasant Street Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.97316669999999,
+               "lng" : -93.2430148
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9746487802915,
+                  "lng" : -93.24173881970849
+               },
+               "southwest" : {
+                  "lat" : 44.9719508197085,
+                  "lng" : -93.24443678029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+         "name" : "Administrative Financial Support (AFS)",
+         "place_id" : "ChIJo4P-fGots1IRlEbpA5IaG_Q",
+         "plus_code" : {
+            "compound_code" : "XQF4+7Q Minneapolis, MN, USA",
+            "global_code" : "86P8XQF4+7Q"
+         },
+         "reference" : "ChIJo4P-fGots1IRlEbpA5IaG_Q",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "222 21st Avenue South, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.974533,
+               "lng" : -93.23426719999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9758834302915,
+                  "lng" : -93.23271301970848
+               },
+               "southwest" : {
+                  "lat" : 44.9731854697085,
+                  "lng" : -93.2354109802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+         "name" : "Mathematics Library",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJte0l9xYts1IRal0-IaqQzvI",
+         "plus_code" : {
+            "compound_code" : "XQF8+R7 Minneapolis, MN, USA",
+            "global_code" : "86P8XQF8+R7"
+         },
+         "rating" : 5,
+         "reference" : "ChIJte0l9xYts1IRal0-IaqQzvI",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "310 Vincent Hall, 206 Church Street Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9890841,
+               "lng" : -93.2504349
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9905945802915,
+                  "lng" : -93.24854736970849
+               },
+               "southwest" : {
+                  "lat" : 44.9878966197085,
+                  "lng" : -93.25124533029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Midway Contemporary Art",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110413624960195002014\"\u003eMidway Contemporary Art\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBNJGKY2Nd_wxm8ikbbCDWUWnWC2-0JRaMKhisc4fArPFWb7I2xLIzpv0AQ9CYg7nnEtBqkHmkSeBH6lqngHyexo3x82cLLlJQbtcXWYGadsvkap4dKF8BxF8zd5IDWKf3pKNzpdpskY0bCfazgc4Q2_f4YwPRY9jsvWYZKj6Q2iwlB",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJjwR1d3cts1IRcMjgJViasks",
+         "plus_code" : {
+            "compound_code" : "XPQX+JR Minneapolis, MN, USA",
+            "global_code" : "86P8XPQX+JR"
+         },
+         "rating" : 5,
+         "reference" : "ChIJjwR1d3cts1IRcMjgJViasks",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "library", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "201 6th Street Southeast Suite 4, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.97052,
+               "lng" : -93.214567
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9719142802915,
+                  "lng" : -93.21317751970849
+               },
+               "southwest" : {
+                  "lat" : 44.9692163197085,
+                  "lng" : -93.2158754802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Textile Center",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1406,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115233877237640413608\"\u003eTextile Center\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDdqxEb-iuknGpPKIJZysan9crivANLFFl9oawHQ9KYLF5XOqZuWwgjkEFCta5qGR6pyWV53-arIm2qJZuqxgxXZpp9_DVaHuLwthO-RQ-s6ZRgEFMzA9rmXG2MQMjMz8A-mrdSxx07QgRaInThUepsdWXagdS6-0MW5Su2ZOsFyUxv",
+               "width" : 5175
+            }
+         ],
+         "place_id" : "ChIJv94mIdwss1IRJiqw8Gq4vjU",
+         "plus_code" : {
+            "compound_code" : "XQCP+65 Minneapolis, MN, USA",
+            "global_code" : "86P8XQCP+65"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJv94mIdwss1IRJiqw8Gq4vjU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "art_gallery",
+            "library",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 31,
+         "vicinity" : "3000 University Avenue Southeast #100, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9752658,
+               "lng" : -93.2362724
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9766092802915,
+                  "lng" : -93.2352297697085
+               },
+               "southwest" : {
+                  "lat" : 44.9739113197085,
+                  "lng" : -93.2379277302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+         "name" : "SMART Learning Commons",
+         "place_id" : "ChIJSwWpShQts1IRMHzA78Q8fmQ",
+         "plus_code" : {
+            "compound_code" : "XQG7+4F Minneapolis, MN, USA",
+            "global_code" : "86P8XQG7+4F"
+         },
+         "rating" : 5,
+         "reference" : "ChIJSwWpShQts1IRMHzA78Q8fmQ",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "117 Pleasant Street Southeast # 204, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9745195,
+               "lng" : -93.2344121
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97587043029149,
+                  "lng" : -93.23278536970848
+               },
+               "southwest" : {
+                  "lat" : 44.97317246970849,
+                  "lng" : -93.2354833302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+         "name" : "Sevareid Journalism Library",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101032576895350197912\"\u003eТемирлан Джаныбек уулу\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEClYp3L2N5hXA2BVr2h09r32MCcizFsPCTQIjhMeL0y2TQAigQuT6ymVIIu5huitVRvC6Dx3mpPQbr13zNfQbsNsTt_d4rAk3ZlxdgnEIJUT5X0oya2fyl-hmo8XDlKHO2pqT2de6kzYz8z-cu9_BAf3YwmuleT5w58NOW0EhXyk26o",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJte0l9xYts1IRXe0pP4lZK7Q",
+         "plus_code" : {
+            "compound_code" : "XQF8+R6 Minneapolis, MN, USA",
+            "global_code" : "86P8XQF8+R6"
+         },
+         "reference" : "ChIJte0l9xYts1IRXe0pP4lZK7Q",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "206 Church Street Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.97093439999999,
+               "lng" : -93.2435773
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97228338029149,
+                  "lng" : -93.2422283197085
+               },
+               "southwest" : {
+                  "lat" : 44.96958541970849,
+                  "lng" : -93.24492628029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+         "name" : "University of Minnesota Libraries",
+         "place_id" : "ChIJ9T-lpEEts1IRtiF5ew35YU8",
+         "plus_code" : {
+            "compound_code" : "XQC4+9H Minneapolis, MN, USA",
+            "global_code" : "86P8XQC4+9H"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ9T-lpEEts1IRtiF5ew35YU8",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "309 19th Avenue South #0438, Minneapolis"
+      }
+   ],
+   "status" : "OK"
+}

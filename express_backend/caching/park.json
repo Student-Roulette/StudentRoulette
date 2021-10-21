@@ -1,0 +1,938 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEDl8L1dGpwO9p720LB0L7UQMPl-eSBEA8F2BbQk-4KTG0YhuzsbqDyFjA-vErAbKjF2qCwwjQoEQrftuhmTBb8fFR61s3HBEwk0xvdg8AC1ApknmIHPdZOB-j72flezC9XlS-ELwgc9Ak8mK1BSvkHzVTBIRFfjdZ2W1HbjRJvBxDwo5SrrIIjDeBaLf_hZnuoGmeHnMBx4X1XwLJ44sX8iNkOvJv9cKPAUXR52lfULrFn_JSDkompRuf1UPhTH5UsC-rH-Wryj1gA_kMh8CCGcaDwphFNv5ZBHStsX66ip3VKURLg_-T7eWm3AbrtOT3izor47pmBhROwU_KM7swx5OqFSY1_aoyb0h0W2mU8zne-Fw2a7RRMtmFfmfoz5hl0Rj_gy3ah-0ZWkdV8fiP4lCrlNejZf8c33-MR3Ex7wkMLt",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9776218,
+               "lng" : -93.25325120000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9789707802915,
+                  "lng" : -93.25190221970851
+               },
+               "southwest" : {
+                  "lat" : 44.97627281970851,
+                  "lng" : -93.25460018029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Gold Medal Park",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108260725825224814544\"\u003eCosmin Harjan\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEACFtPlDzoElwoYjsLgw9vb6jVzrMDlsN9ljIbOkjiM8Sa4r3akSdXewCv9VoH1oDTWRfMfFItqlt5Nr2xAP7Vhj3cOgGUuidgVIqUTdchLIgiS9HuxqlACsX_21Bbgms-TtqLZbAfayoovtVMu6iMLl7afWZDQ2KDUPjqOmZa_8yP6",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJtaby02Uts1IRWnisw09Vshk",
+         "plus_code" : {
+            "compound_code" : "XPHW+2M Minneapolis, MN, USA",
+            "global_code" : "86P8XPHW+2M"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJtaby02Uts1IRWnisw09Vshk",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 756,
+         "vicinity" : "Second Street and 11th Avenue South, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9867905,
+               "lng" : -93.2314105
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9881401802915,
+                  "lng" : -93.22954431970849
+               },
+               "southwest" : {
+                  "lat" : 44.9854422197085,
+                  "lng" : -93.2322422802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Van Cleve Park",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104250265600494073114\"\u003eEmily Lazar\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBirrL6aPwxCHuNArEe4vgQ6i6YSphAXOHrbfS4KIiMSU2Cl0kXcQ8rjeLhn6unRmZBLhDfxllSP2kPZNDDYgYZq7IDIhtn4SdZs9UBwKd8PZlpICx7b9K2Fjvi6hCiQUvOa8vUfHZX_kcCt_6__XMRpHxNTofgzxPeWVk7T9DarAk3",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJpQjUVw8ts1IRwNoM3slaAa4",
+         "plus_code" : {
+            "compound_code" : "XQP9+PC Minneapolis, MN, USA",
+            "global_code" : "86P8XQP9+PC"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJpQjUVw8ts1IRwNoM3slaAa4",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 321,
+         "vicinity" : "901 15th Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.96453580000001,
+               "lng" : -93.22782869999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.96578008029151,
+                  "lng" : -93.2265976697085
+               },
+               "southwest" : {
+                  "lat" : 44.96308211970851,
+                  "lng" : -93.2292956302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Franklin Terrace Off-Leash Dog Park",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107162833162227955399\"\u003eJustin Domnitz\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECDY9Ce_ZkvhOgoLg8nFCIUVdiF5Y24FuEIrMN8B16QKzurnAFXkTne3mRh0I_1HkKu2J1eflzxZh39ByjGPxv_nycPKMzhIpdp98pH-dsoN5KGiegIbcImYFGtNBceK_D8v77Skkuo4u2FCaRy2z-8btERMLMr9QOLgv34Witl_F6_",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJK7YF3Dots1IRpW20bMTFqks",
+         "plus_code" : {
+            "compound_code" : "XQ7C+RV Minneapolis, MN, USA",
+            "global_code" : "86P8XQ7C+RV"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJK7YF3Dots1IRpW20bMTFqks",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 201,
+         "vicinity" : "925 Franklin Terrace, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9703514,
+               "lng" : -93.2350599
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9719496302915,
+                  "lng" : -93.2335711697085
+               },
+               "southwest" : {
+                  "lat" : 44.9692516697085,
+                  "lng" : -93.2362691302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "East River Flats Park",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113777634384141593689\"\u003eLyndon Duan\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBOIL4KqZbPc50_y_WPhXu7oMEfvCV-M0U6Cq_yt_SUmDNCB5zHdZqRwu4PVKpZ4IJ8ICvea6zAfhU3md6EMjL-0g4R3KmmdD2f9auTOKxelsWRLl73I7d5a_VhDr6mR3DSNeVrJGMfDOs0huP8GyuCoptXAcvRu6PreYz3eP-A0VTL",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJgUyTgz4ts1IRA-DsElheo-E",
+         "plus_code" : {
+            "compound_code" : "XQC7+4X Minneapolis, MN, USA",
+            "global_code" : "86P8XQC7+4X"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJgUyTgz4ts1IRA-DsElheo-E",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 160,
+         "vicinity" : "351 East River Parkway, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.99169,
+               "lng" : -93.2236381
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9931406302915,
+                  "lng" : -93.2221779697085
+               },
+               "southwest" : {
+                  "lat" : 44.9904426697085,
+                  "lng" : -93.22487593029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Hennepin Square Office M S P Park",
+         "photos" : [
+            {
+               "height" : 3888,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112202102188521312315\"\u003eAndrew Dols\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDQas8Dw_5Y_u2aJJKaATjUWyc6GdUDoPUg-Xrpyq4m58JtiG07yi341pXXJ1foLpATvdH4myxeT88kTo4xdhylzGHRfnd1pMbmrFq42r9cWM_wfpZUnZ1b32TMFvSMb5LQr8-L6Yq5kxXEjKrrl533Touo2T0sQwxy-g3Z1mjTPO1H",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJ-5wjdQAts1IRLB75gtJ1sIA",
+         "plus_code" : {
+            "compound_code" : "XQRG+MG Minneapolis, MN, USA",
+            "global_code" : "86P8XQRG+MG"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ-5wjdQAts1IRLB75gtJ1sIA",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "2021 East Hennepin Avenue UNIT 120, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.958293,
+               "lng" : -93.231444
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9600944802915,
+                  "lng" : -93.22994191970851
+               },
+               "southwest" : {
+                  "lat" : 44.9573965197085,
+                  "lng" : -93.23263988029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Matthews Park",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3447,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102974702234364197370\"\u003eCarl Lundstrom\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDUbujboO4ZUrUnh-Kj3vpiu3hNY-YwzB5GYB3sHqWYJjU-QezieGp9NmwzkWgzYKwggueTv6xt-4fRS-gUNTrewX4E3wYtiL8OcK3K6cnJTsOrf6v1g3QFiYzFbvUeRmBbQpvzAsu_J0Q43aA7dfeG98xhRveBf4JEIu2PlwNiXhYe",
+               "width" : 3448
+            }
+         ],
+         "place_id" : "ChIJ_2gI0jMts1IRird8mg9W2jY",
+         "plus_code" : {
+            "compound_code" : "XQ59+8C Minneapolis, MN, USA",
+            "global_code" : "86P8XQ59+8C"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ_2gI0jMts1IRird8mg9W2jY",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 249,
+         "vicinity" : "2318 29th Avenue South, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.97861210000001,
+               "lng" : -93.23643840000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9798439302915,
+                  "lng" : -93.2348003197085
+               },
+               "southwest" : {
+                  "lat" : 44.97714596970851,
+                  "lng" : -93.2374982802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "The Knoll",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113025878801846820352\"\u003eBaran M\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECak8lCBe1CqNOEEpareO31kP5MxshDHsei6fzuGQemueuYqSGC4bOS_hkGHUtaVtSJ3afLwqY0Rg4y29k3HaXs7eidZSt6xkD5rlosUO7jkzoGBsGMkjl4J6VPTPzQrnAjJsG0W1KsPyyCXECeK3vQY0T1IjP8OparCGfAfkVfxHza",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJcfVy5xMts1IRkyFMJR2CgrE",
+         "plus_code" : {
+            "compound_code" : "XQH7+CC Minneapolis, MN, USA",
+            "global_code" : "86P8XQH7+CC"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJcfVy5xMts1IRkyFMJR2CgrE",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 20,
+         "vicinity" : "27 Pleasant Street Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9701564,
+               "lng" : -93.25140709999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97156358029149,
+                  "lng" : -93.24956836970848
+               },
+               "southwest" : {
+                  "lat" : 44.9688656197085,
+                  "lng" : -93.2522663302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Currie Park",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1932,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102546084370364192160\"\u003eJose Montes\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECy9vdCcgTENxcvCO5fRxw7ohCfrnrNE3KwKUR6v3b7HEFJ6oL0RDA7LgB9ns_DmudY0aECOSua0lhtkOuOoN8Sv1wcfgMJJR4aw9G590Hwo9mMAmo-eRr5ubX6To8DejaTc2f2Ju1HtapZOtSFNn9qwXX6L3uVlypTEOtkYOp7VZl2",
+               "width" : 2576
+            }
+         ],
+         "place_id" : "ChIJ_8jO3Vwts1IRzWI8BbIv3ik",
+         "plus_code" : {
+            "compound_code" : "XPCX+3C Minneapolis, MN, USA",
+            "global_code" : "86P8XPCX+3C"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ_8jO3Vwts1IRzWI8BbIv3ik",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 77,
+         "vicinity" : "500 South 15th Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9669451,
+               "lng" : -93.2292599
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9683317302915,
+                  "lng" : -93.2278856697085
+               },
+               "southwest" : {
+                  "lat" : 44.9656337697085,
+                  "lng" : -93.23058363029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Annie Young Meadow",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110238114595607538429\"\u003eLaopenn Peng\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED5tf1dHIWZCVavcNhPlQG5eulrMXrvt27InGReAiW3tpUAsgG5fZwd8PAybOtPQFxLTRj5ZW7Eqxowo5gKdIIQXvqd1Uw51gWBtE1BeCEJk4AmZZNLmRvV6RmVBls9QTy0C1x0YAi6fgxVwjmjHxuZzTW0-4_bvUtPUm9bsqe1ZGmJ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ8x1-xSQts1IR1lEODrbDjsI",
+         "plus_code" : {
+            "compound_code" : "XQ8C+Q7 Minneapolis, MN, USA",
+            "global_code" : "86P8XQ8C+Q7"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ8x1-xSQts1IR1lEODrbDjsI",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 34,
+         "vicinity" : "2901 West River Parkway, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9659625,
+               "lng" : -93.23145439999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9669791802915,
+                  "lng" : -93.23010726970848
+               },
+               "southwest" : {
+                  "lat" : 44.9642812197085,
+                  "lng" : -93.23280523029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Riverside Park",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116144514195217497681\"\u003eJack Phillips\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBufEAF_IeDtHHKcOwD-v4liNQR2z1tePvEskzobMJ_50pHNz5TvoQKaJUd11WFnWahuxePNaPMVlQycCt35I296CqT63k3qhTgOXFXTA9WeH6_F2O0DCfMnL1k39GppqtR7Wvb3K4E882Ofu-bxagYRD77zzpE_iyJok2MJ1QtzIZU",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJRTI9_Tots1IRljOLo1M6NaA",
+         "plus_code" : {
+            "compound_code" : "XQ89+9C Minneapolis, MN, USA",
+            "global_code" : "86P8XQ89+9C"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJRTI9_Tots1IRljOLo1M6NaA",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 102,
+         "vicinity" : "2820 South 8th Street, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.97042390000001,
+               "lng" : -93.24352279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97154913029151,
+                  "lng" : -93.24217186970849
+               },
+               "southwest" : {
+                  "lat" : 44.96885116970851,
+                  "lng" : -93.24486983029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "West Bank Community Garden",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2730,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112864065202158173006\"\u003eKristen Anderson\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA1Eotaw1vluCoczm5TEAHoBAlYOZHm1FOmk5pfL3Y_rbuxacAGCoQfh1gcfvfCQDU_ZiFbIYd1GvCPQhv22g9Wt34ovpaWzxXlCHErSvdbzvxbd9nRfiRvDVxfKeLfcTMIrB0b3etj-hzeeZsoGYEdWKiTUq58b5jqtex1_B7_7t7t",
+               "width" : 2966
+            }
+         ],
+         "place_id" : "ChIJU05Qp0Ets1IReIBju_tJrhw",
+         "plus_code" : {
+            "compound_code" : "XQC4+5H Minneapolis, MN, USA",
+            "global_code" : "86P8XQC4+5H"
+         },
+         "rating" : 5,
+         "reference" : "ChIJU05Qp0Ets1IReIBju_tJrhw",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "2001-2099 South 4th Street, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9652534,
+               "lng" : -93.2401514
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9666121302915,
+                  "lng" : -93.23919076970849
+               },
+               "southwest" : {
+                  "lat" : 44.9639141697085,
+                  "lng" : -93.24188873029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Murphy Square",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106225658135750050293\"\u003eAbdirahman Hirad\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAM4RYh_tAn3D0klKhD_U15MhjMHjmx4-EktaifyxoE_BuX1InkkSihIbuZgxI-uh0Tf6YzATILEKajDREO3_ebYnpeJNQUpKS4saacYA2iW2waOXr1r4oQp72_AAyYyic2SowzMS4zIuir9gpn2VaJv_WGVznUc5D-Y5q0PW2wcmhY",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJRXupmkcts1IRx6dGJMqti_g",
+         "plus_code" : {
+            "compound_code" : "XQ85+4W Minneapolis, MN, USA",
+            "global_code" : "86P8XQ85+4W"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJRXupmkcts1IRx6dGJMqti_g",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13,
+         "vicinity" : "801 22nd Avenue South, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9860769,
+               "lng" : -93.2215836
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9873943802915,
+                  "lng" : -93.22023396970849
+               },
+               "southwest" : {
+                  "lat" : 44.9846964197085,
+                  "lng" : -93.22293193029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "FairShare Farm",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102631511802093240220\"\u003eCody Olson\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAlNa_spWBdQJB9QevA8fAfKA_dzMZpBKuVv28bN-p6eD_blEKAF46BgdTJoMha0JorQMp5MnLnTtNhH-Vy3Mdzyo1chiixSQ7EGZreBClpKkX9K7ZQI90o2mppIu8_Hz6jL8QyoeRMUjiHd5IHsNUZgT5sIVhtpxqbgY1ZQmx4rSGp",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJRebsiv0ss1IRvI1JClvDOSs",
+         "plus_code" : {
+            "compound_code" : "XQPH+C9 Minneapolis, MN, USA",
+            "global_code" : "86P8XQPH+C9"
+         },
+         "rating" : 5,
+         "reference" : "ChIJRebsiv0ss1IRvI1JClvDOSs",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "2198 Southeast Fairmount Street, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.96082000000001,
+               "lng" : -93.242778
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9621276302915,
+                  "lng" : -93.2415464697085
+               },
+               "southwest" : {
+                  "lat" : 44.95942966970851,
+                  "lng" : -93.2442444302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Normanna Triangle",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101377085945862705907\"\u003eJRob Zetelumen\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB7sIRi2wsLvga34OxMpDXUmfjPCpMDOdKn0YBD0kNgE1ZrlZOpqqVgWZxAn_tQK0EbGzeCuiKq3gTyhIUGLh_xVoC3kUfcuJ9A9_hSPx79veB7ef1tGvCzD6VpTzg1jrdL45s_kGI3S5S4mAIdWDYeAv_Gt3TdUDhU2UZIHvio8-Gu",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJpztWH0kts1IRP4Klwk1eHnQ",
+         "plus_code" : {
+            "compound_code" : "XQ64+8V Minneapolis, MN, USA",
+            "global_code" : "86P8XQ64+8V"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJpztWH0kts1IRP4Klwk1eHnQ",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "2201 Minnehaha Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9879769,
+               "lng" : -93.2214106
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.98932628029149,
+                  "lng" : -93.22013771970849
+               },
+               "southwest" : {
+                  "lat" : 44.9866283197085,
+                  "lng" : -93.22283568029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Como Corner Community Garden",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106745096131657819812\"\u003eShawn Miranda\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECBBV4WrzaBuBTjmDU07E0sq_LBqlhucsHlKgVCGtiaYn4h3d1kch6nnsT1YnzY5HdQtrqcPpmeIMpch78VtpEm7p6q3poZ7iFCs5BjKuo_ju0PGiRzcnXM00E4kq1Vv4EIYEX3VWFRLW0mvhC3Hw7IZudhen2ZalltWdEyxay89COH",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJv3snG_4ss1IRlk0qqRFlEE0",
+         "plus_code" : {
+            "compound_code" : "XQQH+5C Minneapolis, MN, USA",
+            "global_code" : "86P8XQQH+5C"
+         },
+         "rating" : 5,
+         "reference" : "ChIJv3snG_4ss1IRlk0qqRFlEE0",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "1000 22nd Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9826286,
+               "lng" : -93.25269849999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9842534802915,
+                  "lng" : -93.25111626970849
+               },
+               "southwest" : {
+                  "lat" : 44.9815555197085,
+                  "lng" : -93.2538142302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Father Hennepin Bluff Park",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112261453825922807743\"\u003ezohre nemati\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAYLKJnKNhEMooHcuH8c-UY3CdVr7hY8SA-vWYQpfUyMalXJbSjxaKnpxCdu2CrNo12-Dw0bkZUU6jKPABST8WsXNhXcmDewQbNMnnAn3x45MzmMEWJGdke9e1jpV9Em5e5hf3RSgsx93LvxPZS7Eh2bHM7YIr7hNAuddMfiWOzPKsY",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJd6p4n3ots1IRsvZ9bqqonfU",
+         "plus_code" : {
+            "compound_code" : "XPMW+3W Minneapolis, MN, USA",
+            "global_code" : "86P8XPMW+3W"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJd6p4n3ots1IRsvZ9bqqonfU",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 702,
+         "vicinity" : "420 Southeast Main Street, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9896842,
+               "lng" : -93.22307470000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9910646302915,
+                  "lng" : -93.22172671970851
+               },
+               "southwest" : {
+                  "lat" : 44.9883666697085,
+                  "lng" : -93.22442468029153
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Talmage Crossing Community Garden",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109754615901858709009\"\u003eRAMANISH SINGH\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBvn4IsjWMcjmR7cMyk6ZXJY7Qksqa5zhCqXDtXP8bLzqR4bWBSdKNHGfD_NZ-lvRafsL2OSWmT96gXz6NnQxu1hI4CyUM7wimvTpAaOU9y9yfJrMB5_QCSTB6tPWxJDep5obLV2FuS_HdS9vl0ECBcgtcDB9k6yc7yGI8ESkhaHP3b",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJV5O7NAAts1IREf_gbbAv56U",
+         "plus_code" : {
+            "compound_code" : "XQQG+VQ Minneapolis, MN, USA",
+            "global_code" : "86P8XQQG+VQ"
+         },
+         "rating" : 4,
+         "reference" : "ChIJV5O7NAAts1IREf_gbbAv56U",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "2094 Talmage Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9873808,
+               "lng" : -93.25147020000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.98897213029151,
+                  "lng" : -93.2499240197085
+               },
+               "southwest" : {
+                  "lat" : 44.98627416970851,
+                  "lng" : -93.25262198029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Holmes Park",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114760957114249185118\"\u003eChristian Neal-Herman\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECN_TPCjm81C0s3bdAcN0OsFcKGmhlRIVuVt2Sf7ODdClk58KPNvwdKRv996UbyFSbf6W8B-McZlDPH6-AiCu38sR5KA5qB4J_Q8OW4iuw1h6izwsk90vXZZdFG3LvtoHBZczMBRaQf6DeFAyJDnU2Z0IlYP8B0f2iH64nViuAPDjuU",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJu4q-XHcts1IRvx6EBECgzz8",
+         "plus_code" : {
+            "compound_code" : "XPPX+XC Minneapolis, MN, USA",
+            "global_code" : "86P8XPPX+XC"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJu4q-XHcts1IRvx6EBECgzz8",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 74,
+         "vicinity" : "414 Southeast 3rd Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.980031,
+               "lng" : -93.25798569999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9813914802915,
+                  "lng" : -93.25685826970849
+               },
+               "southwest" : {
+                  "lat" : 44.9786935197085,
+                  "lng" : -93.25955623029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Mill Ruins Park",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109690999549202342178\"\u003eJaime Rivera\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBPnX7pkt2Z1IEVGEOi2bsTd0MEX4Uv43oAIb9EkMYmaB36c6UO9OyjXuY4-v0LriHlItCrDrwJE3g43icqbMEV2HM7CzpENm-20vifF7cg-x0fav_IiOmDB96mi0BTVo2nE9H8tf1kWcfmJYyJ_Ekd9H18BEuvCzhNeLbiacbV1JIj",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJxVSAem8ts1IR_-4YTVVSdSw",
+         "plus_code" : {
+            "compound_code" : "XPJR+2R Minneapolis, MN, USA",
+            "global_code" : "86P8XPJR+2R"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJxVSAem8ts1IR_-4YTVVSdSw",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2318,
+         "vicinity" : "102 Portland Avenue South, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9694819,
+               "lng" : -93.2605159
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9705183302915,
+                  "lng" : -93.25916611970851
+               },
+               "southwest" : {
+                  "lat" : 44.9678203697085,
+                  "lng" : -93.26186408029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "icon_background_color" : "#4DB546",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+         "name" : "Elliot Park",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109567587635776583370\"\u003eBrian Wene\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDwTFz5z396pWIbzjhpb7D5Gn4CHcRrifoR0Q92jgfhpmw3CJouwKpe2lwYQodLq234p6Ui9VaAbgsjX_sLXwiRwDnYiDPSx_4H461tR-1YisSXsCXwAcsa1G7hGNJHkd_3PIUtAkEIcBeDjUz9Z8sn2Yy64lxzdOfaGfEs-XwgHz5k",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJbQ8KfF8ts1IRpeb97hzjfM0",
+         "plus_code" : {
+            "compound_code" : "XP9Q+QQ Minneapolis, MN, USA",
+            "global_code" : "86P8XP9Q+QQ"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJbQ8KfF8ts1IRpeb97hzjfM0",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 233,
+         "vicinity" : "1000 East 14th Street, Minneapolis"
+      }
+   ],
+   "status" : "OK"
+}

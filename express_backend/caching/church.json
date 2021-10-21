@@ -1,0 +1,897 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEALFRHVoMXdFfHvXV0eULev0M9x61fLXPQNWr6gcNmVVF2SD5Ev_hqzkvz-YEWy_aq2ae6nGITUJlJASqNUIRUHdwIWZq-EPrZELrvCLS50v1ate-g_t21RPaOEHOPQDVutDiKIsWFEigOEcYBUvSTCrYkU1Qc4ikJ-k_rc10UtLLZno-3LcedN06JnL0OPEQ3vJTw_-CEPeDtkdq_PKIIqa6VcDXFqwAEn7bPVWOoSpwoclNzF5jf3w24NvNO4wDKxsluemjsyBztkckRY8pidwIW3wpWIaP1rwfoRHErJLj4izyjnjykC5uawcYBaYuO9P0kMYduudyy5wSQDs5k7QQ_jEteCZbdi-rb40eg5pf2TFNQypkuewIezatqtvp2vPP0D62jGCHtit7cKuA0_fJBiPGzisUD2cRBnmMbmuXwA6RA",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9691667,
+               "lng" : -93.255
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9705355802915,
+                  "lng" : -93.25386491970849
+               },
+               "southwest" : {
+                  "lat" : 44.9678376197085,
+                  "lng" : -93.2565628802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Bethlehem Baptist Church, Downtown Campus",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108605992503982159004\"\u003eBethlehem Baptist Church, Downtown Campus\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECKrqjW8UaMTWbK774Mv-Uw6t-TVh7gE-gdCFkhPU4NOGjvjF0qwKFyhrAcgjozgt_1F01BZHSXiAylS6FMtQZ21H040SmgDboGBVUeqe7bPJ0CGZUmbjYNfT2QTe1wlpRKeIimndbf4gxNkQPhj2c7WAnL9KsQQlqYVZ0YAPpGCdbr",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJNYQMmV4ts1IR2HfiVVhDKgE",
+         "plus_code" : {
+            "compound_code" : "XP9W+M2 Minneapolis, MN, USA",
+            "global_code" : "86P8XP9W+M2"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJNYQMmV4ts1IR2HfiVVhDKgE",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 146,
+         "vicinity" : "720 13th Avenue South, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.983481,
+               "lng" : -93.23568779999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9849003802915,
+                  "lng" : -93.23451036970849
+               },
+               "southwest" : {
+                  "lat" : 44.9822024197085,
+                  "lng" : -93.23720833029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "University Lutheran Church of Hope",
+         "photos" : [
+            {
+               "height" : 3740,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115651607540121905516\"\u003eMatthew Shepherd\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDFnlpHpxleTMVqXokERS0WpkuihA2puho_ZwN29dkAkmOCO0VTIi31DFoekswSt2IzcK694rZpD1vAjxXAqvdHBxqp028Brgk2zNivIXUP0mNo-CplrH5kbWBK4tjCCE_0K5BowQhyqijRLOeu4WOa2-97Rh9kGwX8-CCJFFuLhrr9",
+               "width" : 2701
+            }
+         ],
+         "place_id" : "ChIJZ4A7bA4ts1IR2vujZrScK34",
+         "plus_code" : {
+            "compound_code" : "XQM7+9P Minneapolis, MN, USA",
+            "global_code" : "86P8XQM7+9P"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJZ4A7bA4ts1IR2vujZrScK34",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13,
+         "vicinity" : "601 13th Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9805517,
+               "lng" : -93.2378789
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9817851302915,
+                  "lng" : -93.23661001970849
+               },
+               "southwest" : {
+                  "lat" : 44.9790871697085,
+                  "lng" : -93.2393079802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "University Baptist Church",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116019142133569015288\"\u003eMoto Guzzi Vrm\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBVXqrD1wtpE5X3GAybaZI3Ukxx5bdDyPupkI3DN3NFR34LZ2535Ao1QISA6YGrvbuuWEn-xNLfMNfWcoMFXA7fYM4JY71CDn2WAnqjyr2Vjo572tXDJtxwCFS5UpuKhgBh6evXqTIYBQZhhTVXsCdf1w6ihpkK7BDQYD8TcWPoG3lP",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJLQRQRRIts1IRtn3O05Pv7qs",
+         "plus_code" : {
+            "compound_code" : "XQJ6+6R Minneapolis, MN, USA",
+            "global_code" : "86P8XQJ6+6R"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJLQRQRRIts1IRtn3O05Pv7qs",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "1219 University Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9642819,
+               "lng" : -93.21745609999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.96578863029149,
+                  "lng" : -93.21610236970849
+               },
+               "southwest" : {
+                  "lat" : 44.9630906697085,
+                  "lng" : -93.21880033029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "St Frances Cabrini Catholic Church",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106283902563374163854\"\u003eDavid Alexander\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAq8rFzn_21lRff4g_IWCRfw4eECSa6ak8hBFPf8P1Orhw3MTNVpueHqHtpK5D51OeUoCQVSzWdrS-KvtTz1u9Sx2YiANmw9GZ6oJHEFdLXG9Qq8kdprUqyK3Jx0AAMHY2C_kZonTCQLsg-uH_j49cJK2EX2LTo-eIbkFoAGypbmhgY",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJDYv6Itgss1IR43K0DnEsDYg",
+         "plus_code" : {
+            "compound_code" : "XQ7M+P2 Minneapolis, MN, USA",
+            "global_code" : "86P8XQ7M+P2"
+         },
+         "rating" : 4,
+         "reference" : "ChIJDYv6Itgss1IR43K0DnEsDYg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 32,
+         "vicinity" : "1500 Franklin Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9828007,
+               "lng" : -93.2368389
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.98423453029149,
+                  "lng" : -93.23529996970849
+               },
+               "southwest" : {
+                  "lat" : 44.9815365697085,
+                  "lng" : -93.2379979302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "St Lawrence Catholic Church",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3099,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111888820743606348777\"\u003eSt Lawrence Catholic Church\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAaCf61xewbcCHO-2gmQoZta1OKojvjc7uLLfxEl2yc3GDJLPA3_okqcd9mr-2HaO2VYanl4bK2ei5gteETbv6bIvPXH90p0905QWo5JuvzJQS_ALalJ2AT-0Rfl-8pC2jvoa8LI99zS8IbHl7hNnsp6u1DwdGpmb8dN3EPklPnxQu2",
+               "width" : 4719
+            }
+         ],
+         "place_id" : "ChIJl3zU_A0ts1IR1DTJPXC-9ro",
+         "plus_code" : {
+            "compound_code" : "XQM7+47 Minneapolis, MN, USA",
+            "global_code" : "86P8XQM7+47"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJl3zU_A0ts1IR1DTJPXC-9ro",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 43,
+         "vicinity" : "1203 5th Street Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9727787,
+               "lng" : -93.23065330000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9741267802915,
+                  "lng" : -93.22912351970851
+               },
+               "southwest" : {
+                  "lat" : 44.9714288197085,
+                  "lng" : -93.23182148029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Grace University Lutheran Church",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105058398746970423397\"\u003ePaul Jahn\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED87OA0XxriYCAgps8P0CR6Bp1PqLgwuvCQjAJTW1vb9Pmpcpyvv3Y2MTZiz9IR2f5wY4bfSHCOTa_ATVmo1LlZxewRigM6IAyIhD2OVTOwIBSl8_E70zxcTRd8__PJ_Ik0jeu-S7rlgFDrAVSekDY2SKHhMHg8cSIMAj9EdFp3Vw-6",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJefhEUz0ts1IRtbz6y4hcx9w",
+         "plus_code" : {
+            "compound_code" : "XQF9+4P Minneapolis, MN, USA",
+            "global_code" : "86P8XQF9+4P"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJefhEUz0ts1IRtbz6y4hcx9w",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 34,
+         "vicinity" : "324 Southeast Harvard Street, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9712112,
+               "lng" : -93.22696739999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9725601802915,
+                  "lng" : -93.2256184197085
+               },
+               "southwest" : {
+                  "lat" : 44.9698622197085,
+                  "lng" : -93.2283163802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Stadium Village Church",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1109,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117141914921689463900\"\u003eStadium Village Church\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDNDiSIGUob7xAcXy99MpkQ-sC9Ivs0WJlF_pFlKOxuqZsq79Yr488lZBN5ZxRiCPu5ps8hAgdziZoGbpcSNF3U-3fJO0RaSz5x1Fe0x3f6WnDcgJ-4Wvvfst8ydd5Oes9aeQ0LMC22jqmS_REUb4tXmu3FdAw6KlqTZpOCSW2_Cja-",
+               "width" : 1470
+            }
+         ],
+         "place_id" : "ChIJbxfTTSIts1IROl3BL67PM7k",
+         "plus_code" : {
+            "compound_code" : "XQCF+F6 Minneapolis, MN, USA",
+            "global_code" : "86P8XQCF+F6"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJbxfTTSIts1IROl3BL67PM7k",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 17,
+         "vicinity" : "501 Southeast Oak Street, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9584193,
+               "lng" : -93.24875659999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.96012958029151,
+                  "lng" : -93.24753906970848
+               },
+               "southwest" : {
+                  "lat" : 44.95743161970851,
+                  "lng" : -93.2502370302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Holy Rosary Church",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113996460509775857574\"\u003eFB Page: Catholic Faith In Pictures\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECta_OHvgLamcanYG9x-JZq0e79PlcSmoXumYZXKmrJwKO7xENHrLU1GblX2LJ-SCGnyLaJIl6qT9KsXGlUgbmU1_WfTgbRIWREMRpMAfVq4IbiGKX19KANpHnC9n6Bbp7ghqlQab_C3ijmhQFge3dfwuj77uVH7kP3nHSQnPjeGERg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJUVwk_1Ets1IRBzIsrEYOoKw",
+         "plus_code" : {
+            "compound_code" : "XQ52+9F Minneapolis, MN, USA",
+            "global_code" : "86P8XQ52+9F"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJUVwk_1Ets1IRBzIsrEYOoKw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 36,
+         "vicinity" : "2424 18th Avenue South, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.97084909999999,
+               "lng" : -93.2584025
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9720755302915,
+                  "lng" : -93.25692231970849
+               },
+               "southwest" : {
+                  "lat" : 44.9693775697085,
+                  "lng" : -93.25962028029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Hope Community Church - Downtown",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 5066,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102795944521187289287\"\u003eChad Davis\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBe8m_7FlqcOZCdyqXvtVRAjPRlUKTK8xPy1KFK33HXUG8di9hbOwAdZtzpW5dRmYcWqYe4HMp9qXbsZ7XBErIGL1vVg-X3K75nUyHZl8t2q8-OOYlyeFxUQLengqk3LqH3FxUsIJP_T6TiWffXT__fs-DtJEWydZejNm0A8GC52Nlv",
+               "width" : 7595
+            }
+         ],
+         "place_id" : "ChIJ2wlFul8ts1IRaR-Uu_ZjuvA",
+         "plus_code" : {
+            "compound_code" : "XPCR+8J Minneapolis, MN, USA",
+            "global_code" : "86P8XPCR+8J"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ2wlFul8ts1IRaR-Uu_ZjuvA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 70,
+         "vicinity" : "707 10th Avenue South, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.972264,
+               "lng" : -93.26046099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9737314302915,
+                  "lng" : -93.25901166970849
+               },
+               "southwest" : {
+                  "lat" : 44.9710334697085,
+                  "lng" : -93.26170963029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "First Covenant Church Minneapolis",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108553285640857185248\"\u003eJames Albinson\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDjQ6iY4A_KfzfPEpsj3erV0C_FtPxWuEYw7h2nHeg3Zs44Uq1pNv8tAN7rcus5mpv1ufGMNauvEeeZWd_Yk6hbXiNvpN24GNcKLxQsxSmLAHtIi5PkWfsM926slJUl-r1cp2bH9_TTqGtRw75xDmcdRajMUIy3YH02NRFg_LI01Zw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJO-ltAGAts1IRnFo9WdHc8E8",
+         "plus_code" : {
+            "compound_code" : "XPCQ+WR Minneapolis, MN, USA",
+            "global_code" : "86P8XPCQ+WR"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJO-ltAGAts1IRnFo9WdHc8E8",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 44,
+         "vicinity" : "810 South 7th Street, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9611971,
+               "lng" : -93.2317245
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9624380302915,
+                  "lng" : -93.23037496970851
+               },
+               "southwest" : {
+                  "lat" : 44.9597400697085,
+                  "lng" : -93.23307293029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Faith Mennonite Church",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100187067861961158762\"\u003eBeth Barnes\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECCcpBu0vSW2rYd76i_8cfXX_Z-VxkENTUVcmFRB-McZx1kEpezX98lF-8tkE8jxPZHNtSi7peY0D1Rr9b5DJomu_fEE4NvaHd74yGi1Y6j65rpwQS8z3bslbXHrglnrfa_rCQEArauihj-jcJK6ND0ppQs1LRf1aHQcgF5vD2ur9Rv",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ-cXVAzEts1IRLJy-ZAUq0KM",
+         "plus_code" : {
+            "compound_code" : "XQ69+F8 Minneapolis, MN, USA",
+            "global_code" : "86P8XQ69+F8"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ-cXVAzEts1IRLJy-ZAUq0KM",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "2720 East 22nd Street, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.96839019999999,
+               "lng" : -93.21461959999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.96986738029149,
+                  "lng" : -93.2132727197085
+               },
+               "southwest" : {
+                  "lat" : 44.96716941970849,
+                  "lng" : -93.21597068029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Prospect Park United Methodist",
+         "place_id" : "ChIJ62By_dsss1IRd543JFrKD_8",
+         "plus_code" : {
+            "compound_code" : "XQ9P+95 Minneapolis, MN, USA",
+            "global_code" : "86P8XQ9P+95"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ62By_dsss1IRd543JFrKD_8",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "22 Southeast Orlin Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9840765,
+               "lng" : -93.2441829
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9853792302915,
+                  "lng" : -93.2427288197085
+               },
+               "southwest" : {
+                  "lat" : 44.9826812697085,
+                  "lng" : -93.24542678029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Faith Pentecostal Church",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 374,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113335029708993506288\"\u003eFaith Pentecostal Church\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDPTxz6WnX8dp3tCPm9-kqx_cTov5IQIdqitZTWG3CTlGbdOJ8U97Ct08_9PkETo-CiiHC43X68eoSXLIw4PqqofDyXM2LCnnTC3ZVBNQP6nBAdxQKwsMzyxKK3NCWUmIAXel0N5arPcnYAhA4mmqvGzvawqSF8ELtBcCLcewpZWr2G",
+               "width" : 664
+            }
+         ],
+         "place_id" : "ChIJ60ymtJwm9ocRGYper9Afsf0",
+         "plus_code" : {
+            "compound_code" : "XQM4+J8 Minneapolis, MN, USA",
+            "global_code" : "86P8XQM4+J8"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ60ymtJwm9ocRGYper9Afsf0",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "403 Southeast 8th Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.971134,
+               "lng" : -93.22677
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9724104302915,
+                  "lng" : -93.2254230197085
+               },
+               "southwest" : {
+                  "lat" : 44.9697124697085,
+                  "lng" : -93.22812098029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Varsity Church",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118261794571559487748\"\u003eArvind Renganathan\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECwrIStL8RVxU_QiMik6R7fBo7ptGgPfl25yt0b2R0O6r2Fo8c23XzhHiIknHRJmDKfYvAiNgf5N8v5X14jTTw6Ll109h4mC1GjHPuoIzx0UK4D7-dnDVaO8BvxOxzlhAGUFWBqJG9YHNZFV1wi_fS2BFIbd8617Q0cyHzV0EWoxS0t",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJbxfTTSIts1IRrnDuim3xCCY",
+         "plus_code" : {
+            "compound_code" : "XQCF+F7 Minneapolis, MN, USA",
+            "global_code" : "86P8XQCF+F7"
+         },
+         "rating" : 5,
+         "reference" : "ChIJbxfTTSIts1IRrnDuim3xCCY",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "501 Southeast Oak Street, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9822042,
+               "lng" : -93.2413316
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9836094302915,
+                  "lng" : -93.24013446970848
+               },
+               "southwest" : {
+                  "lat" : 44.9809114697085,
+                  "lng" : -93.2428324302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "University Lutheran Chapel",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1520,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102094726869043131779\"\u003eUniversity Lutheran Chapel\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAaWNABcfvFVmwKTa85RHf9qAu6ZiKlATaGFj44vuGALPRnUJP3sBJFoqZfNyfXaeUDMiMVK-S5ms_Aot2WwU3hgyZ98GnFOFH3ZTX-jbhst_VQRHasSVp26BzCHm9qJm05SQRpbeItpDFOa_o7rXDbcTEHJcJmyzZQrt7SXdy9WGFe",
+               "width" : 2303
+            }
+         ],
+         "place_id" : "ChIJn7YVVQ0ts1IRyIU8OKLsdYs",
+         "plus_code" : {
+            "compound_code" : "XQJ5+VF Minneapolis, MN, USA",
+            "global_code" : "86P8XQJ5+VF"
+         },
+         "rating" : 5,
+         "reference" : "ChIJn7YVVQ0ts1IRyIU8OKLsdYs",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "316 10th Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.982322,
+               "lng" : -93.2420269
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9837153302915,
+                  "lng" : -93.2407956697085
+               },
+               "southwest" : {
+                  "lat" : 44.9810173697085,
+                  "lng" : -93.24349363029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Maranatha Christian Church",
+         "place_id" : "ChIJd7iiqHIts1IRvHUdvYQCZzY",
+         "plus_code" : {
+            "compound_code" : "XQJ5+W5 Minneapolis, MN, USA",
+            "global_code" : "86P8XQJ5+W5"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJd7iiqHIts1IRvHUdvYQCZzY",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "315 10th Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.985704,
+               "lng" : -93.24982199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.98711213029149,
+                  "lng" : -93.24861936970851
+               },
+               "southwest" : {
+                  "lat" : 44.98441416970849,
+                  "lng" : -93.25131733029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Resurrecting Faith World Ministries",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 575,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101698800925144783385\"\u003eResurrecting Faith World Ministries\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBv_PSRPxPWfV8pQN-2oWGitlvwlswoS_AvTUQfLLdNWfUWe_ISBaOZO8Oqhr_A4AjktTHuEqdLj0ONK_UXf9VBbzeMqOTldXtRv9C05UPVUg5vmqlPt-j_nAw2hZVxy0g8ExKYErBQWmZ6S9fpd_AQfkw07kP505DZ7BPOnzMnYULK",
+               "width" : 984
+            }
+         ],
+         "place_id" : "ChIJy_6P23Ats1IRVLFOMsh6K8o",
+         "plus_code" : {
+            "compound_code" : "XQP2+73 Minneapolis, MN, USA",
+            "global_code" : "86P8XQP2+73"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJy_6P23Ats1IRVLFOMsh6K8o",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13,
+         "vicinity" : "316 4th Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9840765,
+               "lng" : -93.2441829
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.98537803029149,
+                  "lng" : -93.2427297697085
+               },
+               "southwest" : {
+                  "lat" : 44.9826800697085,
+                  "lng" : -93.24542773029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Andrew Riverside Presbyterian Church",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109599624318072705977\"\u003eAndrew Riverside Presbyterian Church\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA_whof1HP_4wRwBkS7tqH4En-Ffm97UWNCiS4xIE6o5eonnnZRJN52EY7deRAEOgGKhByjUtQJjYo8g9dH4m-0lZmVlTyiQ7v78J-wTIsnEDFw-akrybAIAVdJ6RSfr7bS6bR2TkNRhcCrElTeXevnBnFZDYdKttFurtSKa1qjWWp7",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ-a8N-HIts1IRpLMbo8kVD4E",
+         "plus_code" : {
+            "compound_code" : "XQM4+J8 Minneapolis, MN, USA",
+            "global_code" : "86P8XQM4+J8"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ-a8N-HIts1IRpLMbo8kVD4E",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "403 Southeast 8th Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9589375,
+               "lng" : -93.2406692
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.96028663029149,
+                  "lng" : -93.2392152697085
+               },
+               "southwest" : {
+                  "lat" : 44.9575886697085,
+                  "lng" : -93.2419132302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Kingdom Hall of Jehovah's Witnesses",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114726249912782751669\"\u003esherry williams\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECDGnRwpOczdS8qvN9Sq76K39ao0Ta_24IkePml6H10oE4TSt5x_t4bSEBjCSbrUZN-lwnpYCf-8T0feavwOrTbtpSnc6a6-yx8zTu6bzR02sim0e7H7Vi5Y93HyOxRnrKapBMyRLgAhRISqDyhY4k6WfWmzVsW2fZ6N8bQgeYzJAF9",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJ4VIRKEots1IRUXFBXQfnttM",
+         "plus_code" : {
+            "compound_code" : "XQ55+HP Minneapolis, MN, USA",
+            "global_code" : "86P8XQ55+HP"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ4VIRKEots1IRUXFBXQfnttM",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 33,
+         "vicinity" : "2201 East 24th Street, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9705211,
+               "lng" : -93.2576437
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9718174802915,
+                  "lng" : -93.25616821970851
+               },
+               "southwest" : {
+                  "lat" : 44.96911951970851,
+                  "lng" : -93.25886618029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+         "name" : "Hope Community Church East",
+         "photos" : [
+            {
+               "height" : 3110,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109443282785857733648\"\u003eSamuel Goertz\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECInc8euefKyvKFbcMSzgX_QdJfMhGTVZNkdn154PLrYyEG1vFCdOqIF5JLQRAsEvPw-meMsjfNXQgFH5cs-8gDJmG7_lLer2E_hEK0mdwxwoNRnC__wL9Wmx3posOlQ5RvUkgYRGyLhhT5_I9KZKO2gIY957WiXsdJLw4VIdwgmpfS",
+               "width" : 5665
+            }
+         ],
+         "place_id" : "ChIJW4DtrF8ts1IRHvrZ4qRHOO0",
+         "plus_code" : {
+            "compound_code" : "XPCR+6W Minneapolis, MN, USA",
+            "global_code" : "86P8XPCR+6W"
+         },
+         "rating" : 5,
+         "reference" : "ChIJW4DtrF8ts1IRHvrZ4qRHOO0",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "704 11th Avenue South, Minneapolis"
+      }
+   ],
+   "status" : "OK"
+}

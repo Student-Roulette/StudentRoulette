@@ -1,0 +1,856 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEDBxVKklxN3BngLtvu1sNsdzl3MIdemZhgbT3pXqzCgcBqgFOWKw4yJdmIwjMAqjr-N9Kc2FwL_PRfWeeO5afmdlHHpptIWIvFdAe3UK8cz-_wtpo51Eb8GdBCwSRzKqkcyXWszFcG6l9mD-8QAykZfoy-LWJ9SeRAdojkDEsnQWmq9cf2uAqZoFKUk77zty-M5qFWZ6-Il2qJanPqvYyBa3-PNFg208ChowRC_noXN-PaUfVUlg6gCWaBQl0IVfst24Vx1VR2L4jxn6fAcxFj9ms1J5eR3k5QDEbGM62JpKifZlW6VmdVTWjT6ASxO77AtgRsDcv5JQOwXuoEa7zlVJ0693K5lXo-XDHQcjw_iXsZwS4hDNnXE_cgoZeJo-z5icOu5BmycrUJVBM7Qg7227gskUm9Ini_PvAttu2epq_UKQ7jYyBEnhg",
+   "results" : [
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9810491,
+               "lng" : -93.23666759999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9823148802915,
+                  "lng" : -93.2353601197085
+               },
+               "southwest" : {
+                  "lat" : 44.9796169197085,
+                  "lng" : -93.23805808029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Hideaway - Dinkytown",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106330441888391293957\"\u003eJohn Smith\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBpYCZKOueoJu2IxmZZ6L9a4S5vFdMHgBwupi-7GUFc9d72nYcbXDfm0aIsRKrdJkKXmPZ7J0pMOvpzWNdvJSZv1Sp7vkgkWcDEMRT1XQYcse3OeSYCJfBBm49ZlCfZ-LDYfTzUboclHBSAw221vUftOQsMwb8NGTYQCO2Xv9POQrTm",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJLeRpIhIts1IRvUdW8GqM0CU",
+         "plus_code" : {
+            "compound_code" : "XQJ7+C8 Minneapolis, MN, USA",
+            "global_code" : "86P8XQJ7+C8"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJLeRpIhIts1IRvUdW8GqM0CU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "art_gallery",
+            "point_of_interest",
+            "clothing_store",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 958,
+         "vicinity" : "1309 4th Street Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9694444,
+               "lng" : -93.24194439999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9707331302915,
+                  "lng" : -93.2403352197085
+               },
+               "southwest" : {
+                  "lat" : 44.9680351697085,
+                  "lng" : -93.2430331802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Katherine E. Nash Gallery",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 1000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104969229688786542549\"\u003eKatherine E. Nash Gallery\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBLaKgeUHcd-pcIAiM4DUvhviB9LIapscgO3bp8HTSioPHbdiIWYyhkcPbuf46B1C8Y3N3slD7TNngfmFwXFeL_h4arYJEQhC6kcLqxID3SiqkYy558EfHNHvAb7zDtf81aKubdsoH9faG_wu5Bh83sjk2kIAmTc9igFXnr026v-j-J",
+               "width" : 1500
+            }
+         ],
+         "place_id" : "ChIJ8dFa5kAts1IR1kEHmW9kE0o",
+         "plus_code" : {
+            "compound_code" : "XQ95+Q6 Minneapolis, MN, USA",
+            "global_code" : "86P8XQ95+Q6"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ8dFa5kAts1IR1kEHmW9kE0o",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "405 21st Avenue South, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.95452499999999,
+               "lng" : -93.23281919999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.95580513029149,
+                  "lng" : -93.23160991970848
+               },
+               "southwest" : {
+                  "lat" : 44.9531071697085,
+                  "lng" : -93.2343078802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Vine Arts Center",
+         "photos" : [
+            {
+               "height" : 378,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107259733327766485861\"\u003eVine Arts Center\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECpgHlxQoAjhwJL5zGwrT8MxncGeI7HzucCx4-NO8WsXfYBqKeasXd2-vUfuqMrqhT0bn4ODF1Xxv_KPGfmuQ5Q-e8bc9zhZd0m2zDBIq7Jdh2sEs7PG9vRltcUyg8YiMaXfMVYJfRQmBOePkoDnUvrISgeJEJ8T40VAQ77v6gykZBR",
+               "width" : 504
+            }
+         ],
+         "place_id" : "ChIJWXCQVDMts1IRa9pzY0D1C0w",
+         "plus_code" : {
+            "compound_code" : "XQ38+RV Minneapolis, MN, USA",
+            "global_code" : "86P8XQ38+RV"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJWXCQVDMts1IRa9pzY0D1C0w",
+         "scope" : "GOOGLE",
+         "types" : [
+            "art_gallery",
+            "furniture_store",
+            "home_goods_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 20,
+         "vicinity" : "2637 27th Avenue South, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.975486,
+               "lng" : -93.25417399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9769513802915,
+                  "lng" : -93.25275101970848
+               },
+               "southwest" : {
+                  "lat" : 44.9742534197085,
+                  "lng" : -93.25544898029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Minnesota Center For Book Arts",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1800,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115537421743428273752\"\u003eMinnesota Center For Book Arts\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAndESXbMf5Tcbt8IntkxYXXk71QSFpMU3hnozTaQ5ZQuMG_SqGLS_2iYgEURYAmx9NXg7efXnxa-HGl4g4NUNnDPBwJ2hrzZX1o6ueGb0bajSHjuzSBjajuFXKS-fhGLKNBLP7YhzJ7mlh7JDj5b1iJBkgSVZs6_lS2ndAW2Xz7qqo",
+               "width" : 2700
+            }
+         ],
+         "place_id" : "ChIJZfg372Yts1IRTAKviLZ0D-0",
+         "plus_code" : {
+            "compound_code" : "XPGW+58 Minneapolis, MN, USA",
+            "global_code" : "86P8XPGW+58"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJZfg372Yts1IRTAKviLZ0D-0",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 16,
+         "vicinity" : "1011 Washington Ave S #100, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9628768,
+               "lng" : -93.2366016
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9641687802915,
+                  "lng" : -93.23526311970849
+               },
+               "southwest" : {
+                  "lat" : 44.9614708197085,
+                  "lng" : -93.2379610802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Northern Clay Center",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117745857094196519211\"\u003eNorthern Clay Center\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECxtKiHiWVxhz-mW_HOoE54AfSdK57c_BMlEfL9Oz1CpIaspO2McYzUlxIy90puNPNCbM99CnzyJgCvrAodetOvMLsdFO4QF0kdQvn15C6w_0Tk7MItKE4B9Wmd3Z82nWRN-KtIfelLL1DUwpPLP_CXecK-Hojds8HlwNOBuEOT7USc",
+               "width" : 5760
+            }
+         ],
+         "place_id" : "ChIJ9ym0dzcts1IR0Okd_bNLhAo",
+         "plus_code" : {
+            "compound_code" : "XQ77+59 Minneapolis, MN, USA",
+            "global_code" : "86P8XQ77+59"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ9ym0dzcts1IR0Okd_bNLhAo",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 32,
+         "vicinity" : "2424 East Franklin Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9890841,
+               "lng" : -93.2504349
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9905945802915,
+                  "lng" : -93.24854736970849
+               },
+               "southwest" : {
+                  "lat" : 44.9878966197085,
+                  "lng" : -93.25124533029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Midway Contemporary Art",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110413624960195002014\"\u003eMidway Contemporary Art\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC0wE-GTdOfpGefLgQDrEyHymyqaPIGgc-jtC-RhJ1ZEAT95w0gPE3trsp6ZIZOfSCZOZcWzojFFl1smcdwONFTDfvxEE7cFww5eSavRTMwkDU5_BWH6RIee3uBXqE0uWfrFouK6DSvFLF6m01WkkmPfS1x5OtVN7qwvlb2Y5BgVUnU",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJjwR1d3cts1IRcMjgJViasks",
+         "plus_code" : {
+            "compound_code" : "XPQX+JR Minneapolis, MN, USA",
+            "global_code" : "86P8XPQX+JR"
+         },
+         "rating" : 5,
+         "reference" : "ChIJjwR1d3cts1IRcMjgJViasks",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "library", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "201 6th Street Southeast Suite 4, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.97052,
+               "lng" : -93.214567
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9719142802915,
+                  "lng" : -93.21317751970849
+               },
+               "southwest" : {
+                  "lat" : 44.9692163197085,
+                  "lng" : -93.2158754802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Textile Center",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1406,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115233877237640413608\"\u003eTextile Center\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDRvDhBFwTfpKjdX5TtQGf1bWtHFM84vsbc74-xIPiv0cS0NkTtAMnngr2vlzZLS-iePGMyq9o3FCEgC4lXS0KayY4QiFXhe2v54RMBtNalr5WIjt9tf8u9Hn4iaUMWrsS-LxL36RpE1UzI-HMkMemscTBshdWI0x1NcoWtPBS9fc0z",
+               "width" : 5175
+            }
+         ],
+         "place_id" : "ChIJv94mIdwss1IRJiqw8Gq4vjU",
+         "plus_code" : {
+            "compound_code" : "XQCP+65 Minneapolis, MN, USA",
+            "global_code" : "86P8XQCP+65"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJv94mIdwss1IRJiqw8Gq4vjU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "art_gallery",
+            "library",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 31,
+         "vicinity" : "3000 University Avenue Southeast #100, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9683892,
+               "lng" : -93.2512479
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9697559802915,
+                  "lng" : -93.2500368197085
+               },
+               "southwest" : {
+                  "lat" : 44.9670580197085,
+                  "lng" : -93.2527347802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "House of Balls",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108761191531578941568\"\u003eHouse of Balls\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDANINUKotcFkWazu6TP4MUrhfjxGNz0r-SjNPGRNRUXXVufoXdEkkQrhGKZ_cKgLvkvqSp9zs_Ynkfj7NG82B2M4F-ybkQeO8_W1MWPJ0aNjB69LSsHQoWkrjPKkSpCeBLFNpxXhLXJwgIFSPmTns27x1ip4D6N-TuuTF1qeYqAyVR",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJoaYc9IUys1IRZ-_9_wwGL6w",
+         "plus_code" : {
+            "compound_code" : "XP9X+9G Minneapolis, MN, USA",
+            "global_code" : "86P8XP9X+9G"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJoaYc9IUys1IRZ-_9_wwGL6w",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 92,
+         "vicinity" : "1504 7th Street South, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9703763,
+               "lng" : -93.2146518
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9718180302915,
+                  "lng" : -93.2134326697085
+               },
+               "southwest" : {
+                  "lat" : 44.9691200697085,
+                  "lng" : -93.2161306302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Minnesota Basket Weaver's Guild",
+         "place_id" : "ChIJpwnFJtwss1IR4oBwcZVh3mg",
+         "plus_code" : {
+            "compound_code" : "XQCP+54 Minneapolis, MN, USA",
+            "global_code" : "86P8XQCP+54"
+         },
+         "reference" : "ChIJpwnFJtwss1IR4oBwcZVh3mg",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "3000 University Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.96077989999999,
+               "lng" : -93.2441716
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.96204488029149,
+                  "lng" : -93.2430677697085
+               },
+               "southwest" : {
+                  "lat" : 44.95934691970849,
+                  "lng" : -93.24576573029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Foci Minnesota Center for Glass Arts",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1050,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113297244560874566103\"\u003eFoci Minnesota Center for Glass Arts\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAleIG0vQvl7vMKGarrmLXwLY_-2jBP7sJGQ-g6Q31SbPHyNReWE2WVXV06uCFEqYBK2L_6Z3Np6w1RnSJ7tOH_4y3NC65xGBE66ajZ4FOH_J_4vfkGgci9_hjTCNLWzitGd3BfU3p6TEHd7QncKqhqfujswm8cCJKnXO8soldCWc2j",
+               "width" : 1400
+            }
+         ],
+         "place_id" : "ChIJ6au6QgAts1IRifev73aHSyc",
+         "plus_code" : {
+            "compound_code" : "XQ64+88 Minneapolis, MN, USA",
+            "global_code" : "86P8XQ64+88"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJ6au6QgAts1IRifev73aHSyc",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 39,
+         "vicinity" : "2213 Snelling Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9907341,
+               "lng" : -93.2240449
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9924556302915,
+                  "lng" : -93.22270171970848
+               },
+               "southwest" : {
+                  "lat" : 44.9897576697085,
+                  "lng" : -93.22539968029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Ascension Art Glass",
+         "place_id" : "ChIJGam6QgAts1IRRTBvh17l2Wc",
+         "plus_code" : {
+            "compound_code" : "XQRG+79 Minneapolis, MN, USA",
+            "global_code" : "86P8XQRG+79"
+         },
+         "reference" : "ChIJGam6QgAts1IRRTBvh17l2Wc",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "2010 East Hennepin Avenue #30, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9629404,
+               "lng" : -93.25442719999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9641846302915,
+                  "lng" : -93.2530217697085
+               },
+               "southwest" : {
+                  "lat" : 44.9614866697085,
+                  "lng" : -93.2557197302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "All My Relations Gallery",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2277,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107837142742510458932\"\u003eTom Wilson\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBlaWw4W7K3xZHCqJB7__s4-0Fq0itft8JaT_X5cMvvZ_2m--6MGdjwgpM2OF_QXdXFmCex6D7m_hyuF7MJMwq0NNvd7ruu0m8Lln3jKNZBhaLBnuFTWtMWDhUGnct0fNSf-WzSJBTRcMV6opNhQ3DZ_HbqY0OG7eX2lHlKsS8kPFjo",
+               "width" : 4048
+            }
+         ],
+         "place_id" : "ChIJH2F8VFcts1IRBFwXQqK35WU",
+         "plus_code" : {
+            "compound_code" : "XP7W+56 Minneapolis, MN, USA",
+            "global_code" : "86P8XP7W+56"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJH2F8VFcts1IRBFwXQqK35WU",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 21,
+         "vicinity" : "1414 East Franklin Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.96292080000001,
+               "lng" : -93.2527157
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9643987302915,
+                  "lng" : -93.25150676970848
+               },
+               "southwest" : {
+                  "lat" : 44.9617007697085,
+                  "lng" : -93.25420473029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Two Rivers Gallery",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJq6rqflots1IRfjwdpt-oGC0",
+         "plus_code" : {
+            "compound_code" : "XP7W+5W Minneapolis, MN, USA",
+            "global_code" : "86P8XP7W+5W"
+         },
+         "rating" : 5,
+         "reference" : "ChIJq6rqflots1IRfjwdpt-oGC0",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "1530 East Franklin Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.98954759999999,
+               "lng" : -93.24193699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.99083458029149,
+                  "lng" : -93.24062496970849
+               },
+               "southwest" : {
+                  "lat" : 44.98813661970849,
+                  "lng" : -93.2433229302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Thomas Barry Fine Arts",
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109718016374401695947\"\u003eThomas Barry Fine Arts\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBszSRGYcgsQO0ghVZVQv6U7sNaktq06KBCWB7YfmCGdgAPKuHOFnreNaN87PiRnJ-AYb3H_2BnwAOC9rr1EHJnny95AgJVc5CfCg8SPm9qiUFFR2wzxqo3IvcL_vAwKWShJIwQtKmywjV9_XPVtw-5OvyJvJqiow2vXCrbaReTpywc",
+               "width" : 330
+            }
+         ],
+         "place_id" : "ChIJkQ0WtQots1IR5yk4p3xACbM",
+         "plus_code" : {
+            "compound_code" : "XQQ5+R6 Minneapolis, MN, USA",
+            "global_code" : "86P8XQQ5+R6"
+         },
+         "rating" : 5,
+         "reference" : "ChIJkQ0WtQots1IR5yk4p3xACbM",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "900 6th Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.962983,
+               "lng" : -93.227355
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9642248302915,
+                  "lng" : -93.22600201970849
+               },
+               "southwest" : {
+                  "lat" : 44.96152686970851,
+                  "lng" : -93.22869998029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Joan of Art Gallery",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102046186448862378216\"\u003eAntonio 10\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBxNz-QVIsXt8ky8WqTixK8KNhbPzlAsAm57C2vb7i9uqPRIjp75pZM0uMF-eb5tK5FBnq7dvLj0H8FEDLXbtr7wQyxhUMRr0KFn1XYhh1Uu5KDO-wyIgrKbkVN5ZOVEOrwQF2D0TwZ_gTE3MsRxLaAll_WU8gE8IOk8bwXZ_bcurvO",
+               "width" : 2252
+            }
+         ],
+         "place_id" : "ChIJr85Ily8ts1IRjkFOtaSqBD4",
+         "plus_code" : {
+            "compound_code" : "XQ7F+53 Minneapolis, MN, USA",
+            "global_code" : "86P8XQ7F+53"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJr85Ily8ts1IRjkFOtaSqBD4",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "3020 East Franklin Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9674584,
+               "lng" : -93.24154539999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9689312302915,
+                  "lng" : -93.2400898197085
+               },
+               "southwest" : {
+                  "lat" : 44.9662332697085,
+                  "lng" : -93.24278778029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "The Gage Family Art Gallery",
+         "place_id" : "ChIJgZ6Dgkcts1IRhZlS7ZANc4w",
+         "plus_code" : {
+            "compound_code" : "XQ85+X9 Minneapolis, MN, USA",
+            "global_code" : "86P8XQ85+X9"
+         },
+         "reference" : "ChIJgZ6Dgkcts1IRhZlS7ZANc4w",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "2211 Riverside Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9629766,
+               "lng" : -93.23652269999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9642188302915,
+                  "lng" : -93.23522301970849
+               },
+               "southwest" : {
+                  "lat" : 44.9615208697085,
+                  "lng" : -93.23792098029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Beth Thompson Sculpture",
+         "place_id" : "ChIJVVVldzcts1IRhJCYU1OsEmg",
+         "plus_code" : {
+            "compound_code" : "XQ77+59 Minneapolis, MN, USA",
+            "global_code" : "86P8XQ77+59"
+         },
+         "reference" : "ChIJVVVldzcts1IRhJCYU1OsEmg",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "2424 East Franklin Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9877071,
+               "lng" : -93.23002029999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9891234302915,
+                  "lng" : -93.22872451970849
+               },
+               "southwest" : {
+                  "lat" : 44.9864254697085,
+                  "lng" : -93.2314224802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Sure Space",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113060892090700457513\"\u003eGunnar Blakeway-Walen\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBkkJNMJXHeiF9xRTkxgQ9mddMJTnI7eU7Ld1k21Rf8ZzqNNKrYQhBpqOzbfADNrJ8Xg6onvrKb0J4BjqpCaXzljqWRbIVSYItdEfh7ghiQYD_EDZa-MHJHWwZiKa1v282whJ7voG7BS4LXyMVO0QNO3l24sW-miggFliaNLVEvfNGo",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJowt1yfcts1IRcYe1W6FXAKk",
+         "plus_code" : {
+            "compound_code" : "XQQ9+3X Minneapolis, MN, USA",
+            "global_code" : "86P8XQQ9+3X"
+         },
+         "rating" : 5,
+         "reference" : "ChIJowt1yfcts1IRcYe1W6FXAKk",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "1506 Como Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9625929,
+               "lng" : -93.245352
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9639704302915,
+                  "lng" : -93.24400911970848
+               },
+               "southwest" : {
+                  "lat" : 44.9612724697085,
+                  "lng" : -93.2467070802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Denise Arts and Sculpture",
+         "place_id" : "ChIJOxZTQk8ts1IRSD7mx5nbD9o",
+         "plus_code" : {
+            "compound_code" : "XQ73+2V Minneapolis, MN, USA",
+            "global_code" : "86P8XQ73+2V"
+         },
+         "reference" : "ChIJOxZTQk8ts1IRSD7mx5nbD9o",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "1919 East Franklin Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.99100869999999,
+               "lng" : -93.23052430000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9923577302915,
+                  "lng" : -93.22930041970849
+               },
+               "southwest" : {
+                  "lat" : 44.9896597697085,
+                  "lng" : -93.23199838029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "IronWain",
+         "place_id" : "ChIJ___zkActs1IRL_m0aw4YZvA",
+         "plus_code" : {
+            "compound_code" : "XQR9+CQ Minneapolis, MN, USA",
+            "global_code" : "86P8XQR9+CQ"
+         },
+         "reference" : "ChIJ___zkActs1IRL_m0aw4YZvA",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "1104 15th Avenue Southeast, Minneapolis"
+      }
+   ],
+   "status" : "OK"
+}

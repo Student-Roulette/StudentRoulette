@@ -1,0 +1,335 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.98727299999999,
+               "lng" : -93.228872
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.98868693029149,
+                  "lng" : -93.22749306970849
+               },
+               "southwest" : {
+                  "lat" : 44.9859889697085,
+                  "lng" : -93.23019103029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_islam_pinlet",
+         "name" : "Dar Omar Al-Farooq",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102964808660063571269\"\u003eDar Omar Al-Farooq\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBNiRoHdNEzDFyuIEfmVBt3Pxh-UKuLGx5G5WceHxv64eDeEOmbCbUAVuoSdH1rkAt4Cscw1UagL_aevUwHs9OLJtkSbVYd0FotKRh3x1a1P5-r_9WyML0WI1dr8JbrENzYEZYB4izd39HdA6Tjo4JYPzjkMFA_ceeKqA7zAGTUTvKD",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ04b-ggYts1IR10WC4Xa5vCg",
+         "plus_code" : {
+            "compound_code" : "XQPC+WF Minneapolis, MN, USA",
+            "global_code" : "86P8XQPC+WF"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ04b-ggYts1IR10WC4Xa5vCg",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 51,
+         "vicinity" : "983 17th Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.968988,
+               "lng" : -93.25080609999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97037998029149,
+                  "lng" : -93.2494353197085
+               },
+               "southwest" : {
+                  "lat" : 44.96768201970849,
+                  "lng" : -93.2521332802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_islam_pinlet",
+         "name" : "Masjid Darul Quba Cultural Center",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJWTfVuFwts1IRN6q0UkhYjb0",
+         "plus_code" : {
+            "compound_code" : "XP9X+HM Minneapolis, MN, USA",
+            "global_code" : "86P8XP9X+HM"
+         },
+         "rating" : 5,
+         "reference" : "ChIJWTfVuFwts1IRN6q0UkhYjb0",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "1501 South 6th Street, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.96861699999999,
+               "lng" : -93.24753200000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.96996603029149,
+                  "lng" : -93.2460555697085
+               },
+               "southwest" : {
+                  "lat" : 44.9672680697085,
+                  "lng" : -93.24875353029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_islam_pinlet",
+         "name" : "Dar Al-Hijrah Mosque",
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105524763839428366483\"\u003eKnowledge Seeker\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAOV-miFE_8yDxzxPYm6IQ0HlhB-v3xKyH11aY1MVaJ6Bg2eb1tyyKdNhH9CK1IQiErBUg_l9jJVtRzzSEJeZiEnBmeOAoW8ou5uaRxt0hQ8jNHY5ItDrub7O8oqVpQtLyxEwJRQmvJpIScr_e_PrLSw4ifKX7pGeAvjL5RdfOZtLeN",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJYYtonUMts1IRSZpTfmLg5Cw",
+         "plus_code" : {
+            "compound_code" : "XQ92+CX Minneapolis, MN, USA",
+            "global_code" : "86P8XQ92+CX"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJYYtonUMts1IRSZpTfmLg5Cw",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 29,
+         "vicinity" : "504 Cedar Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9557452,
+               "lng" : -93.2365633
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9570430302915,
+                  "lng" : -93.23506466970848
+               },
+               "southwest" : {
+                  "lat" : 44.9543450697085,
+                  "lng" : -93.2377626302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_islam_pinlet",
+         "name" : "Masjid Rawdah (Somali Cultural Institute)",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117961227907976545553\"\u003eUrwa Ali\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDcMdhog0MK0vs6LNx-grr3GhLZsds1hQKPRnKqQX20hQzctc_CtBtcJuoHBTTEIuX9isSiuG_UxeLXbb1kIuUF7Ib42J8wvDkqM9DkRrgvpcaPyfNgW14D7tQiesoCXLHrvQ3UmQQEH018JtDHtYGpYlpaQdZx-Lwjz3W-k11WPMh0",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJxSyQGTUts1IRr3MBMsAvafw",
+         "plus_code" : {
+            "compound_code" : "XQ47+79 Minneapolis, MN, USA",
+            "global_code" : "86P8XQ47+79"
+         },
+         "rating" : 5,
+         "reference" : "ChIJxSyQGTUts1IRr3MBMsAvafw",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 51,
+         "vicinity" : "2426 East 26th Street, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9701012,
+               "lng" : -93.24742069999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9714488802915,
+                  "lng" : -93.24598721970848
+               },
+               "southwest" : {
+                  "lat" : 44.9687509197085,
+                  "lng" : -93.24868518029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_islam_pinlet",
+         "name" : "MASJID SHAAFICI CULTURAL CENTER",
+         "place_id" : "ChIJj7dS1ZIts1IRl0W1gSN-1HU",
+         "plus_code" : {
+            "compound_code" : "XQC3+22 Minneapolis, MN, USA",
+            "global_code" : "86P8XQC3+22"
+         },
+         "reference" : "ChIJj7dS1ZIts1IRl0W1gSN-1HU",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "400 Cedar Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.958696,
+               "lng" : -93.24230399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9601513302915,
+                  "lng" : -93.24068391970849
+               },
+               "southwest" : {
+                  "lat" : 44.9574533697085,
+                  "lng" : -93.24338188029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_islam_pinlet",
+         "name" : "Tawfiq Islamic Center",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111341255840136461118\"\u003emohamed ali\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAC2NLZOxpraMgMYeO3WLXb8tD_1jWf4NHEM1B-slgidvCeDQg1QNBi4AqjjKpPdq00k4L1F42gfx8vov7iUvNEx3Pg2ytXkpSEFsA1Lwfpl7qsRSjfTpBwj90W7apfdkwCiQRpaZQj3MyXoLWwbDb-H2hJ3CYFscAubcg6ljqNe3j0",
+               "width" : 3984
+            }
+         ],
+         "place_id" : "ChIJz_rD2Ests1IREjsH8AJ5rSw",
+         "plus_code" : {
+            "compound_code" : "XQ55+F3 Minneapolis, MN, USA",
+            "global_code" : "86P8XQ55+F3"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJz_rD2Ests1IREjsH8AJ5rSw",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 74,
+         "vicinity" : "2400 Minnehaha Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.962306,
+               "lng" : -93.25375
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9637797802915,
+                  "lng" : -93.25250706970849
+               },
+               "southwest" : {
+                  "lat" : 44.9610818197085,
+                  "lng" : -93.25520503029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_islam_pinlet",
+         "name" : "Council of Somali Imams",
+         "place_id" : "ChIJ3XjqrFAts1IRC7uyDhiYW_s",
+         "plus_code" : {
+            "compound_code" : "XP6W+WG Minneapolis, MN, USA",
+            "global_code" : "86P8XP6W+WG"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ3XjqrFAts1IRC7uyDhiYW_s",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "1433 East Franklin Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9710151,
+               "lng" : -93.20594799999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97222203029151,
+                  "lng" : -93.20490741970849
+               },
+               "southwest" : {
+                  "lat" : 44.96952406970851,
+                  "lng" : -93.20760538029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_islam_pinlet",
+         "name" : "New muslim masjid",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105825635363067842126\"\u003eIsmail Amin Sheikh\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBqTZZMvkudL9RI6CXWA1TwZpgkk8RcQWGryvdR5e34G3U2XCEAk_33PVuiS_rUglCBg8BO3acVQ9rdNcE8QU6-D-AIg3cRypIEYpOdeCUI4L8C-h0BFKnBrzgNF60Hfm1m-8Apwz46jrnnQ8M1rfwC-ADAdFxkro-ASw6cmaaKuLOh",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJT6QaFiAts1IRUnumh_Qoop0",
+         "plus_code" : {
+            "compound_code" : "XQCV+CJ Saint Paul, MN, USA",
+            "global_code" : "86P8XQCV+CJ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJT6QaFiAts1IRUnumh_Qoop0",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "1001 Westgate Drive, Saint Paul"
+      }
+   ],
+   "status" : "OK"
+}

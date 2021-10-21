@@ -1,0 +1,1054 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEA7W-Y57R2cJkcC3A9S4QT8BxC_qTBmmUlWL__ng6CAEKqZvTvlkrmwpo1BM5dTG6s0Jy_sH6nSm6_8XwSGgZsYH5UPcaL0RJQ0X8EkoNx0bFTqcEZx4kf30nnd2kJ1pD23sQWzP5KCs-1FoJZ3VqurCrlycIV4R02txtj7QASqxYFuXgULpSFlaegOLNWOgXYVctzSC8GEn-w88PZPAfkbiwKEVo12HLXJYCZ0obLjPFFBR1e-DSW4S4HQxEPgDu0Rfqpp_AAx4p2Wp3w5z748skrlM_mzCR8WVwVn_6glq7880JY1xiBBZsxmkvyMVcVJSicZH_m3_xXKxsWJc4M4i4QnCVNMzGj9QrVNPPrvAy6JV__OuzyieCAZHs6yCk9GiApMXbT6mqq_w0DcJw8FPI6V4ZyF8o-CSARQOPBTnk2eg9k",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.96958899999999,
+               "lng" : -93.24622699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97101233029149,
+                  "lng" : -93.24481386970848
+               },
+               "southwest" : {
+                  "lat" : 44.96831436970849,
+                  "lng" : -93.24751183029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Hard Times Cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102005259158861160281\"\u003eMatt H\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDZ-RU6l5gQc31XNuE7-MkwwHMAZxUSH2_YBdaI00jEgTdjTwopBsYTVhiE8LzATZHuR031H7pNIaP1HmhEjRzyFg0wQxz-SxJOox1Bo2btxiK5iYrAv1sDkPycqO3Qb3hJ5-n2joAGWxEID85uExX0fdEPBLCf1jv3OpP6WzpbGSnJ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJIxHJx0Mts1IRlGMFZ_q61xo",
+         "plus_code" : {
+            "compound_code" : "XQ93+RG Minneapolis, MN, USA",
+            "global_code" : "86P8XQ93+RG"
+         },
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "ChIJIxHJx0Mts1IRlGMFZ_q61xo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "bakery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1317,
+         "vicinity" : "1821 Riverside Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.97352679999999,
+               "lng" : -93.22730899999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9749173302915,
+                  "lng" : -93.22602031970851
+               },
+               "southwest" : {
+                  "lat" : 44.9722193697085,
+                  "lng" : -93.22871828029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Bruegger's Bagels",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105058398746970423397\"\u003ePaul Jahn\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAlfdZjQPJyt7PXkxrxLI44pqvAtUxoHaxStTdyaro079VnWyKAieMcE8RH0CvBekXqN5bWVD_VPGk5MJMV01dNvRs9ATReMUO8K_KfqtSgZxvNOJipkX8tzuBee59TH-oUOggq6FiBFrlg56fJNzw1G-ZVDWgt1npXawyfRi0VPMqq",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJHTlZhhgts1IRN-AIZHcMYEE",
+         "plus_code" : {
+            "compound_code" : "XQFF+C3 Minneapolis, MN, USA",
+            "global_code" : "86P8XQFF+C3"
+         },
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "ChIJHTlZhhgts1IRN-AIZHcMYEE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 186,
+         "vicinity" : "720 Washington Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9709391,
+               "lng" : -93.24357309999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9722880802915,
+                  "lng" : -93.24222411970848
+               },
+               "southwest" : {
+                  "lat" : 44.9695901197085,
+                  "lng" : -93.2449220802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Dunn Brothers Coffee",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110157856430477489486\"\u003ePatrícia Giseli\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAz0c8TcEOEN2Q78u-ucmUpjAxxHleY1FMgx46D9fO-ff-bqEHF6cdbNBf7jvboEEm16SdmEsLZfCNe2mRR76k2BRveKjHYAWyOZ6dyKK3CG8wl0q9CikVAvh4AzbkZcZ7wDHY9Q0-BK36wkAe2rzi1U9NQNglDopHs7wlnIpXWgp-m",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJS_44o0Ets1IRHZFI4zQVp68",
+         "plus_code" : {
+            "compound_code" : "XQC4+9H Minneapolis, MN, USA",
+            "global_code" : "86P8XQC4+9H"
+         },
+         "price_level" : 1,
+         "rating" : 3.2,
+         "reference" : "ChIJS_44o0Ets1IRHZFI4zQVp68",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 5,
+         "vicinity" : "309 19th Avenue South, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9839312,
+               "lng" : -93.2158293
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.98515433029151,
+                  "lng" : -93.21461461970848
+               },
+               "southwest" : {
+                  "lat" : 44.98245636970851,
+                  "lng" : -93.21731258029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Rise Baking Company",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106505863738272902913\"\u003ethemofoman913\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB35XYDormAcgS8T5MyOpXfCa--Ir6rF_Dq5yBI2lp8_9QJREDewfcQEYEdKE0bKWi6qjVtoNoeBLMr2laqlFSdCftmVTUsuDEF-8u075hEmwWyOHli0uSWzJqiumEBh0h7TYtFIZ-cLgz4IqZFQ4a7qfeKajY3rwNmwZ4WtqB2KV7W",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJy5oqQ_sss1IRChmBvQp7FCs",
+         "plus_code" : {
+            "compound_code" : "XQMM+HM Minneapolis, MN, USA",
+            "global_code" : "86P8XQMM+HM"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJy5oqQ_sss1IRChmBvQp7FCs",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 50,
+         "vicinity" : "828 Kasota Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9805988,
+               "lng" : -93.2354404
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9819892302915,
+                  "lng" : -93.2341877697085
+               },
+               "southwest" : {
+                  "lat" : 44.9792912697085,
+                  "lng" : -93.2368857302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Insomnia Cookies",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 991,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109581749096105356034\"\u003eInsomnia Cookies\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBcWOACEBH9JTEVWw3baL_4QffjWdhEl4W57-ePcg5PGYjGqiFPs5ew99tP2KOqet7vnLXLpKg7084REH6H-wpSgapsiKlErFhPxAJms91L-dWH_SWyQ3MDEipDF5XYNsvnbOuihhuyrlvuIVMYgYvFeamFlAgDQss2n-3mK9JAo0Ad",
+               "width" : 557
+            }
+         ],
+         "place_id" : "ChIJz5FJkBEts1IR6rXW-sUhAXI",
+         "plus_code" : {
+            "compound_code" : "XQJ7+6R Minneapolis, MN, USA",
+            "global_code" : "86P8XQJ7+6R"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJz5FJkBEts1IR6rXW-sUhAXI",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 553,
+         "vicinity" : "402 14th Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9705466,
+               "lng" : -93.24754209999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97183538029151,
+                  "lng" : -93.24604536970848
+               },
+               "southwest" : {
+                  "lat" : 44.96913741970851,
+                  "lng" : -93.2487433302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Keefer Court",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2432,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105466097758716150070\"\u003eTjMcD\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECNA_eyL2r2qeJkWYj8DDTgbTyVBUpFZTA-Q0EWfvQK1WSIpb0CSOCzeY12hjevpucJ596p8shdJdbeRxl0kpnwJspH6FxGybr7v76trzx_bobArsdE3tSWOlDAVC98LhDN-QiWl6iKByH8BEN8wsF7TN0Ajtd7KCABsazD4G855QDw",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJ3SDbVUIts1IRUEMdSgVpAIE",
+         "plus_code" : {
+            "compound_code" : "XQC2+6X Minneapolis, MN, USA",
+            "global_code" : "86P8XQC2+6X"
+         },
+         "price_level" : 1,
+         "rating" : 4.6,
+         "reference" : "ChIJ3SDbVUIts1IRUEMdSgVpAIE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 349,
+         "vicinity" : "326 Cedar Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9625821,
+               "lng" : -93.2402611
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.96401673029149,
+                  "lng" : -93.2389107197085
+               },
+               "southwest" : {
+                  "lat" : 44.96131876970849,
+                  "lng" : -93.24160868029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Thumbs Cookies",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1537,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104903576200749451007\"\u003eThumbs Cookies\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECOYU05kdU08bHqxJzNu5e1HBSsnvrph3fVlG10yx4DntyiHxhlXSUbkBckvZSx_J_X5dIbes8xK9kv6UvDwafilClHiqgoHpCF4IT5sXZB-itx1TlCIgejGr4-_BxMcgexaras-nxAFFEKUbvXKNfeREPv4UxSm3_c-VTiMn5tcOnX",
+               "width" : 2049
+            }
+         ],
+         "place_id" : "ChIJLQpzSdgm9ocRYXq-nFy3TAU",
+         "plus_code" : {
+            "compound_code" : "XQ75+2V Minneapolis, MN, USA",
+            "global_code" : "86P8XQ75+2V"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJLQpzSdgm9ocRYXq-nFy3TAU",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 36,
+         "vicinity" : "2211 East Franklin Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9728072,
+               "lng" : -93.2135157
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9741565802915,
+                  "lng" : -93.21173701970849
+               },
+               "southwest" : {
+                  "lat" : 44.9714586197085,
+                  "lng" : -93.21443498029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Criollas Pastries",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116587955256883079352\"\u003eCriollas Pastries\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBmOO59rI14DMJJbQ0SSq9leBJI1R4JrOyX0a6oBc4qx4R9oEJuQ7WF8qCquBkLba7Q4bEr0gvLsumlICBJfSIXP_ssvQLOj7fXpJV5PjM165WxW2iXwdWVp81wbdYrrR0F-w4oGE7pAriMJa3Sn-mNI5sN4ubOr8ZwUjNWISJ5tLTA",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJ28OPtunQslIRajoRJBYfBTI",
+         "plus_code" : {
+            "compound_code" : "XQFP+4H Minneapolis, MN, USA",
+            "global_code" : "86P8XQFP+4H"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ28OPtunQslIRajoRJBYfBTI",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "501 30th Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9876646,
+               "lng" : -93.2260376
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.98897083029149,
+                  "lng" : -93.22455781970849
+               },
+               "southwest" : {
+                  "lat" : 44.9862728697085,
+                  "lng" : -93.2272557802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Potter's Pasties & Pies",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113946369374517967047\"\u003eFiona Duncan\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECUS9L7rD7u4PNkeoEFqe9PyyUW7ureCNZ74taLzl9RgqMkIA3jxhbmBWDdxtRRHBTbfItpN7KdLffTzfZviTo4tMjMDQY-35_N-h5YMlnYEehTm-YuJxMqjryEjHN1SXQaTpJiyI8hNUBdfsep-mJoguZY1Lz1xKPAbm9wJZEKLcIE",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJkUYYXQEts1IRnNSEDm6C7ck",
+         "plus_code" : {
+            "compound_code" : "XQQF+3H Minneapolis, MN, USA",
+            "global_code" : "86P8XQQF+3H"
+         },
+         "price_level" : 1,
+         "rating" : 4.6,
+         "reference" : "ChIJkUYYXQEts1IRnNSEDm6C7ck",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 158,
+         "vicinity" : "1820 Como Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9877342,
+               "lng" : -93.2563677
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.98914503029149,
+                  "lng" : -93.2549842197085
+               },
+               "southwest" : {
+                  "lat" : 44.9864470697085,
+                  "lng" : -93.25768218029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Bruegger's Bagels",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 513,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116717855792507283937\"\u003eBruegger&#39;s Bagels\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECjv1JzJkFNFmVDfrRnuV8T7_wi775EQw2PoANltbLDvyV3IY0-QJ-tVthMYGVr5F2G8ARjRh2jXoN45Rs56hCLryJG5v7JlusXf_gPcOOqIly-NLOopw-9kjQpPaaglZGI7G7KH6LmuYYbz3ZiG83P1N4ng-TpbL7LkKgbxG2Pa_LK",
+               "width" : 556
+            }
+         ],
+         "place_id" : "ChIJr84TOnkts1IRtMcoADHnKm8",
+         "plus_code" : {
+            "compound_code" : "XPQV+3F Minneapolis, MN, USA",
+            "global_code" : "86P8XPQV+3F"
+         },
+         "price_level" : 1,
+         "rating" : 4.2,
+         "reference" : "ChIJr84TOnkts1IRtMcoADHnKm8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 162,
+         "vicinity" : "228 East Hennepin Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.97672869999999,
+               "lng" : -93.2617554
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97794003029149,
+                  "lng" : -93.26052021970848
+               },
+               "southwest" : {
+                  "lat" : 44.97524206970849,
+                  "lng" : -93.2632181802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Coffee & Bagels",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 963,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113124582859783755366\"\u003eCoffee &amp; Bagels\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBdpfGepJMRaqI8pOB00uVvv5bDEuSchH4VQ6gcPvO02aYsCoBCdmh5dFiW9vb0YaMT0evPxt1GZWYCGM0mtqBql7aEN97WuXjlB8HRcXYUpmC8i43D4AsZthXoL1r4UCoxYad9oi7XdFNBAE-N-f6vHK7jK0rmPhBmLe3-ISxlFWcP",
+               "width" : 1712
+            }
+         ],
+         "place_id" : "ChIJs-vLdJ4ys1IR9raYyuoASoI",
+         "plus_code" : {
+            "compound_code" : "XPGQ+M7 Minneapolis, MN, USA",
+            "global_code" : "86P8XPGQ+M7"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJs-vLdJ4ys1IR9raYyuoASoI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 50,
+         "vicinity" : "550 South 4th Street Suite 230, Minneapolis"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.97254059999999,
+               "lng" : -93.26215719999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9740161302915,
+                  "lng" : -93.26110126970849
+               },
+               "southwest" : {
+                  "lat" : 44.9713181697085,
+                  "lng" : -93.26379923029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Dunn Brothers Coffee",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110899950890743043354\"\u003eShawn Clifford\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECu2mQVTKJuqNLj1t7e97u9NPWbuwa5uFJaSQW-AmZ3RWL70_DSSFl7dqU6BtPUT7OOIDmB3tQC62xYU49ZZXwzrTiSr2eVJjPX0hXGynTtTi1TgEbiF2sasfc7ZuqCkEW-uYgXWwRfuZe01B2S52PJNxmQ6pjN7dNJg-JWeuOSmb9r",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJa3puKKAys1IRbCpRz6lFSE0",
+         "plus_code" : {
+            "compound_code" : "XPFQ+24 Minneapolis, MN, USA",
+            "global_code" : "86P8XPFQ+24"
+         },
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "ChIJa3puKKAys1IRbCpRz6lFSE0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 20,
+         "vicinity" : "701 Park Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9729099,
+               "lng" : -93.23514259999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9745916802915,
+                  "lng" : -93.23388086970849
+               },
+               "southwest" : {
+                  "lat" : 44.9718937197085,
+                  "lng" : -93.23657883029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Einstein Bros. Bagels",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109984668227865319478\"\u003eEinstein Bros. Bagels\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAujed1pIgI_6ny6VW_9FV8LKrcTdllb_CCEfRTQIwyBjnRFtpoEseMFg7rB0HoMA-n0bSy0kU4TlzFjDGRo0DhWbmUzAXBUsUvSXSbH1rWIYC4XfZCgmN1ujMIVJqijOYUmRm6sLi7f4t2_aeDwhdYIrt-KSJCGWjYHvTmg3kY_ORk",
+               "width" : 1708
+            }
+         ],
+         "place_id" : "ChIJIUPw_xUts1IRxvOHLN8LxPo",
+         "plus_code" : {
+            "compound_code" : "XQF7+5W Minneapolis, MN, USA",
+            "global_code" : "86P8XQF7+5W"
+         },
+         "price_level" : 1,
+         "rating" : 2.6,
+         "reference" : "ChIJIUPw_xUts1IRxvOHLN8LxPo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 22,
+         "vicinity" : "300 Washington Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9625523,
+               "lng" : -93.2417906
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9639098802915,
+                  "lng" : -93.24048061970851
+               },
+               "southwest" : {
+                  "lat" : 44.9612119197085,
+                  "lng" : -93.24317858029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Rebecca's Bakery",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115077701437540487493\"\u003eRipley Piedrasanta\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDnJ7QzahUt85Qjv59IK52tlZTgf38ZU31RY-H8RtJqKxdX87ZFr-yC35Xz4k8hYL25ZgtYhngrlOLK6RjKGSPgAEqXS3kbNg1tflykMjrE4nRTHHJIb9_sxvPKpdc_dHZzbEj7zvT_ha84ZXV6sNqnIXKktmaV8YaZQV2bLaAM4tsI",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ-0wIYkgts1IR3jGTOTl7-go",
+         "plus_code" : {
+            "compound_code" : "XQ75+27 Minneapolis, MN, USA",
+            "global_code" : "86P8XQ75+27"
+         },
+         "price_level" : 1,
+         "rating" : 4.7,
+         "reference" : "ChIJ-0wIYkgts1IR3jGTOTl7-go",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 92,
+         "vicinity" : "2111 East Franklin Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9525449,
+               "lng" : -93.2350709
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9536843802915,
+                  "lng" : -93.23375651970849
+               },
+               "southwest" : {
+                  "lat" : 44.9509864197085,
+                  "lng" : -93.2364544802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Katar River | Ethiopian Restaurant & Bakery",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108812886154471933299\"\u003eSteve Johnson\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAiDuuBHuDwnAU2JIOybHiRSd_sUDaC3X3k9ggIiCKvBiqTkJSCWfWvIMLfShkCsAn4EMbngwvKN7RZY-VN3p1fnGD2SPVE_nyKBvinCY5hMRJLaZHb4HCXS3To3j8GMWgO9ocW4BNQlPvnEzYge8SLX4nHI23neSE6lzZu9lqpbkYL",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJM1T7-iAo9ocR_IZZppKI4gE",
+         "plus_code" : {
+            "compound_code" : "XQ37+2X Minneapolis, MN, USA",
+            "global_code" : "86P8XQ37+2X"
+         },
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "ChIJM1T7-iAo9ocR_IZZppKI4gE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "grocery_or_supermarket",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 240,
+         "vicinity" : "2751 Minnehaha Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9926165,
+               "lng" : -93.22513099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9938299302915,
+                  "lng" : -93.22372706970847
+               },
+               "southwest" : {
+                  "lat" : 44.9911319697085,
+                  "lng" : -93.22642503029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Up Cafe and Up Coffee Roasters",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 930,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103856250550267168391\"\u003eUp Cafe and Up Coffee Roasters\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED43k0zQ0FsFkTxuD00nf4HuTMmupDOgymP6f6OepBjXG5sSmMjC4t3ZtU_VPznUoEOflXQrKHv6a-kCkJR8d_JRGDd53NSAY4b2z5DGJQVlWZRjVyM14XIqVQM5Jvm_NGf4c8LmDi_BFC8fFHac5ivJ0N7ZlrSHYBlP6SqaTm51y5Q",
+               "width" : 1240
+            }
+         ],
+         "place_id" : "ChIJb0hUeqots1IRBdpaXkAoTt8",
+         "plus_code" : {
+            "compound_code" : "XQVF+2W Minneapolis, MN, USA",
+            "global_code" : "86P8XQVF+2W"
+         },
+         "price_level" : 1,
+         "rating" : 4.8,
+         "reference" : "ChIJb0hUeqots1IRBdpaXkAoTt8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "bakery",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 266,
+         "vicinity" : "1901 Traffic Street Northeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.96579149999999,
+               "lng" : -93.24123829999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9671256302915,
+                  "lng" : -93.2398191697085
+               },
+               "southwest" : {
+                  "lat" : 44.9644276697085,
+                  "lng" : -93.2425171302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Einstein Bros. Bagels",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2848,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111946043570396340613\"\u003eDuqueiro Cano\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEADOphkaaEgKIMwxuSQKI7Z1kYgFBf33ZPf1PjrMLmbH-60JRMpoTMDrgL_REZf0PTEH-VH8Tq-vF4CRZ6xEVTnJMVAVXgk-esbjfV3LTPvrwFSA4SnESh84ZYpXyUZ19O_sMCGQRlBClRmOUyUv4LaOGvT_BGS4VLkhNi94RqFy36f",
+               "width" : 4272
+            }
+         ],
+         "place_id" : "ChIJIUPw_xUts1IR0PcSll-ZluE",
+         "plus_code" : {
+            "compound_code" : "XQ85+8G Minneapolis, MN, USA",
+            "global_code" : "86P8XQ85+8G"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJIUPw_xUts1IR0PcSll-ZluE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 31,
+         "vicinity" : "2211 Riverside Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9730976,
+               "lng" : -93.22322989999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9746380302915,
+                  "lng" : -93.22211176970849
+               },
+               "southwest" : {
+                  "lat" : 44.9719400697085,
+                  "lng" : -93.2248097302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Mu Mu Tea",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118291600258147827613\"\u003eMu Mu Tea\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAhsPUmfL055HKum3aaf3pY3mAuA90MsdWNg7rEejH16Ip4L07E8-gDLcPtwD3abp_II7bjN36rdGIlBGH22yY0eBmLUK_PTsOnEYXYQ94ewSvEG4d3Ft2LxvaK7gUFy7UQXT7Y0ww5T60VedoqFsaNxAXhMXNycC72BG9mMLG4_EOC",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJ8bLm2pMts1IRrrr7Y6uhGug",
+         "plus_code" : {
+            "compound_code" : "XQFG+6P Minneapolis, MN, USA",
+            "global_code" : "86P8XQFG+6P"
+         },
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "ChIJ8bLm2pMts1IRrrr7Y6uhGug",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 275,
+         "vicinity" : "313 Southeast Huron Boulevard, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9720186,
+               "lng" : -93.21953429999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97344108029149,
+                  "lng" : -93.2178227697085
+               },
+               "southwest" : {
+                  "lat" : 44.97074311970849,
+                  "lng" : -93.22052073029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Profile Cake Studio",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115907792207160070588\"\u003eProfile Cake Studio\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBf4BsWrO_TY1Yi4BiezeQy9XUhKDgzECpfnyN02FKnWAdHcjye311kQg_gDu-uu6zrB0op1aSIxYcJmJ6YwCCD92I5Z72gCiqPSSD0gj8zwal-U460feRBYVHnwaHXjs9sH1dJJUdxCrBXfAmj_O3z-7VNNRH5an_454yD-Esov2rt",
+               "width" : 1068
+            }
+         ],
+         "place_id" : "ChIJT_-yKgUts1IRXaHBs9cZzIE",
+         "plus_code" : {
+            "compound_code" : "XQCJ+R5 Minneapolis, MN, USA",
+            "global_code" : "86P8XQCJ+R5"
+         },
+         "rating" : 5,
+         "reference" : "ChIJT_-yKgUts1IRXaHBs9cZzIE",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "2630 University Avenue Southeast #101, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9953561,
+               "lng" : -93.22827389999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.99670648029151,
+                  "lng" : -93.22675121970849
+               },
+               "southwest" : {
+                  "lat" : 44.99400851970851,
+                  "lng" : -93.2294491802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Tauer Research, Inc.",
+         "photos" : [
+            {
+               "height" : 5760,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109296638203963432430\"\u003eTauer Research, Inc.\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAxzwJvMcD1zkc-sc2fYzBGQFQHRk4KYGFhx2C0oSI02FpJuebPfNtAyTV6veJU0aBEEV6cGoX4262i6BP622taViG8xjI9hPLilorlu1qswR4rsUOc4pENRHYuZ982EyRCJxf-zLUNRxkWZqmcvW4nUyg7S2vtrHg6uW6sTHMMDGdC",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJdTG3Z6kts1IRARvba1-yByA",
+         "plus_code" : {
+            "compound_code" : "XQWC+4M Minneapolis, MN, USA",
+            "global_code" : "86P8XQWC+4M"
+         },
+         "reference" : "ChIJdTG3Z6kts1IRARvba1-yByA",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "food", "point_of_interest", "store", "establishment" ],
+         "vicinity" : "2303 Kennedy Street Northeast UNIT 500, Minneapolis"
+      }
+   ],
+   "status" : "OK"
+}

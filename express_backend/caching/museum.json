@@ -1,0 +1,266 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9787237,
+               "lng" : -93.25745209999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9800138302915,
+                  "lng" : -93.25615241970849
+               },
+               "southwest" : {
+                  "lat" : 44.9773158697085,
+                  "lng" : -93.25885038029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Mill City Museum",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107449997213710353692\"\u003eMatt Crowe\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDZAFYMG9gOWs3jCl6pD5m1Rk-AA8jdpHOYiVj3Hs8ExAtiYJ652zH_x9D_3dswt62N5M9KbNylot0tkhyZhYkhkoOZc-Bk1COpPcfp4a_AqYRU3ul_N7JFDZy3VtCiKrI4ZvuCHvODh8RMV5TWLhozytWsIvAbjzhxqqoYPVch1J4b",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ9eTEmWMts1IRMm_h172NYZk",
+         "plus_code" : {
+            "compound_code" : "XPHV+F2 Minneapolis, MN, USA",
+            "global_code" : "86P8XPHV+F2"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ9eTEmWMts1IRMm_h172NYZk",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1982,
+         "vicinity" : "704 South 2nd Street, Minneapolis"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9731104,
+               "lng" : -93.2369351
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9744624802915,
+                  "lng" : -93.23607206970848
+               },
+               "southwest" : {
+                  "lat" : 44.9717645197085,
+                  "lng" : -93.23877003029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Weisman Art Museum",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 3557,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111876847489816303857\"\u003eMohamed Gasim\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC_5pLAIfIYOdGDFSMqjjFRiNvmCa7JYtXbLafK79I7pr_laGS1OG05qQhT7DNGpnfSRvtLeI8Ox1Hy-OQx4pIX2gbfnQjmch4FC20XU9kAOu84-qPtqYjXSKhiDxDd8eUa1c2BeF6FYxyezHTcuzrVExmQcSuYmo7T18l0VrsyjyqF",
+               "width" : 4961
+            }
+         ],
+         "place_id" : "ChIJb8naNT4ts1IROphKc-DT8cw",
+         "plus_code" : {
+            "compound_code" : "XQF7+66 Minneapolis, MN, USA",
+            "global_code" : "86P8XQF7+66"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJb8naNT4ts1IROphKc-DT8cw",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 662,
+         "vicinity" : "333 East River Parkway, Minneapolis"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.972084,
+               "lng" : -93.2622337
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9732644302915,
+                  "lng" : -93.26075761970849
+               },
+               "southwest" : {
+                  "lat" : 44.9705664697085,
+                  "lng" : -93.26345558029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Hennepin Medical History Center",
+         "permanently_closed" : true,
+         "place_id" : "ChIJa3puKKAys1IRHJb7XUdojV0",
+         "plus_code" : {
+            "compound_code" : "XPCQ+R4 Minneapolis, MN, USA",
+            "global_code" : "86P8XPCQ+R4"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJa3puKKAys1IRHJb7XUdojV0",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 14,
+         "vicinity" : "701 Park Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.984656,
+               "lng" : -93.223579
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9860051802915,
+                  "lng" : -93.22225426970849
+               },
+               "southwest" : {
+                  "lat" : 44.9833072197085,
+                  "lng" : -93.22495223029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "bikini press international",
+         "place_id" : "ChIJYYLLhzEts1IR5j2cPTIB4Xo",
+         "plus_code" : {
+            "compound_code" : "XQMG+VH Minneapolis, MN, USA",
+            "global_code" : "86P8XQMG+VH"
+         },
+         "reference" : "ChIJYYLLhzEts1IR5j2cPTIB4Xo",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "879 29th Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9762186,
+               "lng" : -93.25745119999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9774324802915,
+                  "lng" : -93.25621376970849
+               },
+               "southwest" : {
+                  "lat" : 44.9747345197085,
+                  "lng" : -93.2589117302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Shane Mathews",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJczGe4Z8ts1IR25xgR0Hde-c",
+         "plus_code" : {
+            "compound_code" : "XPGV+F2 Minneapolis, MN, USA",
+            "global_code" : "86P8XPGV+F2"
+         },
+         "reference" : "ChIJczGe4Z8ts1IR25xgR0Hde-c",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "818S South 3rd Street, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9742072,
+               "lng" : -93.2602218
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97545038029151,
+                  "lng" : -93.2589559197085
+               },
+               "southwest" : {
+                  "lat" : 44.97275241970851,
+                  "lng" : -93.2616538802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "ESPN X-games Minneapolis",
+         "place_id" : "ChIJtTP9HPkts1IR5qw2vQPbjaQ",
+         "plus_code" : {
+            "compound_code" : "XPFQ+MW Minneapolis, MN, USA",
+            "global_code" : "86P8XPFQ+MW"
+         },
+         "rating" : 4,
+         "reference" : "ChIJtTP9HPkts1IR5qw2vQPbjaQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "729 South 5th Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9870692,
+               "lng" : -93.2531341
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9885464802915,
+                  "lng" : -93.25169386970849
+               },
+               "southwest" : {
+                  "lat" : 44.9858485197085,
+                  "lng" : -93.2543918302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "icon_background_color" : "#13B5C7",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+         "name" : "Light Body Center",
+         "place_id" : "ChIJAUhM2AIts1IRu0YBb7DN35M",
+         "plus_code" : {
+            "compound_code" : "XPPW+RP Minneapolis, MN, USA",
+            "global_code" : "86P8XPPW+RP"
+         },
+         "rating" : 5,
+         "reference" : "ChIJAUhM2AIts1IRu0YBb7DN35M",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "124 4th Street Southeast, Minneapolis"
+      }
+   ],
+   "status" : "OK"
+}

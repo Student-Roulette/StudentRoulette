@@ -1,0 +1,107 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9562765,
+               "lng" : -93.2349878
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9576001302915,
+                  "lng" : -93.23364256970849
+               },
+               "southwest" : {
+                  "lat" : 44.9549021697085,
+                  "lng" : -93.2363405302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Memory Lanes",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114309884115819487417\"\u003eMemory Lanes\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB3nC1AvkF_y8xD_4a6koFBTRmO2VeGWrGXcrVDmN3ljCQE8u7d-zI--c3LleRf4W2yRjYFSlF5idq7lZC3X5n2-LGSPwc9odMyY8YBlZaTxh4vNoY8KzHF35m90Oml0PY15B3HIpM-Rh7dv9pmFu5HglQ1Fa6RFx_hED4_iUKeHDtC",
+               "width" : 1070
+            }
+         ],
+         "place_id" : "ChIJM0bg8zQts1IRCmhqTdIjZ68",
+         "plus_code" : {
+            "compound_code" : "XQ48+G2 Minneapolis, MN, USA",
+            "global_code" : "86P8XQ48+G2"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJM0bg8zQts1IRCmhqTdIjZ68",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bowling_alley",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1230,
+         "vicinity" : "2520 26th Avenue South, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.972922,
+               "lng" : -93.23548199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9745977302915,
+                  "lng" : -93.23404981970849
+               },
+               "southwest" : {
+                  "lat" : 44.9718997697085,
+                  "lng" : -93.23674778029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Goldy's Gameroom-University of Minnesota",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 500,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109720913237095151813\"\u003eGoldy&#39;s Gameroom-University of Minnesota\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECSGw9-lrRrg9za7VtyclbrZBArPmpH5ItjBPowSTG8wefAtovVw7mGM-x-Hk_eciyQYLO91uHFbhkgS_M1UrysomIV-3vvawEq70Vi9NBVGcTdRkYYCC0GZt_qr4ruvy4jqRyWSbE4h0bkLs7fZ5lK2WFS0k-jpL-POLBY2hHW1qGF",
+               "width" : 333
+            }
+         ],
+         "place_id" : "ChIJIUPw_xUts1IRx90vIrtK-po",
+         "plus_code" : {
+            "compound_code" : "XQF7+5R Minneapolis, MN, USA",
+            "global_code" : "86P8XQF7+5R"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJIUPw_xUts1IRx90vIrtK-po",
+         "scope" : "GOOGLE",
+         "types" : [ "bowling_alley", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 62,
+         "vicinity" : "300 Washington Avenue Southeast, Minneapolis"
+      }
+   ],
+   "status" : "OK"
+}

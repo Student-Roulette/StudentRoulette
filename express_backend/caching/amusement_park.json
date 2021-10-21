@@ -1,0 +1,53 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9917148,
+               "lng" : -93.2436438
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9930895802915,
+                  "lng" : -93.24223591970849
+               },
+               "southwest" : {
+                  "lat" : 44.9903916197085,
+                  "lng" : -93.2449338802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Mission Manor Escape Rooms",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1084,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102468312057759664504\"\u003eMission Manor Escape Rooms\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDo08vIRkO8GvAWB0IyJIuskc9oBG6cGS8ASHnHbjXEDEekzAhsk4DntgPPXs_CWnIU8NvSMHO3Qg17A5-vFnfxrmAR9WudQdLBvTwf7_XyOEpXA2bWs82oN1tFoFclTFCWmmy8TbTHbiHpefb7MPGd1tUDj_vuUkZvMCErG-j28z-E",
+               "width" : 1928
+            }
+         ],
+         "place_id" : "ChIJR-OI5p8ts1IRhJ6LJP7UpP4",
+         "plus_code" : {
+            "compound_code" : "XQR4+MG Minneapolis, MN, USA",
+            "global_code" : "86P8XQR4+MG"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJR-OI5p8ts1IRhJ6LJP7UpP4",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 302,
+         "vicinity" : "861 East Hennepin Avenue, Minneapolis"
+      }
+   ],
+   "status" : "OK"
+}

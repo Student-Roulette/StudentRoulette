@@ -1,0 +1,917 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEDSPtQxmx_w3svfzs3vzsiooH5QLi6d6E8lSZvAjdkGFzw5yftLHqDmBN14CDr78i0mSJLY6K3wAJYfE9VycoEnWi4s-xxpCsqRyrUH1BEe8Ie58YNDGmpN-wvkRKksUh2o9umcuCC_6QhD4c5ev7uChuq77xnJynaCSPexAZZt4aDyC1pkeWO29yDu9lMPVrbKd9DnyGpb_2qTwPBotGny-qr3eAYq2w8QmEv_rJeBNxCpEzqj6EyBpd3Uycxg06UwVgCF5xQywJGffS1Ix2rBX8gmvMzLDnWzyydSsdsey4JGWM6eLfV2QR3ucOSNWh96NgJUGWHqlkDkFAsRfcT4FW-QBGXjd1Fxr0mWI2aBLkxyW0Rpjic8bxAQRgYrbx-FR1llaW9o5BOcXdR1dX_Rnwv2G5DUr7P2dYHbIyAdgyw",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.97165539999999,
+               "lng" : -93.2181932
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9731799802915,
+                  "lng" : -93.21669941970849
+               },
+               "southwest" : {
+                  "lat" : 44.9704820197085,
+                  "lng" : -93.2193973802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Anytime Fitness",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1081,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104525606070356106906\"\u003eAnytime Fitness\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB4nY6L7CFaP37aAh4lk1CTAKnNjzGzdr9zIbK1OXpJi4AeUywj08CdKKsfmszPPStiOu7bJTbwt0pQRudgERbfBApXFLGAdLN78al3HtFF9EKOgpxfCN1khvIN27uhuYH4vLDPUWGrZJJr4nSgigdZdFiGsJfR6BljldH_AdP7gEoM",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJ-zm1K9wss1IR8By3wIywwWU",
+         "plus_code" : {
+            "compound_code" : "XQCJ+MP Minneapolis, MN, USA",
+            "global_code" : "86P8XQCJ+MP"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ-zm1K9wss1IR8By3wIywwWU",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 142,
+         "vicinity" : "2718 University Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.978525,
+               "lng" : -93.26100700000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97991873029149,
+                  "lng" : -93.2596208197085
+               },
+               "southwest" : {
+                  "lat" : 44.9772207697085,
+                  "lng" : -93.26231878029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+         "name" : "CorePower Yoga",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105008188273516823029\"\u003eCorePower Yoga\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA32d5XPmuMBrqoMQNPYedvO1J1vVkCABJSnDl9xiipD3CdCCkcCS1qjIhf9etSR5iAhxg6yJPNcp_BubA29wiq9FRwIMuEBE8jat5RRozGS_TZ8SXvEOxotN6JjILT1o8F6b30_lbY6Tz8a_Lo7kFzYMOwLGJ2i0ASDlmngFsEEPvM",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJZbarh50ys1IR_MRT7WtCvJY",
+         "plus_code" : {
+            "compound_code" : "XPHQ+CH Minneapolis, MN, USA",
+            "global_code" : "86P8XPHQ+CH"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJZbarh50ys1IR_MRT7WtCvJY",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 57,
+         "vicinity" : "501 South Washington Avenue Suite 200, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.96264759999999,
+               "lng" : -93.23176049999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.96405523029149,
+                  "lng" : -93.2304253697085
+               },
+               "southwest" : {
+                  "lat" : 44.96135726970849,
+                  "lng" : -93.23312333029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Los Campeones Gym",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113198744099905826615\"\u003eMarco Rigoni\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBuahwghohFZO-XnWwwxSpIibOq8DiTLvqTPEkII80x2X2fnuQ6-j4q61Rd-REc0PJPz2uRGQROsrTReQmOT9NvKdOBD_fcz90sEwKz1KIosVl91q1BTufFst6TCF7ZBMD7D_iJpAdfVIJ4j-2P-iLobMXkFCANu3PbPh8WIoX9yfgj",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJlZ1EYDAts1IRVshphACro7s",
+         "plus_code" : {
+            "compound_code" : "XQ79+37 Minneapolis, MN, USA",
+            "global_code" : "86P8XQ79+37"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJlZ1EYDAts1IRVshphACro7s",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 195,
+         "vicinity" : "2721 East Franklin Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9891468,
+               "lng" : -93.2402007
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9904957802915,
+                  "lng" : -93.23885171970849
+               },
+               "southwest" : {
+                  "lat" : 44.9877978197085,
+                  "lng" : -93.24154968029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Circle of Discipline Inc",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 534,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114927348501478754115\"\u003eCircle of Discipline Inc\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC-7yPIrMbhDLkvoB0QcE6LFLEx7iD5YFghEdP0Xh23JkgURPOh7PhK4LQ_vTTr8JlB-VEPXQFcMhmZ0w56VFrvXie7CPiG5WcZDM3pQFpYR9OuOm6kDXEfdt8puY8VDwnj3NASQIy3rB0pNp8gNp-l2arCNAv_wEo0y5z6dKak8Cnn",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJEQhwQAco9ocRjauu4pFGuYA",
+         "plus_code" : {
+            "compound_code" : "XQQ5+MW Minneapolis, MN, USA",
+            "global_code" : "86P8XQQ5+MW"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJEQhwQAco9ocRjauu4pFGuYA",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 19,
+         "vicinity" : "801 Southeast 9th Street, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.98974700000001,
+               "lng" : -93.2536478
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.99093603029151,
+                  "lng" : -93.2523928697085
+               },
+               "southwest" : {
+                  "lat" : 44.98823806970851,
+                  "lng" : -93.25509083029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+         "name" : "Yoga Sol",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1201,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108741552894392686932\"\u003eJoshlyn Olsen\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECVYaamtxb_DatC13iNvhzPqAajr5IbSGCiYmf9MyVZwj3JsWXbxCPimiV_scQOlYpT_7pSAfOJBD_MYc8enG1TaNYFoeZhn5ETm0uKVN2hzI9t60R0J64RtzrO10NMJvd5giyXgIdlkMtM0_KbpBhu7BttB46OGO1gW3Y0TY0gHqE8",
+               "width" : 1840
+            }
+         ],
+         "place_id" : "ChIJYYM_aHgts1IRtv0yUFDiGDg",
+         "plus_code" : {
+            "compound_code" : "XPQW+VG Minneapolis, MN, USA",
+            "global_code" : "86P8XPQW+VG"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJYYM_aHgts1IRtv0yUFDiGDg",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 51,
+         "vicinity" : "21 5th Street Northeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9774001,
+               "lng" : -93.2307091
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9787972302915,
+                  "lng" : -93.2293227697085
+               },
+               "southwest" : {
+                  "lat" : 44.9760992697085,
+                  "lng" : -93.23202073029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "University YMCA",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106090923222894261493\"\u003eUniversity YMCA\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAi-J11poCisypXJ-ZE1iVIeHMDAFSufVsYxCXGaJiAuhPSiRbLy9PK09xBEndWDaAS40i-NQ6aNyyl-2c8KJwIgA2xmcwp2oE63bpujUYT7gRr859UwzYopxoMdliDUDHGTAEqrwGhtD7fqo-ZUxnYk5UXiXUhAxXaX9seU1Eack7v",
+               "width" : 502
+            }
+         ],
+         "place_id" : "ChIJ-S_gVhcts1IRxyEJqB-JuOw",
+         "plus_code" : {
+            "compound_code" : "XQG9+XP Minneapolis, MN, USA",
+            "global_code" : "86P8XQG9+XP"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJ-S_gVhcts1IRxyEJqB-JuOw",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "1801 University Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9625451,
+               "lng" : -93.23496709999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.96400158029149,
+                  "lng" : -93.2336126197085
+               },
+               "southwest" : {
+                  "lat" : 44.9613036197085,
+                  "lng" : -93.2363105802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Somali Action Alliance",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJ5WZ_ODcts1IRThuxhMqP8LE",
+         "plus_code" : {
+            "compound_code" : "XQ78+22 Minneapolis, MN, USA",
+            "global_code" : "86P8XQ78+22"
+         },
+         "reference" : "ChIJ5WZ_ODcts1IRThuxhMqP8LE",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "2525 East Franklin Avenue # 301, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9758778,
+               "lng" : -93.2537689
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9775724302915,
+                  "lng" : -93.2525492197085
+               },
+               "southwest" : {
+                  "lat" : 44.9748744697085,
+                  "lng" : -93.25524718029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "ZeSa Fitness",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 601,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107626374597555036834\"\u003eZeSa Fitness\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECw61JyiLtGlyCWUrs4AUHMO8YxVV3fE5c7C-F-hM1ALvND4pR4SFJGb6gSv1aU2T7IMgjqvp8W4MHWRPMk0QQJdb80PuhFqLzwKPNe2UFqklC2q0jluTYzr1lAgubGooJZ5DN-CIRJ6Y1MONdZ0AOKXYOY9pL_cELSsAOJ5yHS2BX-",
+               "width" : 900
+            }
+         ],
+         "place_id" : "ChIJ7YkPjWYts1IR14Z496-SXy0",
+         "plus_code" : {
+            "compound_code" : "XPGW+9F Minneapolis, MN, USA",
+            "global_code" : "86P8XPGW+9F"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ7YkPjWYts1IR14Z496-SXy0",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11,
+         "vicinity" : "1024 South Washington Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9608236,
+               "lng" : -93.24337560000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9621764802915,
+                  "lng" : -93.2422939197085
+               },
+               "southwest" : {
+                  "lat" : 44.9594785197085,
+                  "lng" : -93.24499188029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+         "name" : "Solcana Wellness",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105105624972151242294\"\u003eadam eggert\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDVuU-VgcdTAVRJHRajtH7Mp-8LakhwWZNV8rYmKCNLiEfjLAzo7RFBXx18orK9p5nvrvXA_-nqTuyTeuvMEtTGM6GTMjDs8Nw6Zb17I7oILfAiE3IkRpjIXSgATbz3UfA5r1VJHW0Ox4429WbyZp2BEzaldaZbyOHU9UgQPDOUmEDh",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJF1szL0kts1IR3W8oSNETu4E",
+         "plus_code" : {
+            "compound_code" : "XQ64+8J Minneapolis, MN, USA",
+            "global_code" : "86P8XQ64+8J"
+         },
+         "reference" : "ChIJF1szL0kts1IR3W8oSNETu4E",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "2200 Minnehaha Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9608084,
+               "lng" : -93.24384409999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9622239302915,
+                  "lng" : -93.2425125697085
+               },
+               "southwest" : {
+                  "lat" : 44.9595259697085,
+                  "lng" : -93.2452105302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Solcana Fitness",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103448231899570678748\"\u003eSolcana Fitness\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBeg-DaT_aDUabczd6Imlbbh573FNrOmEPJJ8OFYRYmpQT2Jha3VdIOsAUWgSbu2eqNM2SBn83nKiVKh8zz971O_DHhbP3_PX1T_XygX961-V80X95LvSObEqP605RyFOhop0W75TvkBsDBGX_DWUd0kD7_U4rdh57kdw-1aijUBrur",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ3XISLEkts1IRPU2PXSdjHwo",
+         "plus_code" : {
+            "compound_code" : "XQ64+8F Minneapolis, MN, USA",
+            "global_code" : "86P8XQ64+8F"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ3XISLEkts1IRPU2PXSdjHwo",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 34,
+         "vicinity" : "1915 East 22nd Street, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9843071,
+               "lng" : -93.2529029
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.98569263029149,
+                  "lng" : -93.25164751970848
+               },
+               "southwest" : {
+                  "lat" : 44.98299466970849,
+                  "lng" : -93.25434548029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Alchemy 365 Northeast",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1367,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101188882195670727850\"\u003eAlchemy 365 Northeast\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAOBwimmye8371Nh25TN7r5RP9oozWm4P8xTngHWIn_V8VbFcxbvCaQ26K8xk9aOeEVcIoZG7oQ55VRVUHGbclzDeO1PqiPij61T9GOyRnuB1_D3K6OOXWwO0r61iqO6NWMrW7m8DJdgfP0Jlfk6vzPFjqsyaz63LuEPIVA13YpMgcY",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ37wNXnots1IRos8CVAIecCM",
+         "plus_code" : {
+            "compound_code" : "XPMW+PR Minneapolis, MN, USA",
+            "global_code" : "86P8XPMW+PR"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJ37wNXnots1IRos8CVAIecCM",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 111,
+         "vicinity" : "120 Southeast 3rd Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9575642,
+               "lng" : -93.22277129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9588281302915,
+                  "lng" : -93.22135126970849
+               },
+               "southwest" : {
+                  "lat" : 44.9561301697085,
+                  "lng" : -93.2240492302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+         "name" : "Big River Yoga",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 700,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108872849585109874624\"\u003eBig River Yoga\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBy040iPhqilaNYrQxDv0zjSPwcW1rA2f10ZqUCSld6X9tw-McWjmxWog75WOVlsrHKSqoOvMaOUZMS6Poe_V6xQB21E05QZxsd02_Gc86NKrTWIaIfP4NAtbGcZ1zGi0dfGs58qbRo6D1Zf9KyNo4e68_4iNd-OlrJdzhX-T2O_TDU",
+               "width" : 1240
+            }
+         ],
+         "place_id" : "ChIJZfjJwW8q9ocRI71HA6BpKHQ",
+         "plus_code" : {
+            "compound_code" : "XQ5G+2V Minneapolis, MN, USA",
+            "global_code" : "86P8XQ5G+2V"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJZfjJwW8q9ocRI71HA6BpKHQ",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 29,
+         "vicinity" : "3336 East 25th Street, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9543718,
+               "lng" : -93.2328301
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9557237302915,
+                  "lng" : -93.23161541970849
+               },
+               "southwest" : {
+                  "lat" : 44.9530257697085,
+                  "lng" : -93.2343133802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+         "name" : "Mindful Motion Tai-Chi Academy",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108570195330471845968\"\u003eSpencer Chandler\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA1urjM-wNz7xpkO7P5zHHm1OqFR3viFAS-TtRqU7ceCOMkPII1nIZ1uZXSYAE1-BtKWpzmqyJoyDxPiQgfbr2QwZbJI6wRvuUmPd_WXkFWEnPFxPFwkrQDeCPIX64O113XxFAjqVqGtdMeIyv8-eR5wCjTu9Z8UoG-4bcLadNtublI",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJc6CnUzMts1IRqbYR0-IXQrY",
+         "plus_code" : {
+            "compound_code" : "XQ38+PV Minneapolis, MN, USA",
+            "global_code" : "86P8XQ38+PV"
+         },
+         "rating" : 5,
+         "reference" : "ChIJc6CnUzMts1IRqbYR0-IXQrY",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "2637 27th Avenue South Suite 207, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9919672,
+               "lng" : -93.2217399
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.99308398029149,
+                  "lng" : -93.22038496970849
+               },
+               "southwest" : {
+                  "lat" : 44.9903860197085,
+                  "lng" : -93.22308293029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+         "name" : "MPY",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3850,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107940571383856711703\"\u003eWe keep little ladies from their dads ✌️\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC05yfA5zXdR_Yr46-VT_g3Z4MoXbk-ey91JE4mrFeYYqXr6j4Mbggqg07xvN5gCLd5-ZIXbnFVjBZ44g2HjENW-bwWu3I4oH_S_RwLxIU0eU36Jb7TlaSELkdZvFngHDBBtJP4olT2nmmYfJ-X_Hgax-mClUVYAGxYq_HHTam6xkZA",
+               "width" : 6160
+            }
+         ],
+         "place_id" : "ChIJPYwdcIUys1IRRMtk9mBWquY",
+         "plus_code" : {
+            "compound_code" : "XQRH+Q8 Minneapolis, MN, USA",
+            "global_code" : "86P8XQRH+Q8"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJPYwdcIUys1IRRMtk9mBWquY",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 23,
+         "vicinity" : "2125 East Hennepin Avenue Suite 110, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.98031590000001,
+               "lng" : -93.26116349999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9815986802915,
+                  "lng" : -93.25987111970849
+               },
+               "southwest" : {
+                  "lat" : 44.97890071970851,
+                  "lng" : -93.2625690802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "G-Werx Fitness Downtown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 427,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107029003088996022637\"\u003eG-Werx Fitness Downtown\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDjNToxf8pkwq27mkONDULg9RmtLnFlUzTyXNvCHYFRSB3yIwBudtmmKeXgBJl4w95T8oHLs-GspXcbYFsZQ-VSzLnWG6E2dLlx-TgodDiwXv94LmIBv4MJV6GhGuET1ve5VhLl7w6kB9kyNTdnw_34U9nZH5oT0gxuIuIMRApYlBnh",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJQ5EAomIts1IRUTlfxBhybgU",
+         "plus_code" : {
+            "compound_code" : "XPJQ+4G Minneapolis, MN, USA",
+            "global_code" : "86P8XPJQ+4G"
+         },
+         "rating" : 5,
+         "reference" : "ChIJQ5EAomIts1IRUTlfxBhybgU",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "428 South 2nd Street Suite 100, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.991359,
+               "lng" : -93.2506875
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9927871302915,
+                  "lng" : -93.24955541970849
+               },
+               "southwest" : {
+                  "lat" : 44.9900891697085,
+                  "lng" : -93.25225338029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Rabbit Hole Studios: Minnesota Performing Arts Cooperative (MPAC)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116757832642415869604\"\u003eDaniel Obot\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECd8DBhCjE-XJPWNfdFpjlPcBWBjcxOhctJjngosOo9I96kDSHMe-UXcePQzxgPpZ3DaGBMpjr_-npr1OpP90RgMgxSt8MOnjwC8OOkQIhchIP93Q9lrWB42NcGw_0LUbnYfR0m9iuaIKesrrbDSJT2VVbT9si9T9_X4dz5vUHYCJHj",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJtV8uY50ts1IRydZjVX2plKg",
+         "plus_code" : {
+            "compound_code" : "XPRX+GP Minneapolis, MN, USA",
+            "global_code" : "86P8XPRX+GP"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJtV8uY50ts1IRydZjVX2plKg",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 19,
+         "vicinity" : "726 Central Avenue Northeast #107, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.990276,
+               "lng" : -93.25287499999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9916678302915,
+                  "lng" : -93.25144491970849
+               },
+               "southwest" : {
+                  "lat" : 44.9889698697085,
+                  "lng" : -93.2541428802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+         "name" : "YogaFit Studios",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118381921100685092236\"\u003eYogaFit Studios\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECjJUT-lgXteFQ21iiEaoosm6jpofHArHe6uhRBrzDm0C-IyaN7maJugG4oM8kUsfV-rL7uq1JmGNy8aiD5G-b1JaUFiljRB_lN19XuP7pYqd1ofOhwsrQI5A_kicE8UVnarSuVQtZG0QYKA4WmKBzXcAqLuSiDG2AS-EPL-H9chTX1",
+               "width" : 5760
+            }
+         ],
+         "place_id" : "ChIJH0A1angts1IRjv67XB5gufE",
+         "plus_code" : {
+            "compound_code" : "XPRW+4V Minneapolis, MN, USA",
+            "global_code" : "86P8XPRW+4V"
+         },
+         "rating" : 5,
+         "reference" : "ChIJH0A1angts1IRjv67XB5gufE",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 35,
+         "vicinity" : "520 1st Avenue Northeast, Minneapolis"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.97939520000001,
+               "lng" : -93.2372924
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.98074418029151,
+                  "lng" : -93.23594341970849
+               },
+               "southwest" : {
+                  "lat" : 44.97804621970851,
+                  "lng" : -93.2386413802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Peik Gymnasium",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 3574,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106057294575410052776\"\u003ePeik Gymnasium\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECQBRsF99kXVvKxyie4A5N6-tU8qBlbY3Ldx-o51psQIvaSdpY8WpTHw9mEK0aOb2Vp_0nH1boo8Oc-d69yWzv-P97xL67w8fGozHMxuQakVdxk7JRLz97yilo_cgYRKYQ765_dddPYiwvuNELdhpn2yqkFjM6yC_-KKjaMMPLztH1m",
+               "width" : 5400
+            }
+         ],
+         "place_id" : "ChIJ4SeVtxMts1IRyAeOReJqvu8",
+         "plus_code" : {
+            "compound_code" : "XQH7+Q3 Minneapolis, MN, USA",
+            "global_code" : "86P8XQH7+Q3"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ4SeVtxMts1IRyAeOReJqvu8",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "university", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "157 Pillsbury Drive Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9953561,
+               "lng" : -93.22827389999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.99670648029151,
+                  "lng" : -93.22675121970849
+               },
+               "southwest" : {
+                  "lat" : 44.99400851970851,
+                  "lng" : -93.2294491802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Southside Brazilian Jiu-Jitsu Academy",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1458,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106918410597483288949\"\u003eSouthside Brazilian Jiu-Jitsu Academy\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBEqoeawkKYCZOXw3mNFtuDREjGqIAHQA15iKBcRaT961Pht-wI25vBK4ffAuPbRD7iVUBLq-HlsgLofalUEd1089EnsyYALMN5SjsemiFSg7B_bH2tBVeUbexiZv9ZIc-13zToaZal1v33URlpLJXLwbl8x9ZLQIwNZwlL_egvcaCB",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJcXAHVnIts1IRn0WHUiABVl0",
+         "plus_code" : {
+            "compound_code" : "XQWC+4M Minneapolis, MN, USA",
+            "global_code" : "86P8XQWC+4M"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJcXAHVnIts1IRn0WHUiABVl0",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 88,
+         "vicinity" : "2303 Kennedy Street Northeast, Minneapolis"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9721878,
+               "lng" : -93.2342141
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9735945802915,
+                  "lng" : -93.23267901970851
+               },
+               "southwest" : {
+                  "lat" : 44.9708966197085,
+                  "lng" : -93.23537698029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+         "name" : "Boynton Yoga Classes",
+         "permanently_closed" : true,
+         "place_id" : "ChIJDUZO7D0ts1IRCpkPxqiL2ZU",
+         "plus_code" : {
+            "compound_code" : "XQC8+V8 Minneapolis, MN, USA",
+            "global_code" : "86P8XQC8+V8"
+         },
+         "rating" : 5,
+         "reference" : "ChIJDUZO7D0ts1IRCpkPxqiL2ZU",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "420 Delaware Street Southeast, Minneapolis"
+      }
+   ],
+   "status" : "OK"
+}

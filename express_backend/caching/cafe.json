@@ -1,0 +1,1049 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEBHpHgRxkbJ_sHcTImuJ9HBv0vjR1qz3Zumth0aK_OcsXQs_FGXdFt9sRzFX221g2lIAgkM38HW6opwynRG539HTG5dHUYKZcEVnH2g-c9_ZPRv_D8s0_CvrSyFYGFXwU1s4JEqkcKHV07Qy-4XP4cE9qTJqGwWPgK_yyWo8cNKPk_UjKg_I2JLiWHPYpAEULBptpDBkpeyE7C2hqgr28PAU6k8mkmVY8nmGW_v7m3gsuxTKZ2hjMw9IdFLe5mwWzhOStJQNAFVBFGkA_WMGbUPgvZPkF7UFw4LoEwuRyuLJBVRWFZIqIAZDbvIMMKP5xNfJzzRAVdbMxA18DTsYAdmVqr7HmUgPMbu-8SE7i-yBv7JC5LOlWWWiY2u-HFO4rnPPyU4Srbj1224n9Bdsr1KGAYDZigmlFB1fB8IIRm2WLNr",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.96958899999999,
+               "lng" : -93.24622699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97101233029149,
+                  "lng" : -93.24481386970848
+               },
+               "southwest" : {
+                  "lat" : 44.96831436970849,
+                  "lng" : -93.24751183029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Hard Times Cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102005259158861160281\"\u003eMatt H\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED1hOas3jD-CCByyiccHCWQ0gbcaq4EcYC-A67WgWOhsFVvJFcyR35REVBnzuU-6LjisoDwtsexWvI2K57LniIhy9VF6AUSaR8AZ3yB1pwCWKVJDtH-qHFauvMyMynBYjzCebxkOrtdH7mHUTuV7CySR23bh9DQqpjTDXJvxlt0X77H",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJIxHJx0Mts1IRlGMFZ_q61xo",
+         "plus_code" : {
+            "compound_code" : "XQ93+RG Minneapolis, MN, USA",
+            "global_code" : "86P8XQ93+RG"
+         },
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "ChIJIxHJx0Mts1IRlGMFZ_q61xo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "bakery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1317,
+         "vicinity" : "1821 Riverside Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.957235,
+               "lng" : -93.223421
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.95866263029149,
+                  "lng" : -93.2220892697085
+               },
+               "southwest" : {
+                  "lat" : 44.95596466970849,
+                  "lng" : -93.22478723029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Birchwood Cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5790,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107849278273186647955\"\u003eOrmand Deen\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBNfr0BKrKLiAXcpsxPsAgiZ2jADbRNeFRVlPNMqUhnd-PTHzWRDYRBpXfqzvPi74Vq7yYgysPaI3QUBEFhXlyEwB-pyxyEtI2PCcNpFeYfupbz5mPD9aatz3_MANzcwwPvyiOQgpBkyDo-p-7bG-kAgyK2xjXxG2exoFiKenBWV3_i",
+               "width" : 6222
+            }
+         ],
+         "place_id" : "ChIJOZq5gCsts1IRsVtrCfY7zXA",
+         "plus_code" : {
+            "compound_code" : "XQ4G+VJ Minneapolis, MN, USA",
+            "global_code" : "86P8XQ4G+VJ"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJOZq5gCsts1IRsVtrCfY7zXA",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1797,
+         "vicinity" : "3311 East 25th Street, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.97023679999999,
+               "lng" : -93.24698619999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9715384302915,
+                  "lng" : -93.24566186970848
+               },
+               "southwest" : {
+                  "lat" : 44.9688404697085,
+                  "lng" : -93.24835983029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "Acadia",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1082,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118133773490997647106\"\u003eAcadia\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECSjfg8P-FmrELgvUlf1G1NI_U1hMvHrc9yO1dHpA4lDGcltwB4G3kNEGINfbxKCfXFNBuhvz8ACzu1XUDSlRDN9gJ8sR41lhz77e626NAOI0QRsSdodJGk8N_0dmYKlfRl9sIckx_oAZpb4nr2OKGsS56QLAnhWa-T-oUbkNFYYtEp",
+               "width" : 1558
+            }
+         ],
+         "place_id" : "ChIJvZgyRUIts1IR8Sf9NXUQO9k",
+         "plus_code" : {
+            "compound_code" : "XQC3+36 Minneapolis, MN, USA",
+            "global_code" : "86P8XQC3+36"
+         },
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "ChIJvZgyRUIts1IR8Sf9NXUQO9k",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 474,
+         "vicinity" : "329 Cedar Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.97352679999999,
+               "lng" : -93.22730899999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9749173302915,
+                  "lng" : -93.22602031970851
+               },
+               "southwest" : {
+                  "lat" : 44.9722193697085,
+                  "lng" : -93.22871828029152
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Bruegger's Bagels",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105058398746970423397\"\u003ePaul Jahn\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAWwGSKTfxMrBFAu7ubB8bCyM0MIQ938TZw2CVtqSh_ndzigl_pPiOCi1HBgjhAFPAuYwONE9reLBDEzh6saK7Yw1T6i_m5jYSS9sRD6gApV5dkuWXeKlnXqsaZNcOiPOb1hJETgfd7pzW9kFXLkwAaHyHa8xYf4sQN2KKxeU9L-u1P",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJHTlZhhgts1IRN-AIZHcMYEE",
+         "plus_code" : {
+            "compound_code" : "XQFF+C3 Minneapolis, MN, USA",
+            "global_code" : "86P8XQFF+C3"
+         },
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "ChIJHTlZhhgts1IRN-AIZHcMYEE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 186,
+         "vicinity" : "720 Washington Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.98557819999999,
+               "lng" : -93.25763289999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.98687843029149,
+                  "lng" : -93.2563558697085
+               },
+               "southwest" : {
+                  "lat" : 44.98418046970849,
+                  "lng" : -93.25905383029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Wilde Cafe & Spirits",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2446,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112537998281020673156\"\u003eMatt Russell\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBh29m9J0ztl0UycbCxwdjAap8IqPXHRT3s7Zx5fhVo-h9eH6uJ9u5f5USVDkqWzkZxj7lQV681_h5wPJYbfeOnjNjhkwTTHMgL4DHQBqj2Tg-0pUzz05LlIX8ef-YtyjIuwoTHk7WpBzb3L1y2bD7t1nw18XyB9_9oUCkjjK6rgvU",
+               "width" : 3262
+            }
+         ],
+         "place_id" : "ChIJHXA1KXgts1IROYIBdIUO_t0",
+         "plus_code" : {
+            "compound_code" : "XPPR+6W Minneapolis, MN, USA",
+            "global_code" : "86P8XPPR+6W"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJHXA1KXgts1IROYIBdIUO_t0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 965,
+         "vicinity" : "65 Southeast Main Street, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.97412639999999,
+               "lng" : -93.22483679999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9754750802915,
+                  "lng" : -93.22335011970848
+               },
+               "southwest" : {
+                  "lat" : 44.9727771197085,
+                  "lng" : -93.22604808029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Caribou Coffee",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1497,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105058398746970423397\"\u003ePaul Jahn\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEADEbAUaO05DGZ_e0OtagNR1P2QofOeCzpjDvUBQzr1BzqNCJwBpKNb5igrabGrO1ajHI8wTEMGbnCY_fyr_LF5mSy1xj8Uc5CEWpCmoeAWYrKoLudIgZsPoHxPLHEySorM3etNIeOug5-HmyiJyVLIm85B1FxMQL4if1ea8LVugqkD",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ5ZewTx8ts1IR6nQUFCF4pc0",
+         "plus_code" : {
+            "compound_code" : "XQFG+M3 Minneapolis, MN, USA",
+            "global_code" : "86P8XQFG+M3"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJ5ZewTx8ts1IR6nQUFCF4pc0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 250,
+         "vicinity" : "917 Washington Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9877495,
+               "lng" : -93.221344
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9891117302915,
+                  "lng" : -93.22010361970848
+               },
+               "southwest" : {
+                  "lat" : 44.9864137697085,
+                  "lng" : -93.2228015802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "Manning's Cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102636731326260784234\"\u003eManning&#39;s Cafe\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBIjpq80Z2JvamH_IT0NwKd54xg0bexfLFKQuVjs8iBs0s7TILwi3C10Aiwd6nfgKnZotFUsbMm3qaNzwdiZoy_Dd7CSTlVAdMSJcHrAfs_RbIFCnjTUAE23cQTgSa1wfU0ae29Y4_A-pzIWMlrYnf2sLB0dvCBt5x9_BHG8vvG9zZy",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJJYzvBP4ss1IR8ni1tkzxriE",
+         "plus_code" : {
+            "compound_code" : "XQQH+3F Minneapolis, MN, USA",
+            "global_code" : "86P8XQQH+3F"
+         },
+         "price_level" : 1,
+         "rating" : 4.4,
+         "reference" : "ChIJJYzvBP4ss1IR8ni1tkzxriE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 624,
+         "vicinity" : "2200 Como Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9709391,
+               "lng" : -93.24357309999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9722880802915,
+                  "lng" : -93.24222411970848
+               },
+               "southwest" : {
+                  "lat" : 44.9695901197085,
+                  "lng" : -93.2449220802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Dunn Brothers Coffee",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110157856430477489486\"\u003ePatrícia Giseli\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEApv6OizOJdQhsthLTWlim-Uf8lJyk2_zBLsnqNNbMTRIrAFShb-3fE9FLmbyugV7XofHOi3lXneDEVpYO-aoKZ8Q5XpBMo0-mooljhKGUNa3FtwTl-bK0dWTQJ3kDKe4-wdoSI12RwnY-u9qLVZBBLFRGiJNG_ED0n_P7WXvRPNG4q",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJS_44o0Ets1IRHZFI4zQVp68",
+         "plus_code" : {
+            "compound_code" : "XQC4+9H Minneapolis, MN, USA",
+            "global_code" : "86P8XQC4+9H"
+         },
+         "price_level" : 1,
+         "rating" : 3.2,
+         "reference" : "ChIJS_44o0Ets1IRHZFI4zQVp68",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 5,
+         "vicinity" : "309 19th Avenue South, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.97397399999999,
+               "lng" : -93.22988199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97527803029149,
+                  "lng" : -93.22852351970849
+               },
+               "southwest" : {
+                  "lat" : 44.9725800697085,
+                  "lng" : -93.2312214802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102441883141338823636\"\u003eLee McDaniel Jr\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECGnEV9H5JUBiSB-1Z8DnBJ9QWJReJOKSxtgOCVuKhqjRqeSuzcgmjhT4QpeESj8Rr5_cxN89ZlQiIbQUdBsR9yPHKUdZh5ApvxaRQUMWz-FBdDliO0QWxyXNAevhNI1U3odVunacdqGBbWH14oPsTbkdpiUMjqyk7KNU1-YTMLDqBg",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJe_jSGxgts1IR4wVdDOOr6zA",
+         "plus_code" : {
+            "compound_code" : "XQFC+H2 Minneapolis, MN, USA",
+            "global_code" : "86P8XQFC+H2"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJe_jSGxgts1IR4wVdDOOr6zA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 379,
+         "vicinity" : "615 Washington Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.96301559999999,
+               "lng" : -93.24194439999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.96434568029149,
+                  "lng" : -93.24059606970849
+               },
+               "southwest" : {
+                  "lat" : 44.96164771970849,
+                  "lng" : -93.24329403029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+         "name" : "Holiday Stationstores",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103483163557795587225\"\u003eSynfinity Music\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECO-cYqA3QpsXz9EO4cJNrXmc1cEQxl79V25GkzsPqX9F1W8Fp08HiAgkaiEMVjcdEd7UG5yP_tDMsW9yxyV3JF0OsusQGt1QqRRS1MGehWVeabhgU4OZ3HN5_fV6tSsXp_BwMoHinLBwQX80N2DDmzBMjJKJYRfNAJ8IZxGuf1ioGQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ07-bh0gts1IR36GwkdRJgCM",
+         "plus_code" : {
+            "compound_code" : "XQ75+66 Minneapolis, MN, USA",
+            "global_code" : "86P8XQ75+66"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJ07-bh0gts1IR36GwkdRJgCM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 55,
+         "vicinity" : "2124 East Franklin Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9790657,
+               "lng" : -93.2336512
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9803708302915,
+                  "lng" : -93.23230861970848
+               },
+               "southwest" : {
+                  "lat" : 44.9776728697085,
+                  "lng" : -93.23500658029148
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Bordertown Coffee",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115648968742256870658\"\u003eMatteo Stucchi\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECyye6pa3jUKA9-_uuIGD9n0QLMhUxHMSb1FQmmJZTAyTw8zCnrZLVm_6Y8ENCcdqkNS0hzjmLCYPLxXomaNEcRynpZXpKUogH00OV8cuj-OEyxXpXdHDh3XP7VENgkDxe-DKf7JjL--sPjxcj780lNNQahEFKDjltgSecXtx-sCBHr",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJbx5iHhEts1IRr81sTp4Zp14",
+         "plus_code" : {
+            "compound_code" : "XQH8+JG Minneapolis, MN, USA",
+            "global_code" : "86P8XQH8+JG"
+         },
+         "price_level" : 1,
+         "rating" : 4.6,
+         "reference" : "ChIJbx5iHhEts1IRr81sTp4Zp14",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 278,
+         "vicinity" : "315 16th Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9904246,
+               "lng" : -93.25166999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9918536802915,
+                  "lng" : -93.25019826970849
+               },
+               "southwest" : {
+                  "lat" : 44.9891557197085,
+                  "lng" : -93.2528962302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+         "name" : "Holiday Stationstores",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111023704643371243461\"\u003eMichael Bellotti\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC3StfO5c9upU-aWHi0gqrAsJr-GJAdkwgXYu33CG8u9V1TlUuIacS-NhSLeTfikqel0u-8sXWsPRwcqNEioan2MhjC6iycWTQNVcqjLRQid4_dTE_h5BeK9cjbtBVxdFgLtQQN7rnKPKkBLLG1jKmadKJM6oKcaU0w-jfoeTZGMnRC",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJtxAIjHcts1IRjsrmawdxOME",
+         "plus_code" : {
+            "compound_code" : "XPRX+58 Minneapolis, MN, USA",
+            "global_code" : "86P8XPRX+58"
+         },
+         "rating" : 3,
+         "reference" : "ChIJtxAIjHcts1IRjsrmawdxOME",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "gas_station",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 59,
+         "vicinity" : "620 Central Avenue Northeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9784769,
+               "lng" : -93.26103689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9798958302915,
+                  "lng" : -93.25971741970849
+               },
+               "southwest" : {
+                  "lat" : 44.9771978697085,
+                  "lng" : -93.2624153802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Caribou Coffee",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100392103522171333895\"\u003eMac Broadway\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAfA4bPb6Hm5LHNFbAFAJAuXwaMb5HhuVaJwNyBqsPiQNcYtpRWJjzm8BNbP-1sDUhyfWYDXx8Y9FlYt8945rXaWeZy7nxLvAm6I3FuDaTTsUaN0wHgAgC3t6YnLPd83DSphwlYWGGmOdvoCu0OcVy4ZuX-tj6qPQDVSUaPhd20hCSM",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJk4z6iZ0ys1IR7S8P0FTjjfI",
+         "plus_code" : {
+            "compound_code" : "XPHQ+9H Minneapolis, MN, USA",
+            "global_code" : "86P8XPHQ+9H"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJk4z6iZ0ys1IR7S8P0FTjjfI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 317,
+         "vicinity" : "509 South Washington Avenue, Minneapolis"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.974518,
+               "lng" : -93.233599
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97625623029149,
+                  "lng" : -93.2322351697085
+               },
+               "southwest" : {
+                  "lat" : 44.97355826970849,
+                  "lng" : -93.23493313029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "permanently_closed" : true,
+         "place_id" : "ChIJ5VuMSBYts1IRvXz0i7f8YU0",
+         "plus_code" : {
+            "compound_code" : "XQF8+RH Minneapolis, MN, USA",
+            "global_code" : "86P8XQF8+RH"
+         },
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "ChIJ5VuMSBYts1IRvXz0i7f8YU0",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 25,
+         "vicinity" : "207 Church Street Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9730467,
+               "lng" : -93.2318138
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97439568029149,
+                  "lng" : -93.2304648197085
+               },
+               "southwest" : {
+                  "lat" : 44.97169771970849,
+                  "lng" : -93.23316278029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Caribou Coffee",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105058398746970423397\"\u003ePaul Jahn\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECx0tUPgSwyMkFXYwVVH8dgqSrRFNPmb8kvro9eIiq8SmHRhxa8xmBC0tZVG5hFhh5dZblcF5KQbRIv_reBBBOJOK3DeaUSLl-lSTENuAguHt7h1b7y1yqehLK0skUNWv3VQ0H52Bbet2LbjUD3Vuty0G42JYwOT4ueHIK1bjCIoVOZ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJOWFY3hcts1IRzG8SPHGszfQ",
+         "plus_code" : {
+            "compound_code" : "XQF9+67 Minneapolis, MN, USA",
+            "global_code" : "86P8XQF9+67"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJOWFY3hcts1IRzG8SPHGszfQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 111,
+         "vicinity" : "515 Delaware Street SE Moos Tower, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9752746,
+               "lng" : -93.236345
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9766187302915,
+                  "lng" : -93.23526621970849
+               },
+               "southwest" : {
+                  "lat" : 44.9739207697085,
+                  "lng" : -93.2379641802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Wise Owl Café",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112261453825922807743\"\u003ezohre nemati\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED6peV-pRVkCp7AmXPvvzgo6BHWfPyd35MRYJSgXPTpNcSfPh_g4U92BK7iLyoYLifXptuaOzkG1rrf5kBRcld2pkZTsegEme-89_kWXbpIodBTrvYwmHu1XmmqHnHBVGGQtpZX_yaIJeVnseBiLTL64pvVr34KrZc8uZF8rnFa1UNN",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJw9es0hUts1IRZG_OBZmpvSc",
+         "plus_code" : {
+            "compound_code" : "XQG7+4F Minneapolis, MN, USA",
+            "global_code" : "86P8XQG7+4F"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJw9es0hUts1IRZG_OBZmpvSc",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "117 Pleasant Street Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9764673,
+               "lng" : -93.23569789999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97741768029149,
+                  "lng" : -93.23295920000002
+               },
+               "southwest" : {
+                  "lat" : 44.9747197197085,
+                  "lng" : -93.23661079999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Surdyk's Northrop Cafe",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107960079709649983420\"\u003eUmesh Ghimire\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBJK8IrlYUuEgV7re5G92txlAZL6ArbgMLgeb_-Wli2X5RMAD96jOwNT8meOQWsUUiOdYDLUPuxsBxEsqP2Ful101P9AhPBIv-RGRA-PErKGYqpXzxK5EaAxOqFlSgEB9T6dp1zWg1ps-bBMlVBe10i32D10vMNWkgYmJsvqoukI_N6",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJAUe6oRYts1IR_va0_Kzdd8w",
+         "plus_code" : {
+            "compound_code" : "XQG7+HP Minneapolis, MN, USA",
+            "global_code" : "86P8XQG7+HP"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJAUe6oRYts1IR_va0_Kzdd8w",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 28,
+         "vicinity" : "84 Church Street Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9738791,
+               "lng" : -93.22482789999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9752173802915,
+                  "lng" : -93.22334441970848
+               },
+               "southwest" : {
+                  "lat" : 44.9725194197085,
+                  "lng" : -93.22604238029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Kung Fu Tea",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 607,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104157428448889545121\"\u003eKung Fu Tea\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAVweif5KKqmXVkyPA1F_PI6FbnUiTrtRtE_GMSniKft--ZSSogzJD2AnkQdFBBpTWZcYeA2s8Uu1jdKo3VDsLR2OeWaBeMGVRDz09tRsTW08X5_FIs-bjnd8ykf0SfL3LufHx4CPxXDRbJduhSRYjd6czEAm49FxrDqT00BktMWiF2",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJZ_8pUx8ts1IR27Vwi0fMygc",
+         "plus_code" : {
+            "compound_code" : "XQFG+H3 Minneapolis, MN, USA",
+            "global_code" : "86P8XQFG+H3"
+         },
+         "price_level" : 1,
+         "rating" : 4.4,
+         "reference" : "ChIJZ_8pUx8ts1IR27Vwi0fMygc",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 253,
+         "vicinity" : "923 Washington Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9801935,
+               "lng" : -93.23630349999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.98149993029149,
+                  "lng" : -93.2348498197085
+               },
+               "southwest" : {
+                  "lat" : 44.9788019697085,
+                  "lng" : -93.23754778029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Chatime - Dinkytown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 333,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108953559179091293429\"\u003eChatime - Dinkytown\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDGnG3yRo7i53s0asUsZZg1HirufElDGgJN7ymZYP3M6jItPsq2FBshszMZpZRPEAjX60Is4W9KJZ0z5qH-gFASTvDlbE9leDeSomgTuh8RREfI5efsTt_THxwyJQ_1pabGAT6GIut9uaOxT8v7JYxHqV5rolX_ryXyN2trTvDbIPAj",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJoRsVIRIts1IRlnM8_P2rxn0",
+         "plus_code" : {
+            "compound_code" : "XQJ7+3F Minneapolis, MN, USA",
+            "global_code" : "86P8XQJ7+3F"
+         },
+         "price_level" : 1,
+         "rating" : 4.4,
+         "reference" : "ChIJoRsVIRIts1IRlnM8_P2rxn0",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 345,
+         "vicinity" : "321 14th Avenue Southeast, Minneapolis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9703855,
+               "lng" : -93.2249192
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9718667802915,
+                  "lng" : -93.2237435697085
+               },
+               "southwest" : {
+                  "lat" : 44.9691688197085,
+                  "lng" : -93.22644153029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Fulton Street Cafe",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 497,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105058398746970423397\"\u003ePaul Jahn\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDpHR9rMG8TuzxVpgX8V3E2-ZNjhcuAlrtdsAUzNODD-yY0_jfl5vCQhiQR6_nbwBtIVMvJ6mx_fZhdUVZ8WbjnHQF9C3zKz4ozpR0IJnUOOIM6o8i-41jZunAA1pyNNfRQXoCqPpPL2IgigKxq21EyWEEqHLTRppo8Y1-djVn34j4S",
+               "width" : 670
+            }
+         ],
+         "place_id" : "ChIJuXtJ1iMts1IRL0tCfqqCm2M",
+         "plus_code" : {
+            "compound_code" : "XQCG+52 Minneapolis, MN, USA",
+            "global_code" : "86P8XQCG+52"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJuXtJ1iMts1IRL0tCfqqCm2M",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 21,
+         "vicinity" : "909 Fulton Street Southeast, Minneapolis"
+      }
+   ],
+   "status" : "OK"
+}
