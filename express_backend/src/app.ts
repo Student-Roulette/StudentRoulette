@@ -19,11 +19,12 @@ const options = {
 }
 
 const scrape_events = async () => {
-  const req = https.request(options, (res) => {
-    console.log(res);
-    res.on('data', (events) => {
+  axios.get('https://api.presence.io/twin-cities-umn/v1/events')
+  .then((res) => {
+    const events = res.data;
+    if (Array.isArray(events)) {
       events.forEach(async (event) => {
-        //console.log(`Adding event with name: ${event.eventName}`);
+        console.log(`Adding event with name: ${event.eventName}`);
         const attraction = await prisma.attraction.create({
           data: {
             name: event.eventName,
@@ -33,14 +34,10 @@ const scrape_events = async () => {
             presenceId: event.eventNoSqlId,
           }
         });
-        //console.log(`Created attraction with id: ${attraction.name}`)
-      });
+        console.log(`Created attraction with name: ${attraction.name}`)
     })
+  }
   });
-  req.on('error', error => {
-    console.error(error)
-  });
-  req.end();
 };
 
 cron.schedule(MINUTELY, () => {
