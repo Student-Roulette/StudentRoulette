@@ -19,13 +19,12 @@ function generateAttraction() {
 	}
 }
 
-const seed_events = async () => {
+const seed_events = async (verbose=false) => {
   axios.get('https://api.presence.io/twin-cities-umn/v1/events')
   .then((res) => {
     const events = res.data;
     if (Array.isArray(events)) {
       events.forEach(async (event) => {
-        console.log(`Adding event with name: ${event.eventName}`);
         const attraction = await prisma.attraction.create({
           data: {
             name: event.eventName,
@@ -35,10 +34,11 @@ const seed_events = async () => {
             presenceId: event.eventNoSqlId,
           }
         });
-        console.log(`Created attraction with name: ${attraction.name}`)
+		if (verbose) {
+			console.log(`Created attraction with name: ${attraction.name}`);
+		}
     })
-  }
-  });
+  }});
 };
 
 
@@ -52,7 +52,7 @@ async function main() {
 	}
 	console.log(`Seeded tags.`);
 	console.log(`Seeding attractions...`);
-	seed_events();
+	seed_events(true);
 	console.log(`Seeded attractions.`);
 	console.log(`Seeding finished.`);
 }
