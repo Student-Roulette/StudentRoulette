@@ -1,4 +1,3 @@
-// TODO: rewrite with Faker
 import { PrismaClient, Prisma } from '@prisma/client'
 import axios from 'axios'
 
