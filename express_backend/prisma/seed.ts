@@ -15,7 +15,7 @@ const seed_events = async (verbose = false) => {
 				create: {
 					name: tag
 				}
-			}))
+			}));
 			const attraction = await prisma.attraction.create({
 				data: {
 					name: event.eventName,

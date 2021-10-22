@@ -16,6 +16,14 @@ const upsert_events = async (verbose = false) => {
   const res = await axios.get('https://api.presence.io/twin-cities-umn/v1/events')
   const events: any = res.data; // TODO: repent
   events?.forEach(async (event) => {
+    const tag_inserts = event.tags.map((tag) => ({
+      where: {
+        name: tag
+      },
+      create: {
+        name: tag
+      }
+    }));
     const attraction = await prisma.attraction.upsert({
       where: {
         presenceId: event.eventNoSqlId,
@@ -25,6 +33,7 @@ const upsert_events = async (verbose = false) => {
         description: event.description,
         startTime: event.startDateTimeUtc,
         endTime: event.endDateTimeUtc,
+        tags: { connectOrCreate: tag_inserts }
       },
       create: {
         name: event.eventName,
@@ -32,6 +41,7 @@ const upsert_events = async (verbose = false) => {
         startTime: event.startDateTimeUtc,
         endTime: event.endDateTimeUtc,
         presenceId: event.eventNoSqlId,
+        tags: { connectOrCreate: tag_inserts }
       },
     });
     if (verbose) {
@@ -39,10 +49,8 @@ const upsert_events = async (verbose = false) => {
     }
   })
 }
-  });
-}
 
-cron.schedule(DAILY, () => {
+cron.schedule(MINUTELY, () => {
   upsert_events();
 })
 
