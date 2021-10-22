@@ -6,10 +6,10 @@ function Results(props: any) { // { results: [{ title: string, startTime: number
 
   return (
     <View style={styles.container}>      
-      {props.route.params.results.map((result: any) =>
+      {props.route.params.results.map((result: Attraction) =>
         <MaterialCardWithImageAndTitle
-          key={result.title}
-          title={result.title}
+          key={result.id}
+          title={result.name}
           startTime={result.startTime}
           endTime={result.endTime}
           style={styles.materialCardWithImageAndTitle}

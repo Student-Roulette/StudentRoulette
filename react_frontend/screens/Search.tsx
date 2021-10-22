@@ -29,12 +29,14 @@ function Search(props: any) {
 
   const handleSearchStart = async () =>{
 
+    let results : Attraction[] = [];
+    for (var i = 0;i<10;i++){
+      results.push({id:i, createdAt:new Date(),updatedAt:new Date(), name:`Thing_${i}`});
+    }
+
     // let events = await GetEvents();
     // console.log(events);
-    props.navigation.navigate('Results',{results: [
-      { title: "test1", startTime: {hours: startTime.getHours(), minutes:startTime.getMinutes()}, endTime: {hours: endTime.getHours(), minutes:endTime.getMinutes()}, tags: [{ name: "test" }] },
-      { title: "test2", startTime: {hours: 5, minutes:15}, endTime: {hours: 15, minutes:45}, tags: [{ name: "test" }] }
-    ] });
+    props.navigation.navigate('Results',{results: results});
   }
 
   return (

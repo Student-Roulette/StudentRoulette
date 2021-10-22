@@ -24,7 +24,7 @@ function MaterialCardWithImageAndTitle(props : any) {
       <View style={styles.cardBody}>
         <View style={styles.bodyContent}>
           <Text style={styles.titleOfEvent}>{props.title}</Text>
-          <Text style={styles.hoursStartEnd}>Hours: {getTimeString(props.startTime.hours, props.startTime.minutes)} - {getTimeString(props.endTime.hours, props.endTime.minutes)}</Text>
+          <Text style={styles.hoursStartEnd}>Hours: {getTimeString(props.startTime?.getHours(), props.startTime?.getMinutes())} - {getTimeString(props.endTime?.getHours(), props.endTime?.getMinutes())}</Text>
         </View>
         <Image
           source={require("../assets/images/cardImage.png")}
