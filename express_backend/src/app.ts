@@ -11,12 +11,13 @@ import axios from "axios";
 const DAILY = "0 1 * * *";
 //const MINUTELY = "* * * * *";
 
-interface Event {
+export interface Event {
   eventName: string;
   description?: string;
   startDateTimeUtc: Date;
   endDateTimeUtc: Date;
   eventNoSqlId: string;
+  tags: string[];
 }
 
 const upsert_events = async (verbose = false) => {
@@ -24,7 +25,7 @@ const upsert_events = async (verbose = false) => {
   const res = await axios.get(
     "https://api.presence.io/twin-cities-umn/v1/events"
   );
-  const events: Event[] = res.data; // TODO: repent
+  const events: Event[] = res.data as Event[];
   events?.forEach(async (event) => {
     const tag_inserts = event.tags.map((tag) => ({
       where: {

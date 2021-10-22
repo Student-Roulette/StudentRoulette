@@ -1,5 +1,6 @@
 import { PrismaClient } from "@prisma/client";
 import axios from "axios";
+import { Event } from "../src/app";
 
 const prisma = new PrismaClient();
 
@@ -7,7 +8,7 @@ const seed_events = async (verbose = false) => {
   const res = await axios.get(
     "https://api.presence.io/twin-cities-umn/v1/events"
   );
-  const events = res.data;
+  const events: Event[] = res.data as Event[];
   if (Array.isArray(events)) {
     for (const event of events) {
       const tag_inserts = event.tags.map((tag) => ({
