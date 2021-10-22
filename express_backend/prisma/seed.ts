@@ -1,23 +1,8 @@
 // TODO: rewrite with Faker
 import { PrismaClient, Prisma } from '@prisma/client'
-import * as faker from 'faker'
 import axios from 'axios'
 
 const prisma = new PrismaClient()
-
-function generateTag() {
-	return {
-		name: faker.commerce.color(),
-	}
-}
-
-function generateAttraction() {
-	return {
-		name: faker.company.companyName(),
-		startTime: faker.date.future(),
-		endTime: faker.date.future(),
-	}
-}
 
 const seed_events = async (verbose = false) => {
 	const res = await axios.get('https://api.presence.io/twin-cities-umn/v1/events');
