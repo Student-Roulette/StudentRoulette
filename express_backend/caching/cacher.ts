@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-import { ServerResponse } from "http";
-=======
 import { PrismaClient, Prisma } from '@prisma/client'
->>>>>>> 7498c52e4b6fd1088dfc841e18e9236fa7c0f83d
 
 class Tag {
     id: number;
