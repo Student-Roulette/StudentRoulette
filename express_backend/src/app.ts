@@ -12,6 +12,7 @@ const DAILY = "0 1 * * *";
 const MINUTELY = "* * * * *";
 
 const upsert_events = async (verbose=false) => {
+  console.log("Updating (upserting) events!")
   axios.get('https://api.presence.io/twin-cities-umn/v1/events')
     .then((res => {
       const events = res.data;
@@ -35,6 +36,9 @@ const upsert_events = async (verbose=false) => {
               presenceId: event.eventNoSqlId,
             },
           });
+          if (verbose) {
+            console.log(`Upserted event with name ${event.eventName}`)
+          }
         })
       }
     }));
