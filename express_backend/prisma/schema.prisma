@@ -15,11 +15,11 @@ model Tag {
   id          Int          @id @default(autoincrement())
   createdAt   DateTime @default(now())
   updatedAt   DateTime @updatedAt
-  name        String
+  name        String       @unique
   parentId    Int?
   parent      Tag?         @relation("Parent", fields: [parentId], references: [id])
   children    Tag[]        @relation("Parent")
-  attractions Attraction[] @relation("AttractionTags")
+  attractions Attraction[] 
 }
 
 model Attraction {
@@ -31,7 +31,7 @@ model Attraction {
   startTime   DateTime
   endTime     DateTime
   presenceId  String?  @unique
-  tags        Tag[]    @relation("AttractionTags")
+  tags        Tag[]    
 
 }
 
