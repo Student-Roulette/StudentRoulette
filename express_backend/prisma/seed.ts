@@ -21,7 +21,7 @@ function generateAttraction() {
 
 const seed_events = async (verbose=false) => {
   axios.get('https://api.presence.io/twin-cities-umn/v1/events')
-  .then((res) => {
+	.then((res) => {
     const events = res.data;
     if (Array.isArray(events)) {
       events.forEach(async (event) => {

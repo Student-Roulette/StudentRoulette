@@ -30,7 +30,7 @@ model Attraction {
   description String? 
   startTime   DateTime
   endTime     DateTime
-  presenceId  String?
+  presenceId  String?  @unique
   tags        Tag[]    @relation("AttractionTags")
 
 }
