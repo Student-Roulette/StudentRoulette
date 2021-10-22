@@ -5,6 +5,7 @@ import morgan from "morgan";
 import dotenv from "dotenv";
 import cron from "node-cron";
 import axios from "axios";
+import { decode } from "he";
 
 // Cron pattern to run daily
 // (don't worry about it)
@@ -41,14 +42,14 @@ const upsert_events = async (verbose = false) => {
       },
       update: {
         name: event.eventName,
-        description: event.description?.replace(/<[^>]*>?/gm, ""),
+        description: event.description ? decode(event.description) : null,
         startTime: event.startDateTimeUtc,
         endTime: event.endDateTimeUtc,
         tags: { connectOrCreate: tag_inserts },
       },
       create: {
         name: event.eventName,
-        description: event.description?.replace(/<[^>]*>?/gm, ""),
+        description: event.description ? decode(event.description) : null,
         startTime: event.startDateTimeUtc,
         endTime: event.endDateTimeUtc,
         presenceId: event.eventNoSqlId,

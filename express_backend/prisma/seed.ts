@@ -1,5 +1,6 @@
 import { PrismaClient } from "@prisma/client";
 import axios from "axios";
+import { decode } from "he";
 import { Event } from "../src/app";
 
 const prisma = new PrismaClient();
@@ -22,7 +23,7 @@ const seed_events = async (verbose = false) => {
       const attraction = await prisma.attraction.create({
         data: {
           name: event.eventName,
-          description: event.description?.replace(/<[^>]*>?/gm, ""),
+          description: event.description ? decode(event.description) : null,
           startTime: event.startDateTimeUtc,
           endTime: event.endDateTimeUtc,
           presenceId: event.eventNoSqlId,
