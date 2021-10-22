@@ -22,7 +22,7 @@ const seed_events = async (verbose = false) => {
       const attraction = await prisma.attraction.create({
         data: {
           name: event.eventName,
-          description: event.description,
+          description: event.description?.replace(/<[^>]*>?/gm, ""),
           startTime: event.startDateTimeUtc,
           endTime: event.endDateTimeUtc,
           presenceId: event.eventNoSqlId,

@@ -41,14 +41,14 @@ const upsert_events = async (verbose = false) => {
       },
       update: {
         name: event.eventName,
-        description: event.description,
+        description: event.description?.replace(/<[^>]*>?/gm, ""),
         startTime: event.startDateTimeUtc,
         endTime: event.endDateTimeUtc,
         tags: { connectOrCreate: tag_inserts },
       },
       create: {
         name: event.eventName,
-        description: event.description,
+        description: event.description?.replace(/<[^>]*>?/gm, ""),
         startTime: event.startDateTimeUtc,
         endTime: event.endDateTimeUtc,
         presenceId: event.eventNoSqlId,
