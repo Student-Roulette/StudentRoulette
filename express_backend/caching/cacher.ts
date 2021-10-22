@@ -4,7 +4,7 @@ class Tag {
     id: number;
     createdAt: Date;
     updatedAt: Date;
-    name: String;
+    name: string;
     parentID: number;
 }
 
@@ -12,8 +12,8 @@ class Attraction {
     id: number;
     createdAt: Date;
     updatedAt: Date;
-    name: String;
-    description: String;
+    name: string;
+    description: string;
     startTime: Date;
     endTime: Date;
     tags: Tag[];
@@ -39,11 +39,11 @@ function retrieveAttraction(attraction : Attraction) {
         //id : attraction.id,
         //createdAt: attraction.createdAt,
         //updatedAt: attraction.updatedAt,
-		name: attraction.name,
+        name: attraction.name,
         description: attraction.description,
-		startTime: attraction.startTime,
-		endTime: attraction.endTime,
-        tags: attraction.tags,
+        startTime: attraction.startTime,
+        endTime: attraction.endTime,
+        // tags: attractionList[i].tags,
 	}
 }
 
@@ -102,7 +102,7 @@ async function pushToDB() {
     console.log(`Pushing attractions to DB...`)
     for (let i = 0; i < attractionList.length; i++){
         const attraction = await prisma.attraction.create({
-            data: retrieveAttraction(attractionList[i]),
+            data: retrieveAttraction(attractionList[i])
 		})
         console.log(`Pushed attraction to DB with id: ${attraction.id}`)
     }
