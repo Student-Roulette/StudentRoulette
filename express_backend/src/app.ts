@@ -3,6 +3,56 @@ import express from 'express'
 import cors from 'cors'
 import morgan from 'morgan'
 import dotenv from 'dotenv'
+import cron from 'node-cron'
+import axios from 'axios'
+
+// Cron pattern to run daily
+// (don't worry about it)
+const DAILY = "0 1 * * *";
+const MINUTELY = "* * * * *";
+
+const upsert_events = async (verbose = false) => {
+  console.log("Updating (upserting) events!")
+  const res = await axios.get('https://api.presence.io/twin-cities-umn/v1/events')
+  const events: any = res.data; // TODO: repent
+  events?.forEach(async (event) => {
+    const tag_inserts = event.tags.map((tag) => ({
+      where: {
+        name: tag
+      },
+      create: {
+        name: tag
+      }
+    }));
+    const attraction = await prisma.attraction.upsert({
+      where: {
+        presenceId: event.eventNoSqlId,
+      },
+      update: {
+        name: event.eventName,
+        description: event.description,
+        startTime: event.startDateTimeUtc,
+        endTime: event.endDateTimeUtc,
+        tags: { connectOrCreate: tag_inserts }
+      },
+      create: {
+        name: event.eventName,
+        description: event.description,
+        startTime: event.startDateTimeUtc,
+        endTime: event.endDateTimeUtc,
+        presenceId: event.eventNoSqlId,
+        tags: { connectOrCreate: tag_inserts }
+      },
+    });
+    if (verbose) {
+      console.log(`Upserted event with name ${attraction.name}`)
+    }
+  })
+}
+
+cron.schedule(MINUTELY, () => {
+  upsert_events();
+})
 
 const envFound = dotenv.config();
 
@@ -10,9 +60,10 @@ if (envFound.error) {
   throw new Error('.env file not found');
 }
 
+//scrape_events();
 const app = express()
 const prisma = new PrismaClient()
-const port = process.env.PORT 
+const port = process.env.PORT
 
 app.use(morgan('dev'))
 app.use(express.json())
@@ -35,21 +86,21 @@ app.post('/event', async (req, res) => {
   console.log(req.body)
   const { name, description, startTime, endTime } = req.body
   const result = await prisma.attraction.create({
-      data: {
-        name,
-        description,
-        startTime,
-        endTime,
-      }
+    data: {
+      name,
+      description,
+      startTime,
+      endTime,
+    }
   })
   res.json(result)
 })
 
 app.get('/event/:id', async (req, res) => {
   const { id } = req.params
-  const event = await prisma.attraction.findUnique({ 
-    where: { 
-      id: Number(id), 
+  const event = await prisma.attraction.findUnique({
+    where: {
+      id: Number(id),
     }
   })
   res.json(event)

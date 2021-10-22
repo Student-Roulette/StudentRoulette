@@ -3,3 +3,4 @@ build/
 out/
 dist/
 .expo/
+express_backend/prisma/events.json

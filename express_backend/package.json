@@ -16,11 +16,15 @@
   "dependencies": {
     "@prisma/client": "^3.1.1",
     "@types/faker": "^5.5.8",
+    "@types/node-cron": "^3.0.0",
+    "axios": "^0.23.0",
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "faker": "^5.5.3",
-    "morgan": "^1.10.0"
+    "https": "^1.0.0",
+    "morgan": "^1.10.0",
+    "node-cron": "^3.0.0"
   },
   "prisma": {
     "seed": "ts-node prisma/seed.ts"
