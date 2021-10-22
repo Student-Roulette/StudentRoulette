@@ -40,9 +40,9 @@ function retrieveTag(tag : Tag) {
 
 function retrieveAttraction(attraction : Attraction) {
 	return {
-        id : attraction.id,
-        createdAt: attraction.createdAt,
-        updatedAt: attraction.updatedAt,
+        //id : attraction.id,
+        //createdAt: attraction.createdAt,
+        //updatedAt: attraction.updatedAt,
 		name: attraction.name,
         description: attraction.description,
 		startTime: attraction.startTime,
@@ -90,7 +90,7 @@ function pullFromMaps() {
 
 async function pushToDB() {
     console.log('Attempting to push to DB...')
-    const prisma = new PrismaClient()
+    const prisma = new PrismaClient();
 
     /*
     console.log(`Pushing tags to DB...`)
