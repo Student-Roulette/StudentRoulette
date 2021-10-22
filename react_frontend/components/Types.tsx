@@ -11,12 +11,12 @@ interface Tag {
 
 interface Attraction {
     id: number;
-    createdAt: Date;
-    updatedAt: Date;
+    createdAt: string;
+    updatedAt: string;
     name: string;
     description?: string;
-    startTime?: Date;
-    endTime?: Date;
+    startTime: string;
+    endTime: string;
     tags?: Tag[];
 };
 

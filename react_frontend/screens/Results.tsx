@@ -10,8 +10,8 @@ function Results(props: any) { // { results: [{ title: string, startTime: number
         <MaterialCardWithImageAndTitle
           key={result.id}
           title={result.name}
-          startTime={result.startTime}
-          endTime={result.endTime}
+          startTime={new Date(result.startTime)}
+          endTime={new Date(result.endTime)}
           style={styles.materialCardWithImageAndTitle}
         ></MaterialCardWithImageAndTitle>
       )}

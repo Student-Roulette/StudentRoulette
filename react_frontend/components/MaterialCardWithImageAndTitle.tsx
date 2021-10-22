@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { StyleSheet, View, Text, Image, TouchableOpacity } from "react-native";
 
-function MaterialCardWithImageAndTitle(props : any) {
+function MaterialCardWithImageAndTitle(props: any) {
 
   const getTimeString = (hours: number, minutes: number): string => {
     let tmpDate: Date = new Date();

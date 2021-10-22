@@ -27,16 +27,10 @@ function Search(props: any) {
     }
   }
 
-  const handleSearchStart = async () =>{
-
-    let results : Attraction[] = [];
-    for (var i = 0;i<10;i++){
-      results.push({id:i, createdAt:new Date(),updatedAt:new Date(), name:`Thing_${i}`});
-    }
-
-    // let events = await GetEvents();
-    // console.log(events);
-    props.navigation.navigate('Results',{results: results});
+  const handleSearchStart = async () => {
+    let results = await GetEvents();
+    console.log(results);
+    props.navigation.navigate('Results', { results: results });
   }
 
   return (
@@ -84,8 +78,8 @@ const styles = StyleSheet.create({
     marginTop: 27,
     alignSelf: "center"
   },
-  searchButtonTextStyle:{
-    fontSize:20
+  searchButtonTextStyle: {
+    fontSize: 20
   }
 });
 
