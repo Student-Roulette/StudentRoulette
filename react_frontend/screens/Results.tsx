@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { StyleSheet, View, Text } from "react-native";
-import { foundEvents } from "../components/Globals";
 import MaterialCardWithImageAndTitle from "../components/MaterialCardWithImageAndTitle";
 import { Attraction } from "../components/Types";
 
