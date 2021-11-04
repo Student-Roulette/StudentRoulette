@@ -40,6 +40,20 @@ model Group {
   members User[] @relation("GroupMembers")
 }
 
+model TimeRange {
+  id Int @id @default(autoincrement())
+  startTime   DateTime
+  endTime     DateTime
+  schedule Schedule @relation("Times", fields: [scheduleId], references: [id])
+  scheduleId Int
+}
+
+model Schedule {
+  id          Int      @id @default(autoincrement())
+  times TimeRange[] @relation("Times")
+  event       Attraction? @relation("EventSchedule")
+}
+
 model Attraction {
   id          Int      @id @default(autoincrement())
   createdAt   DateTime @default(now())
@@ -47,8 +61,8 @@ model Attraction {
   name        String   @db.VarChar(255)
   address String @db.VarChar(255) // human readable???
   description String? 
-  startTime   DateTime
-  endTime     DateTime
+  schedule    Schedule @relation("EventSchedule", fields: [timeId], references: [id])
+  timeId      Int 
   presenceId  String?  @unique
   tags        Tag[]    
   author      String
