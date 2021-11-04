@@ -57,15 +57,17 @@ model TimeRange {
 }
 
 model Schedule {
-  id    Int         @id @default(autoincrement())
-  times TimeRange[] @relation("Times")
-  event Attraction? @relation("EventSchedule")
+  id        Int         @id @default(autoincrement())
+  frequency String
+  times     TimeRange[] @relation("Times")
+  event     Attraction? @relation("EventSchedule")
 }
 
 model Attraction {
-  id          Int      @id @default(autoincrement())
-  createdAt   DateTime @default(now())
-  updatedAt   DateTime @updatedAt
+  id        Int      @id @default(autoincrement())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
   name        String   @db.VarChar(255)
   address     String   @db.VarChar(255) // human readable???
   description String?
