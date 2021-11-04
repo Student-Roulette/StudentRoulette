@@ -13,45 +13,45 @@ generator client {
 
 model Tag {
   id          Int          @id @default(autoincrement())
-  createdAt   DateTime @default(now())
-  updatedAt   DateTime @updatedAt
+  createdAt   DateTime     @default(now())
+  updatedAt   DateTime     @updatedAt
   name        String       @unique
   parentId    Int?
   parent      Tag?         @relation("Parent", fields: [parentId], references: [id])
   children    Tag[]        @relation("Parent")
-  attractions Attraction[] 
+  attractions Attraction[]
 }
 
 model User {
-  id Int @id @default(autoincrement())
+  id        Int      @id @default(autoincrement())
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
-  name String
-  email String @unique
-  banned Boolean
-  groups Group[] @relation("GroupMembers")
+  name      String
+  email     String   @unique
+  banned    Boolean
+  groups    Group[]  @relation("GroupMembers")
 }
 
 model Group {
-  id Int @id @default(autoincrement())
+  id        Int      @id @default(autoincrement())
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
-  name String @db.VarChar(255)
-  members User[] @relation("GroupMembers")
+  name      String   @db.VarChar(255)
+  members   User[]   @relation("GroupMembers")
 }
 
 model TimeRange {
-  id Int @id @default(autoincrement())
-  startTime   DateTime
-  endTime     DateTime
-  schedule Schedule @relation("Times", fields: [scheduleId], references: [id])
+  id         Int      @id @default(autoincrement())
+  startTime  DateTime
+  endTime    DateTime
+  schedule   Schedule @relation("Times", fields: [scheduleId], references: [id])
   scheduleId Int
 }
 
 model Schedule {
-  id          Int      @id @default(autoincrement())
+  id    Int         @id @default(autoincrement())
   times TimeRange[] @relation("Times")
-  event       Attraction? @relation("EventSchedule")
+  event Attraction? @relation("EventSchedule")
 }
 
 model Attraction {
@@ -59,12 +59,12 @@ model Attraction {
   createdAt   DateTime @default(now())
   updatedAt   DateTime @updatedAt
   name        String   @db.VarChar(255)
-  address String @db.VarChar(255) // human readable???
-  description String? 
+  address     String   @db.VarChar(255) // human readable???
+  description String?
   schedule    Schedule @relation("EventSchedule", fields: [timeId], references: [id])
-  timeId      Int 
+  timeId      Int
   presenceId  String?  @unique
-  tags        Tag[]    
+  tags        Tag[]
   author      String
   group       String
 }
