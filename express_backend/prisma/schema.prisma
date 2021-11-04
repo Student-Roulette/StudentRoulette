@@ -45,6 +45,7 @@ model Attraction {
   createdAt   DateTime @default(now())
   updatedAt   DateTime @updatedAt
   name        String   @db.VarChar(255)
+  address String @db.VarChar(255) // human readable???
   description String? 
   startTime   DateTime
   endTime     DateTime
