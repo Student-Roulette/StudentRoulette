@@ -71,8 +71,8 @@ model Attraction {
   name        String   @db.VarChar(255)
   address     String   @db.VarChar(255) // human readable???
   description String?
-  schedule    Schedule @relation("EventSchedule", fields: [timeId], references: [id])
-  timeId      Int
+  schedule    Schedule @relation("EventSchedule", fields: [scheduleId], references: [id])
+  scheduleId  Int
   presenceId  String?  @unique
   tags        Tag[]
   author      String
