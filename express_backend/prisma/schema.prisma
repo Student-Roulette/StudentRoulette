@@ -28,10 +28,11 @@ model User {
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
 
-  name   String
-  email  String  @unique
-  banned Boolean
-  groups Group[] @relation("GroupMembers")
+  name    String
+  email   String  @unique
+  banned  Boolean
+  groups  Group[] @relation("GroupMembers")
+  founded Group[] @relation("Founder")
 }
 
 model Group {
@@ -43,6 +44,8 @@ model Group {
   description String
   verified    Boolean
   members     User[]  @relation("GroupMembers")
+  founder     User    @relation("Founder", fields: [founderId], references: [id])
+  founderId   Int
 }
 
 model TimeRange {
