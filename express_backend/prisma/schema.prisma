@@ -39,7 +39,7 @@ model Group {
   createdAt   DateTime     @default(now())
   updatedAt   DateTime     @updatedAt
   name        String
-  description String
+  description String?
   verified    Boolean
   members     User[]       @relation("GroupMembers")
   attractions Attraction[] @relation("GroupEvents")
