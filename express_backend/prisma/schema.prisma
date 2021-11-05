@@ -23,26 +23,27 @@ model Tag {
 }
 
 model User {
-  id        Int          @id @default(autoincrement())
-  createdAt DateTime     @default(now())
-  updatedAt DateTime     @updatedAt
-  name      String
-  email     String       @unique
-  banned    Boolean
-  groups    Group[]      @relation("GroupMembers")
-  founded   Group[]      @relation("GroupCreator")
-  created   Attraction[] @relation("EventCreator")
+  id             Int          @id @default(autoincrement())
+  createdAt      DateTime     @default(now())
+  updatedAt      DateTime     @updatedAt
+  name           String
+  email          String       @unique
+  banned         Boolean
+  groups         Group[]      @relation("GroupMembers")
+  groups_created Group[]      @relation("GroupCreator")
+  events_created Attraction[] @relation("EventCreator")
 }
 
 model Group {
-  id          Int      @id @default(autoincrement())
-  createdAt   DateTime @default(now())
-  updatedAt   DateTime @updatedAt
-  name        String   
+  id          Int          @id @default(autoincrement())
+  createdAt   DateTime     @default(now())
+  updatedAt   DateTime     @updatedAt
+  name        String
   description String
   verified    Boolean
-  members     User[]   @relation("GroupMembers")
-  creator     User     @relation("GroupCreator", fields: [creatorId], references: [id])
+  members     User[]       @relation("GroupMembers")
+  attractions Attraction[] @relation("GroupEvents")
+  creator     User         @relation("GroupCreator", fields: [creatorId], references: [id])
   creatorId   Int
 }
 
@@ -65,8 +66,8 @@ model Attraction {
   id          Int      @id @default(autoincrement())
   createdAt   DateTime @default(now())
   updatedAt   DateTime @updatedAt
-  name        String   
-  address     String   // human readable???
+  name        String
+  address     String // human readable???
   description String?
   schedule    Schedule @relation("AttractionSchedule", fields: [scheduleId], references: [id])
   scheduleId  Int
@@ -74,5 +75,6 @@ model Attraction {
   tags        Tag[]
   creator     User     @relation("EventCreator", fields: [creatorId], references: [id])
   creatorId   Int
-  group       String
+  group       Group    @relation("GroupEvents", fields: [groupId], references: [id])
+  groupId     Int
 }
