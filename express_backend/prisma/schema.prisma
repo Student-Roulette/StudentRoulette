@@ -17,8 +17,8 @@ model Tag {
   updatedAt   DateTime     @updatedAt
   name        String       @unique
   parentId    Int?
-  parent      Tag?         @relation("Parent", fields: [parentId], references: [id])
-  children    Tag[]        @relation("Parent")
+  parent      Tag?         @relation("TagHierarchy", fields: [parentId], references: [id])
+  children    Tag[]        @relation("TagHierarchy")
   attractions Attraction[]
 }
 
@@ -38,7 +38,7 @@ model Group {
   id          Int      @id @default(autoincrement())
   createdAt   DateTime @default(now())
   updatedAt   DateTime @updatedAt
-  name        String   @db.VarChar(255)
+  name        String   
   description String
   verified    Boolean
   members     User[]   @relation("GroupMembers")
@@ -65,8 +65,8 @@ model Attraction {
   id          Int      @id @default(autoincrement())
   createdAt   DateTime @default(now())
   updatedAt   DateTime @updatedAt
-  name        String   @db.VarChar(255)
-  address     String   @db.VarChar(255) // human readable???
+  name        String   
+  address     String   // human readable???
   description String?
   schedule    Schedule @relation("AttractionSchedule", fields: [scheduleId], references: [id])
   scheduleId  Int
