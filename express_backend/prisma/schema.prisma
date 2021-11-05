@@ -57,7 +57,7 @@ model TimeRange {
 
 model Schedule {
   id        Int         @id @default(autoincrement())
-  frequency String
+  frequency String?
   times     TimeRange[] @relation("Times")
   event     Attraction? @relation("AttractionSchedule")
 }
