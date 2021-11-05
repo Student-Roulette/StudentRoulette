@@ -12,10 +12,9 @@ generator client {
 }
 
 model Tag {
-  id        Int      @id @default(autoincrement())
-  createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
-
+  id          Int          @id @default(autoincrement())
+  createdAt   DateTime     @default(now())
+  updatedAt   DateTime     @updatedAt
   name        String       @unique
   parentId    Int?
   parent      Tag?         @relation("Parent", fields: [parentId], references: [id])
@@ -24,28 +23,27 @@ model Tag {
 }
 
 model User {
-  id        Int      @id @default(autoincrement())
-  createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
-
-  name    String
-  email   String  @unique
-  banned  Boolean
-  groups  Group[] @relation("GroupMembers")
-  founded Group[] @relation("Founder")
+  id        Int          @id @default(autoincrement())
+  createdAt DateTime     @default(now())
+  updatedAt DateTime     @updatedAt
+  name      String
+  email     String       @unique
+  banned    Boolean
+  groups    Group[]      @relation("GroupMembers")
+  founded   Group[]      @relation("GroupCreator")
+  created   Attraction[] @relation("EventCreator")
 }
 
 model Group {
-  id        Int      @id @default(autoincrement())
-  createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
-
-  name        String  @db.VarChar(255)
+  id          Int      @id @default(autoincrement())
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  name        String   @db.VarChar(255)
   description String
   verified    Boolean
-  members     User[]  @relation("GroupMembers")
-  founder     User    @relation("Founder", fields: [founderId], references: [id])
-  founderId   Int
+  members     User[]   @relation("GroupMembers")
+  creator     User     @relation("GroupCreator", fields: [creatorId], references: [id])
+  creatorId   Int
 }
 
 model TimeRange {
@@ -60,21 +58,21 @@ model Schedule {
   id        Int         @id @default(autoincrement())
   frequency String
   times     TimeRange[] @relation("Times")
-  event     Attraction? @relation("EventSchedule")
+  event     Attraction? @relation("AttractionSchedule")
 }
 
 model Attraction {
-  id        Int      @id @default(autoincrement())
-  createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
-
+  id          Int      @id @default(autoincrement())
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
   name        String   @db.VarChar(255)
   address     String   @db.VarChar(255) // human readable???
   description String?
-  schedule    Schedule @relation("EventSchedule", fields: [scheduleId], references: [id])
+  schedule    Schedule @relation("AttractionSchedule", fields: [scheduleId], references: [id])
   scheduleId  Int
   presenceId  String?  @unique
   tags        Tag[]
-  author      String
+  creator     User     @relation("EventCreator", fields: [creatorId], references: [id])
+  creatorId   Int
   group       String
 }
