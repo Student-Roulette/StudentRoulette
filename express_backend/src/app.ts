@@ -17,6 +17,7 @@ export interface Event {
   startDateTimeUtc: Date;
   endDateTimeUtc: Date;
   eventNoSqlId: string;
+  location: string;
   tags: string[];
 }
 
@@ -42,15 +43,33 @@ const upsert_events = async (verbose = false) => {
       update: {
         name: event.eventName,
         description: event.description?.replace(/<[^>]*>?/gm, ""),
-        startTime: event.startDateTimeUtc,
-        endTime: event.endDateTimeUtc,
+        address: event.location,
+        schedule: {
+          create: {
+            times: {
+              create: {
+                startTime: event.startDateTimeUtc,
+                endTime: event.endDateTimeUtc,
+              },
+            },
+          },
+        },
         tags: { connectOrCreate: tag_inserts },
       },
       create: {
         name: event.eventName,
         description: event.description?.replace(/<[^>]*>?/gm, ""),
-        startTime: event.startDateTimeUtc,
-        endTime: event.endDateTimeUtc,
+        address: event.location,
+        schedule: {
+          create: {
+            times: {
+              create: {
+                startTime: event.startDateTimeUtc,
+                endTime: event.endDateTimeUtc,
+              },
+            },
+          },
+        },
         presenceId: event.eventNoSqlId,
         tags: { connectOrCreate: tag_inserts },
       },
@@ -96,13 +115,22 @@ app.get("/up", async (req, res) => {
 
 app.post("/event", async (req, res) => {
   console.log(req.body);
-  const { name, description, startTime, endTime } = req.body;
+  const { name, description, address, startTime, endTime } = req.body;
   const result = await prisma.attraction.create({
     data: {
       name,
       description,
-      startTime,
-      endTime,
+      address,
+      schedule: {
+        create: {
+          times: {
+            create: {
+              startTime: startTime,
+              endTime: endTime,
+            },
+          },
+        },
+      },
     },
   });
   res.json(result);

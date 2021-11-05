@@ -73,8 +73,8 @@ model Attraction {
   scheduleId  Int
   presenceId  String?  @unique
   tags        Tag[]
-  creator     User     @relation("EventCreator", fields: [creatorId], references: [id])
-  creatorId   Int
-  group       Group    @relation("GroupEvents", fields: [groupId], references: [id])
-  groupId     Int
+  creator     User?    @relation("EventCreator", fields: [creatorId], references: [id])
+  creatorId   Int?
+  group       Group?   @relation("GroupEvents", fields: [groupId], references: [id])
+  groupId     Int?
 }
