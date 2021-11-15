@@ -10,6 +10,7 @@ const seed_events = async (verbose = false) => {
     "https://api.presence.io/twin-cities-umn/v1/events"
   );
   const events: Event[] = res.data as Event[];
+
   if (Array.isArray(events)) {
     for (const event of events) {
       const tag_inserts = event.tags.map((tag) => ({
