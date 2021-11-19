@@ -2,13 +2,9 @@ import React from "react";
 import { StyleSheet, View, Text, FlatList, Animated } from "react-native";
 import MaterialButton from "../components/MaterialButton";
 import MaterialCardWithImageAndTitle from "../components/MaterialCardWithImageAndTitle";
+import GetDummyAttractions from "../components/DummyCalls";
 
 function SplashScreen(props: any) {
-  let TEMP_DATA: Attraction[] = [];
-  for (var i = 0;i<10;i++){
-    var time: Date = new Date();
-    TEMP_DATA.push({id:i, createdAt:time.toString(),updatedAt:time.toString(), name:`Thing_${i}`, startTime:`${i}`, endTime:`${i+1}`});
-  }
   const renderCard = ({item} : {item : Attraction}) => (
     <MaterialCardWithImageAndTitle
       key={item.id}
@@ -32,7 +28,7 @@ function SplashScreen(props: any) {
       <Text>Trending/Upcoming</Text>
       <FlatList 
         horizontal={true} 
-        data={TEMP_DATA} 
+        data={GetDummyAttractions()} 
         renderItem={renderCard}
         showsHorizontalScrollIndicator={false}
         showsVerticalScrollIndicator={false}
