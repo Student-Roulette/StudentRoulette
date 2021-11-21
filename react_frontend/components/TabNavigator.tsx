@@ -1,8 +1,7 @@
 import React, { Component } from "react";
 import {createBottomTabNavigator} from "@react-navigation/bottom-tabs";
 import { StyleSheet, TouchableOpacity, Text, View } from "react-native";
-import SplashScreen from "../screens/SplashScreen";
-import SearchStackNavigator from "../components/StackNavigators"
+import { SearchStackNavigator, MainPageNavigator } from "../components/StackNavigators"
 import { MaterialCommunityIcons } from '@expo/vector-icons';
 
 
@@ -17,17 +16,19 @@ function TabNavigator(){
             }
         }}>
             <Tab.Screen 
-                name="Mainpage" 
-                component={SplashScreen}
-                options={{tabBarIcon: ({focused}) => (
-                    <View>
-                        <MaterialCommunityIcons
-                            name={"home"}
-                            style={focused ? styles.icon : styles.icon_muted}
-                        />
-                        <Text style={styles.text}>Homepage</Text>
-                    </View>
-                )}}      
+                name="MainPage" 
+                component={MainPageNavigator}
+                options={{
+                    headerShown:false,
+                    tabBarIcon: ({focused}) => (
+                        <View>
+                            <MaterialCommunityIcons
+                                name={"home"}
+                                style={focused ? styles.icon : styles.icon_muted}
+                            />
+                            <Text style={styles.text}>Events</Text>
+                        </View>
+                )}} 
             />
             <Tab.Screen 
                 name="Search" 
