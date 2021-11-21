@@ -13,7 +13,7 @@ function TabNavigator(){
             tabBarShowLabel:false,
             tabBarStyle:{
                 position: 'absolute',
-                height: 90,
+                height: 69,
             }
         }}>
             <Tab.Screen 
