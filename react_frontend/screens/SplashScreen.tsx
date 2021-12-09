@@ -3,6 +3,7 @@ import { StyleSheet, View, Text, FlatList, Animated } from "react-native";
 import MaterialButton from "../components/MaterialButton";
 import MaterialCardWithImageAndTitle from "../components/MaterialCardWithImageAndTitle";
 import GetDummyAttractions from "../components/DummyCalls";
+import GroupRow from "../components/GroupRow";
 
 function SplashScreen(props: any) {
   const renderCard = ({item} : {item : Attraction}) => (
@@ -36,6 +37,7 @@ function SplashScreen(props: any) {
         decelerationRate="fast"
         >
       </FlatList>
+      <GroupRow Name={"Group Name"}></GroupRow>
     </View>
   );
 }
