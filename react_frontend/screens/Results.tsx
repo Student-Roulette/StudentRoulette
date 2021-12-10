@@ -1,12 +1,13 @@
 import React, { Component } from "react";
 import { StyleSheet, View, Text } from "react-native";
 import MaterialCardWithImageAndTitle from "../components/MaterialCardWithImageAndTitle";
+import { Attraction } from "../components/Types";
 
 function Results(props: any) { // { results: [{ title: string, startTime: number, endTime: number, tags: [{ name: string }] }] }
 
   return (
-    <View style={styles.container}>      
-      {props.route.params.results.map((result: Attraction) =>
+    <View style={styles.container}>
+      {global.foundEvents.map((result: Attraction) =>
         <MaterialCardWithImageAndTitle
           key={result.id}
           title={result.name}
@@ -15,7 +16,7 @@ function Results(props: any) { // { results: [{ title: string, startTime: number
           style={styles.materialCardWithImageAndTitle}
         ></MaterialCardWithImageAndTitle>
       )}
-      {props.route.params.results === undefined &&
+      {global.foundEvents.length == 0 &&
         <>
           <Text>No Results Found...</Text>
         </>
