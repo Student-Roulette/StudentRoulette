@@ -6,8 +6,8 @@ import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import Search from "./screens/Search";
 import { useFonts, Roboto_400Regular } from "@expo-google-fonts/roboto";
 import Results from "./screens/Results";
+import TabNavigator from "./components/TabNavigator";
 
-const Stack = createNativeStackNavigator();
 const lightTheme = {
   dark: false,
   colors: {
@@ -30,11 +30,7 @@ export default function App() {
     return (
       <SafeAreaView style={styles.container}>
         <NavigationContainer theme={lightTheme}>
-          <Stack.Navigator initialRouteName="SplashScreen">
-            <Stack.Screen name="SplashScreen" component={SplashScreen} />
-            <Stack.Screen name="Search" component={Search} />
-            <Stack.Screen name="Results" component={Results} />
-          </Stack.Navigator>
+          <TabNavigator></TabNavigator>
         </NavigationContainer>
       </SafeAreaView>
     );
