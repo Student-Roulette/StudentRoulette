@@ -27,10 +27,9 @@ function Search(props: any) {
     }
   }
 
-  const handleSearchStart = async () => {
-    let results = await GetEvents();
-    console.log(results);
-    props.navigation.navigate('Results', { results: results });
+  const handleSearchStart = async () => {  
+    global.foundEvents = await GetEvents();
+    props.navigation.navigate('Results');
   }
 
   return (

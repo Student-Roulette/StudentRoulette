@@ -1,4 +1,9 @@
-const GetAttractions = async () => {
+import { Attraction } from "./Types";
+
+const GetEvents = async (take: number = 0, skip: number = 0) => {
+
+    let events: Attraction[] = [];
+
     try {
         const response = await fetch('http://localhost:3000/events/', {
             method: 'GET',
@@ -8,19 +13,21 @@ const GetAttractions = async () => {
             },
         })
 
-        //TODO convert string dates into date type.
-        let attractions : Attraction[] = await response.json();
-        return attractions;
-       // const json = await response.json();       
-       // return JSON.parse();
+        let data = await response.json();
+        data.forEach((event: any) => {
+            let newEvent: Attraction = new Attraction();
+            Object.entries(event).forEach((property: any) => {
+                newEvent[property['0']] = property['1'];
+            });
+            events.push(newEvent);
+        });
+        return events;
+
     } catch (error) {
         console.error(error)
     }
-
-
-    let emptyList : Attraction[] = [];
-    return emptyList;
+    return events;
 };
 
 
-export default GetAttractions;
+export default GetEvents;
