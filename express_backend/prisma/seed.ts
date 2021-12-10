@@ -24,8 +24,18 @@ const seed_events = async (verbose = false) => {
         data: {
           name: event.eventName,
           description: htmlParse(event.description),
-          startTime: event.startDateTimeUtc,
-          endTime: event.endDateTimeUtc,
+          address: event.location,
+          schedule: {
+            create: {
+              times: {
+                create: {
+                  startTime: event.startDateTimeUtc,
+                  endTime: event.endDateTimeUtc,
+                },
+              },
+            },
+          },
+
           presenceId: event.eventNoSqlId,
           tags: { connectOrCreate: tag_inserts },
         },
