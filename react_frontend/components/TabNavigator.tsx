@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import {createBottomTabNavigator} from "@react-navigation/bottom-tabs";
 import { StyleSheet, TouchableOpacity, Text, View } from "react-native";
-import { SearchStackNavigator, MainPageNavigator } from "../components/StackNavigators"
+import { SearchStackNavigator, MainPageNavigator, EventStackNavigator, GroupStackNavigator} from "../components/StackNavigators"
 import { MaterialCommunityIcons } from '@expo/vector-icons';
 
 
@@ -47,7 +47,7 @@ function TabNavigator(){
             />
             <Tab.Screen 
                 name="Events" 
-                component={SearchStackNavigator}
+                component={EventStackNavigator}
                 options={{
                     headerShown:false,
                     tabBarIcon: ({focused}) => (
@@ -62,7 +62,7 @@ function TabNavigator(){
             />
             <Tab.Screen 
                 name="Groups" 
-                component={SearchStackNavigator}
+                component={GroupStackNavigator}
                 options={{
                     headerShown:false,
                     tabBarIcon: ({focused}) => (
