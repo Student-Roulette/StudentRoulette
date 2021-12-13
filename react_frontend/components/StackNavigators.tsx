@@ -6,6 +6,7 @@ import SplashScreen from "../screens/SplashScreen";
 import MyGroups from "../screens/MyGroups";
 import GroupEdit from "../screens/GroupEdit";
 import Group from "../screens/Group";
+import MyEvents from "../screens/MyEvents";
 import EventEdit from "../screens/EventEdit";
 import Event from "../screens/Event";
 
@@ -31,7 +32,8 @@ function SearchStackNavigator(){
 function EventStackNavigator(){
       const Stack = createNativeStackNavigator();
     return (
-      <Stack.Navigator initialRouteName="Search">
+      <Stack.Navigator initialRouteName="MyEvents">
+        <Stack.Screen name="MyEvents" component={MyEvents} />
         <Stack.Screen name="Event" component={Event} />
         <Stack.Screen name="EventEdit" component={EventEdit} />
       </Stack.Navigator>
