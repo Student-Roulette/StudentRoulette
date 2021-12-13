@@ -41,19 +41,43 @@ function MyGroups(props: any) {
       UpcomingEvent:true
     },
   ]
-  return (    
-    <FlatList
-    style={styles.list}
-    data={TEMP_DATA}
-    renderItem={({item}) => GroupRow(item)}
-    showsVerticalScrollIndicator={false}
-    showsHorizontalScrollIndicator={false}
-    >  
-    </FlatList>
-  );
+  const Data = TEMP_DATA;
+  if (Data.length > 0){
+    return (    
+      <FlatList
+      style={styles.list}
+      data={TEMP_DATA}
+      renderItem={({item}) => GroupRow(item)}
+      showsVerticalScrollIndicator={false}
+      showsHorizontalScrollIndicator={false}
+      >  
+      </FlatList>
+    );
+  }
+  else{
+    return (
+      <View style={styles.noResultContainer}>
+          <Text style={styles.noResultTitle}>Looks like we couldn't find any groups.</Text>
+          <Text style={styles.noResultSubTitle}>Consider joining a group by searching for one!</Text>
+      </View>
+    );
+  }
 }
 
 const styles = StyleSheet.create({
+  noResultContainer:{
+      flex:1,
+      alignItems:"center",
+      justifyContent:"center",
+      textAlign:"center"
+  },
+  noResultTitle:{
+      fontSize:20
+  },
+  noResultSubTitle:{
+      fontSize:10,
+      color:"#757575"
+  },
   list:{
     paddingBottom:70
   }
