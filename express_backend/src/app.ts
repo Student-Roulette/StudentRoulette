@@ -147,6 +147,12 @@ app.get("/event/:id", async (req, res) => {
   res.json(event);
 });
 
+// returns all tags
+app.get(`/tags/list`, async (req, res) => {
+  const tags = await prisma.tag.findMany();
+  res.json(tags);
+})
+
 app.listen(port, () => {
   console.log(`App listening at localhost:${port}`);
 });
