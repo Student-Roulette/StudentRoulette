@@ -6,7 +6,10 @@ function EventEdit(props: any) {
   return (    
     <View>
       <Text>Event Editor</Text>
-      <EventEditForm></EventEditForm>
+      <EventEditForm 
+        initialGroupAffiliation={["Group1","Group2"]}
+        initialDescription="This should be in the textarea."
+      />
     </View>
   );
 }

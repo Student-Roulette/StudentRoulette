@@ -1,17 +1,21 @@
 import React, { Component } from "react";
 import { StyleSheet, Text, Button } from "react-native";
 import { withFormik, FormikProps, FormikErrors, Form, Field } from 'formik';
+import TimePicker from '../components/TimePicker';
+
+
+
+const PRIMARY_TAG_PLACEHOLDER: string[] = ["PT1","PT2","PT3"]; 
+const SECONDARY_TAG_PLACEHOLDER: string[] = ["ST1","ST2","ST3"];
 
 // Shape of form values
 interface FormValues {
     EventName:string,
-    GroupAffiliation:string, //TODO: Create Group Type.
+    GroupAffiliation:string[], //TODO: Create Group Type.
     Address:string,
     StartTime: Date,
     EndTime: Date,
     Description: string,
-    PrimaryTag: string, //TODO: Create Tag Type.
-    SecondaryTag: string
 }
 
 interface OtherProps {
@@ -22,11 +26,39 @@ const InnerForm = (props: OtherProps & FormikProps<FormValues>) => {
     const { touched, errors, isSubmitting, handleSubmit } = props;
     return (
       <Form>
-        <Field type="text" name="EventName" />
+        <Field type="text" name="EventName" placeholder="Event's Name"/>
         {touched.EventName && errors.EventName && <Text>{errors.EventName}</Text>}
   
-        <Field type="text" name="GroupAffiliation" />
+        <Field as="select" name="GroupAffiliation">
+            {props.initialValues.GroupAffiliation.map((val,index)=>{
+                return(<option key={val}>{val}</option>)
+            })}
+        </Field>
         {touched.GroupAffiliation && errors.GroupAffiliation && <Text>{errors.GroupAffiliation}</Text>}
+
+        <Field type="text" name="Address" placeholder="Location"/>
+        {touched.Address && errors.Address && <Text>{errors.Address}</Text>}
+
+        <Field component={TimePicker} name="StartTime" />
+        {touched.StartTime && errors.StartTime && <Text>{errors.StartTime}</Text>}
+
+        <Field component={TimePicker} name="EndTime" />
+        {touched.EndTime && errors.EndTime && <Text>{errors.EndTime}</Text>}
+
+        <Field as="textarea" name="Description" placeholder="Description of the Event"/>
+        {touched.Description && errors.Description && <Text>{errors.Description}</Text>}
+
+        <Field as="select" name="PrimaryTag" >
+            {PRIMARY_TAG_PLACEHOLDER.map((val,index)=>{
+                return(<option key={index}>{val}</option>)
+            })}
+        </Field>
+
+        <Field as="select" name="PrimaryTag" >
+            {SECONDARY_TAG_PLACEHOLDER.map((val,index)=>{
+                return(<option key={index}>{val}</option>)
+            })}
+        </Field>
   
         <Button title="Submit" onPress={handleSubmit as any} disabled={isSubmitting}/>
       </Form>
@@ -35,13 +67,11 @@ const InnerForm = (props: OtherProps & FormikProps<FormValues>) => {
 
 interface MyFormProps {
     initialEventName?:string,
-    initialGroupAffiliation?:string, //TODO: Create Group Type.
+    initialGroupAffiliation:string[], //TODO: Create Group Type.
     initialAddress?:string,
     initialStartTime?: Date,
     initialEndTime?: Date,
     initialDescription?: string,
-    initialPrimaryTag?: string, //TODO: Create Tag Type.
-    initialSecondaryTag?: string
 }
 
 const EventEditForm = withFormik<MyFormProps, FormValues>({
@@ -49,13 +79,11 @@ const EventEditForm = withFormik<MyFormProps, FormValues>({
    mapPropsToValues: props => {
      return {
        EventName: props.initialEventName || '',
-       GroupAffiliation: props.initialGroupAffiliation || '',
+       GroupAffiliation: props.initialGroupAffiliation,
        Address: props.initialAddress || '',
        StartTime: props.initialStartTime || new Date(),
        EndTime: props.initialEndTime || new Date(),
        Description: props.initialDescription || '',
-       PrimaryTag: props.initialPrimaryTag || '',
-       SecondaryTag: props.initialSecondaryTag || ''
      };
    },
  
