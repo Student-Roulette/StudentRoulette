@@ -1,11 +1,12 @@
 import React from "react";
 import { StyleSheet, View, Text } from "react-native";
-import MaterialButton from "../components/MaterialButton";
+import EventEditForm from "../components/EventEditForm"
 
 function EventEdit(props: any) {
   return (    
     <View>
       <Text>Event Editor</Text>
+      <EventEditForm></EventEditForm>
     </View>
   );
 }

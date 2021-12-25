@@ -31,7 +31,7 @@ function SearchStackNavigator(){
 function EventStackNavigator(){
       const Stack = createNativeStackNavigator();
     return (
-      <Stack.Navigator initialRouteName="Search">
+      <Stack.Navigator initialRouteName="EventEdit">
         <Stack.Screen name="Event" component={Event} />
         <Stack.Screen name="EventEdit" component={EventEdit} />
       </Stack.Navigator>
