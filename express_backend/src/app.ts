@@ -19,6 +19,7 @@ export interface Event {
   endDateTimeUtc: Date;
   eventNoSqlId: string;
   location: string;
+  organizationName: string;
   tags: string[];
 }
 

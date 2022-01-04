@@ -3,6 +3,12 @@ import axios from "axios";
 import { Event } from "../src/app";
 import { htmlParse } from "../src/util";
 
+export interface GroupInsert {
+  name: string;
+  verified: boolean;
+  creatorId: number;
+}
+
 const prisma = new PrismaClient();
 
 const seed_events = async (verbose = false) => {
@@ -11,6 +17,21 @@ const seed_events = async (verbose = false) => {
   );
   const events: Event[] = res.data as Event[];
   if (Array.isArray(events)) {
+    const groups = Array.from(
+      events.reduce((acc: Set<string>, el: Event) => {
+        acc.add(el.organizationName);
+        return acc;
+      }, new Set<string>())
+    ).map<GroupInsert>((group_name: string) => {
+      return {
+        name: group_name,
+        verified: true,
+        creatorId: 0,
+      };
+    });
+    await prisma.group.createMany({
+      data: { ...groups },
+    });
     for (const event of events) {
       const tag_inserts = event.tags.map((tag) => ({
         where: {
@@ -25,6 +46,11 @@ const seed_events = async (verbose = false) => {
           name: event.eventName,
           description: htmlParse(event.description),
           address: event.location,
+          group: {
+              where: {
+                name: event.organizationName,
+              }
+          },
           schedule: {
             create: {
               times: {
