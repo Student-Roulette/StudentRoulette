@@ -147,11 +147,55 @@ app.get("/event/:id", async (req, res) => {
   res.json(event);
 });
 
-// returns all tags
+// GET /tags/list
 app.get(`/tags/list`, async (req, res) => {
   const tags = await prisma.tag.findMany();
   res.json(tags);
-})
+});
+
+// GET tags/relations
+app.get("/tags/relations/:name", async (req, res) => {
+  const { name } = req.params;
+  const relations = await prisma.tag.findUnique({
+    where: {
+      name: String(name),
+    },
+    select: {
+      parent: true,
+      children: true,
+    },
+  });
+  res.json(relations);
+});
+
+// TODO - POST /tags/new
+
+// DEL /event/:id
+app.delete(`/event/:id`, async (req, res) => {
+  const { id } = req.params;
+  const event = await prisma.attraction.delete({
+    where: {
+      id: Number(id),
+    },
+  });
+  res.json(event);
+});
+
+// TODO GET /event/group
+// TODO GET /event/ongoing
+// TODO GET /event/tag/:tag
+// TODO PUT /event/:id
+
+// DEL /groups/:id
+app.delete(`/groups/:id`, async (req, res) => {
+  const { id } = req.params;
+  const event = await prisma.group.delete({
+    where: {
+      id: Number(id),
+    },
+  });
+  res.json(event);
+});
 
 app.listen(port, () => {
   console.log(`App listening at localhost:${port}`);
